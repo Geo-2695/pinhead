@@ -17433,6 +17433,26 @@
         ]
       },
       {
+        "newId": "person_standing_in_rectangle_under_arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
+      },
+      {
+        "newId": "two_people_standing_in_rectangle_under_arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "two_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
+      },
+      {
+        "newId": "three_people_standing_in_rectangle_under_arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
+      },
+      {
+        "newId": "crates_in_rectangle_under_arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "crates_in_rectangle_outline_under_arrow_up_beside_arrow_down"
+      },
+      {
         "oldId": "person_aiming_archery_bow",
         "newId": "person_standing_aiming_archery_bow"
       },
