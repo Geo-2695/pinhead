@@ -84,6 +84,7 @@ const relationalVerbs = [
   "jockeying",
   "kicking",
   "massaging",
+  "meeting",
   "paddling",
   "piloting",
   "racing",

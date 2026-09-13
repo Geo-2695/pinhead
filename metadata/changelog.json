@@ -20481,6 +20481,10 @@
         "newId": "person_squatting_beside_person_standing_reaching_up"
       },
       {
+        "oldId": "person_boat_racing_in_waves",
+        "newId": "person_racing_jetski_in_waves"
+      },
+      {
         "oldId": "person_on_swing",
         "newId": "person_sitting_on_swing"
       },
@@ -20491,6 +20495,10 @@
       {
         "oldId": "planes_bidirectional",
         "newId": "plane_top_right_and_plane_bottom_left"
+      },
+      {
+        "oldId": "shore",
+        "newId": "waters_meeting_shore"
       },
       {
         "oldId": "racquet",
