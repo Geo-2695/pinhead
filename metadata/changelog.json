@@ -20820,6 +20820,41 @@
         "by": "@quincylvania"
       },
       {
+        "oldId": "triangle_down",
+        "newId": "rounded_triangle_down",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_down_outline",
+        "newId": "rounded_triangle_down_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_down_squat",
+        "newId": "squat_rounded_triangle_down",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up",
+        "newId": "rounded_triangle_up",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up_with_exclamation_point",
+        "newId": "rounded_triangle_up_with_exclamation_point",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up_with_skull",
+        "newId": "rounded_triangle_up_with_skull",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up_outline",
+        "newId": "rounded_triangle_up_outline",
+        "issue": "451"
+      },
+      {
         "newId": "square",
         "by": "@quincylvania",
         "inspo": "rounded_square",
