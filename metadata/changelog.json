@@ -20831,13 +20831,109 @@
         "by": "@quincylvania"
       },
       {
+        "newId": "triangle_up",
+        "by": "@quincylvania",
+        "inspo": "rounded_triangle_up",
+        "issue": "451"
+      },
+      {
+        "newId": "triangle_up_with_plus",
+        "by": "@quincylvania",
+        "inspo": "triangle_up"
+      },
+      {
+        "newId": "triangle_down",
+        "by": "@quincylvania",
+        "inspo": "triangle_up",
+        "issue": "451"
+      },
+      {
+        "newId": "triangle_down_with_plus",
+        "by": "@quincylvania",
+        "inspo": "triangle_down"
+      },
+      {
+        "newId": "triangle_left",
+        "by": "@quincylvania",
+        "inspo": "triangle_up",
+        "issue": "451"
+      },
+      {
+        "newId": "triangle_left_with_plus",
+        "by": "@quincylvania",
+        "inspo": "triangle_left"
+      },
+      {
+        "newId": "triangle_right",
+        "by": "@quincylvania",
+        "inspo": "triangle_up",
+        "issue": "451"
+      },
+      {
+        "newId": "triangle_right_with_plus",
+        "by": "@quincylvania",
+        "inspo": "triangle_right"
+      },
+      {
+        "newId": "triangle_up_outline",
+        "by": "@quincylvania",
+        "inspo": "triangle_up"
+      },
+      {
+        "newId": "triangle_down_outline",
+        "by": "@quincylvania",
+        "inspo": "triangle_down"
+      },
+      {
+        "newId": "triangle_left_outline",
+        "by": "@quincylvania",
+        "inspo": "triangle_left"
+      },
+      {
+        "newId": "triangle_right_outline",
+        "by": "@quincylvania",
+        "inspo": "triangle_right"
+      },
+      {
+        "oldId": "triangle_up",
+        "newId": "rounded_triangle_up",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up_with_exclamation_point",
+        "newId": "rounded_triangle_up_with_exclamation_point",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up_with_skull",
+        "newId": "rounded_triangle_up_with_skull",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangle_up_outline",
+        "newId": "rounded_triangle_up_outline",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
         "oldId": "triangle_down",
         "newId": "rounded_triangle_down",
+        "edit": "resize",
+        "by": "@quincylvania",
         "issue": "451"
       },
       {
         "oldId": "triangle_down_outline",
         "newId": "rounded_triangle_down_outline",
+        "edit": "resize",
+        "by": "@quincylvania",
         "issue": "451"
       },
       {
@@ -20846,24 +20942,24 @@
         "issue": "451"
       },
       {
-        "oldId": "triangle_up",
-        "newId": "rounded_triangle_up",
-        "issue": "451"
+        "newId": "rounded_triangle_left",
+        "by": "@quincylvania",
+        "inspo": "rounded_triangle_up"
       },
       {
-        "oldId": "triangle_up_with_exclamation_point",
-        "newId": "rounded_triangle_up_with_exclamation_point",
-        "issue": "451"
+        "newId": "rounded_triangle_right",
+        "by": "@quincylvania",
+        "inspo": "rounded_triangle_up"
       },
       {
-        "oldId": "triangle_up_with_skull",
-        "newId": "rounded_triangle_up_with_skull",
-        "issue": "451"
+        "newId": "rounded_triangle_left_outline",
+        "by": "@quincylvania",
+        "inspo": "rounded_triangle_up_outline"
       },
       {
-        "oldId": "triangle_up_outline",
-        "newId": "rounded_triangle_up_outline",
-        "issue": "451"
+        "newId": "rounded_triangle_right_outline",
+        "by": "@quincylvania",
+        "inspo": "rounded_triangle_up_outline"
       },
       {
         "newId": "square",
