@@ -2032,9 +2032,6 @@
   "musical_note": {
     "super": "music"
   },
-  "narrow_gauge_railway_track": {
-    "super": "railway_track"
-  },
   "natural_arch": {
     "super": [
       "arch",

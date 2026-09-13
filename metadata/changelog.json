@@ -20740,7 +20740,7 @@
       },
       {
         "oldId": "railway_track_narrow_gauge",
-        "newId": "narrow_gauge_railway_track"
+        "newId": "narrow_railway_track"
       },
       {
         "oldId": "spiky_fish_with_x",
@@ -20769,6 +20769,14 @@
       {
         "oldId": "plus_squat",
         "newId": "squat_plus"
+      },
+      {
+        "oldId": "winding_way_wide",
+        "newId": "wide_winding_way"
+      },
+      {
+        "oldId": "winding_way_narrow",
+        "newId": "narrow_winding_way"
       },
       {
         "oldId": "dot_outline",

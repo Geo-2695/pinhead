@@ -12,6 +12,8 @@ const variantPrefixes = [
   "tall",
   "vertical",
   "rounded",
+  "wide",
+  "narrow",
 ];
 
 const amountPrefixes = [
