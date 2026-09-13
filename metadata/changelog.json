@@ -20819,6 +20819,100 @@
         "edit": "resize",
         "by": "@quincylvania"
       },
+      {
+        "newId": "square",
+        "by": "@quincylvania",
+        "inspo": "rounded_square",
+        "issue": "451"
+      },
+      {
+        "newId": "square_with_dot",
+        "by": "@quincylvania",
+        "inspo": "rounded_square_with_dot",
+        "issue": "451"
+      },
+      {
+        "newId": "square_with_square_dot",
+        "by": "@quincylvania",
+        "inspo": "rounded_square_with_square_dot",
+        "issue": "451"
+      },
+      {
+        "newId": "square_outline",
+        "by": "@quincylvania",
+        "inspo": "rounded_square_outline",
+        "issue": "451"
+      },
+      {
+        "newId": "square_outline_with_dot",
+        "by": "@quincylvania",
+        "inspo": [
+          "square_with_dot",
+          "square_outline"
+        ]
+      },
+      {
+        "newId": "square_outline_with_square_dot",
+        "by": "@quincylvania",
+        "inspo": [
+          "rounded_square_with_square_dot",
+          "square_outline"
+        ]
+      },
+      {
+        "oldId": "square",
+        "newId": "rounded_square",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "oldId": "square_with_dot",
+        "newId": "rounded_square_with_dot",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "oldId": "square_with_square_dot",
+        "newId": "rounded_square_with_square_dot",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "oldId": "square_outline",
+        "newId": "rounded_square_outline",
+        "edit": "resize",
+        "by": "@quincylvania",
+        "issue": "451"
+      },
+      {
+        "newId": "rounded_square_outline_with_dot",
+        "by": "@quincylvania",
+        "inspo": [
+          "rounded_square_with_dot",
+          "rounded_square_outline"
+        ]
+      },
+      {
+        "newId": "rounded_square_outline_with_square_dot",
+        "by": "@quincylvania",
+        "inspo": [
+          "rounded_square_with_square_dot",
+          "rounded_square_outline"
+        ]
+      },
+      {
+        "oldId": "ethernet_port_in_square",
+        "newId": "ethernet_port_in_rounded_square",
+        "issue": "451"
+      },
+      {
+        "oldId": "arrow_top_right_from_square_outline",
+        "newId": "arrow_top_right_from_rounded_square_outline",
+        "issue": "451"
+      },
       },
       {
         "oldId": "octagon",
