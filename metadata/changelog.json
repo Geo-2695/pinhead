@@ -20569,6 +20569,10 @@
         "newId": "spiky_fish_under_x"
       },
       {
+        "oldId": "fish_jumping_up_cascade",
+        "newId": "fish_jumping_above_cascade"
+      },
+      {
         "oldId": "golf_green",
         "newId": "flagstick_with_pennant_in_hole_on_golf_green"
       },
