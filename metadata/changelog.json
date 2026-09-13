@@ -21069,22 +21069,22 @@
       },
       {
         "oldId": "triangles_left_right_in_rectangle",
-        "newId": "triangles_left_right_in_rounded_rectangle",
+        "newId": "triangles_left_right_in_wide_rounded_rectangle",
         "issue": "451"
       },
       {
         "oldId": "triangles_left_right_in_rectangle_outline",
-        "newId": "triangles_left_right_in_rounded_rectangle_outline",
+        "newId": "triangles_left_right_in_wide_rounded_rectangle_outline",
         "issue": "451"
       },
       {
         "oldId": "triangles_up_down_in_rectangle",
-        "newId": "triangles_up_down_in_rounded_rectangle",
+        "newId": "triangles_up_down_in_tall_rounded_rectangle",
         "issue": "451"
       },
       {
         "oldId": "triangles_up_down_in_rectangle_outline",
-        "newId": "triangles_up_down_in_rounded_rectangle_outline",
+        "newId": "triangles_up_down_in_tall_rounded_rectangle_outline",
         "issue": "451"
       },
       {
