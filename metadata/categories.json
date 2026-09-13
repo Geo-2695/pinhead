@@ -39,6 +39,12 @@
   "american_football": {
     "super": "ball"
   },
+  "american_sign_language_interpretation": {
+    "super": [
+      "hand",
+      "accessibility_symbol"
+    ]
+  },
   "ampersand": {
     "super": "typographical_symbol"
   },

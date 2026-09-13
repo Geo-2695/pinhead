@@ -20569,6 +20569,10 @@
         "newId": "spiky_fish_under_x"
       },
       {
+        "oldId": "hands_sign_language_interpretation",
+        "newId": "american_sign_language_interpretation"
+      },
+      {
         "oldId": "fish_jumping_up_cascade",
         "newId": "fish_jumping_above_cascade"
       },
