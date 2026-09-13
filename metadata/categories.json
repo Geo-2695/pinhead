@@ -20,8 +20,38 @@
   "adit": {
     "super": "underground_infrastructure"
   },
+  "aerial_cargo_lift": {
+    "super": "aerial_lift"
+  },
+  "aerial_drag_lift": {
+    "super": "aerial_lift"
+  },
+  "aerial_gondola": {
+    "super": "aerial_lift"
+  },
+  "aerial_j_bar_lift": {
+    "super": "aerial_lift"
+  },
+  "aerial_lift": {
+    "super": [
+      "aerialway",
+      "vehicle"
+    ]
+  },
+  "aerial_platter_lift": {
+    "super": "aerial_lift"
+  },
+  "aerial_t_bar_lift": {
+    "super": "aerial_lift"
+  },
+  "aerial_tram": {
+    "super": "aerial_lift"
+  },
   "aerialway_pole": {
-    "super": "pole"
+    "super": [
+      "aerialway",
+      "pole"
+    ]
   },
   "ahimsa_hand": {
     "super": "religious_symbol"
@@ -644,6 +674,12 @@
   },
   "chair": {
     "super": "seat"
+  },
+  "chairlift": {
+    "super": [
+      "aerial_lift",
+      "seat"
+    ]
   },
   "champagne_bottle": {
     "super": "drink_bottle"
