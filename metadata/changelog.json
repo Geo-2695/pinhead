@@ -20909,6 +20909,12 @@
         "issue": "451"
       },
       {
+        "newId": "rounded_triangle_up_with_question_mark",
+        "by": "@quincylvania",
+        "inspo": "rounded_triangle_up_with_exclamation_point",
+        "issue": "383"
+      },
+      {
         "oldId": "triangle_up_with_skull",
         "newId": "rounded_triangle_up_with_skull",
         "edit": "resize",
