@@ -20748,6 +20748,78 @@
       {
         "oldId": "chopsticks_crossed",
         "newId": "crossed_chopsticks"
+      {
+        "oldId": "dot_outline",
+        "newId": "dot_outline",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle",
+        "newId": "circle",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_with_dot",
+        "newId": "circle_with_dot",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_with_dot_outline",
+        "newId": "circle_with_dot_outline",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_outline",
+        "newId": "circle_outline",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_outline_with_star",
+        "newId": "circle_outline_with_star",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_outline_with_top_left_quarter_and_bottom_right_quarter",
+        "newId": "circle_outline_with_top_left_quarter_and_bottom_right_quarter",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_outline_with_dot",
+        "newId": "circle_outline_with_dot",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_outline_with_dot_outline",
+        "newId": "circle_outline_with_dot_outline",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "circle_with_fallout_shelter_symbol",
+        "newId": "circle_with_fallout_shelter_symbol",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      },
+      {
+        "oldId": "octagon",
+        "newId": "octagon",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "octagon_outline",
+        "newId": "octagon_outline",
+        "edit": "resize",
+        "by": "@quincylvania"
       }
     ]
   }
