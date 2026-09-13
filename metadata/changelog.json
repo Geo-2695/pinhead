@@ -16837,6 +16837,18 @@
         "inspo": "tennis_ball"
       },
       {
+        "oldId": "bowling_ball",
+        "newId": "bowling_ball",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "soccer_ball",
+        "newId": "soccer_ball",
+        "edit": "resize",
+        "by": "@quincylvania"
+      },
+      {
         "oldId": "skateboard",
         "newId": "skateboard_profile"
       },
