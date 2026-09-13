@@ -20501,6 +20501,22 @@
         "newId": "waters_meeting_shore"
       },
       {
+        "oldId": "kids_train",
+        "newId": "steam_train_with_smiling_face"
+      },
+      {
+        "oldId": "kids_train_with_tires",
+        "newId": "steam_train_with_smiling_face_with_tires"
+      },
+      {
+        "oldId": "kids_train_on_railway_track",
+        "newId": "steam_train_with_smiling_face_on_railway_track"
+      },
+      {
+        "oldId": "person_boarding_kids_train_on_railway_track",
+        "newId": "person_boarding_steam_train_with_smiling_face_on_railway_track"
+      },
+      {
         "oldId": "racquet",
         "newId": "racket"
       },

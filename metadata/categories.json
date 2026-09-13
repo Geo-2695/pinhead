@@ -1761,9 +1761,6 @@
   "kidney": {
     "super": "internal_organ"
   },
-  "kids_train": {
-    "super": "train"
-  },
   "kitchen_sink": {
     "super": "piping"
   },
