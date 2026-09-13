@@ -3001,6 +3001,7 @@
         "newId": "jar",
         "src": "osmcarto",
         "importBy": "@quincylvania",
+        "char": "🫙",
         "osmcarto": "shop/deli"
       },
       {
@@ -3182,7 +3183,8 @@
       {
         "newId": "key",
         "by": "@quincylvania",
-        "inspo": "bicycle_and_key"
+        "inspo": "bicycle_and_key",
+        "char": "🔑"
       },
       {
         "newId": "keyhole",
@@ -3832,6 +3834,7 @@
         "newId": "newspaper",
         "src": "osmcarto",
         "importBy": "@quincylvania",
+        "char": "📰",
         "opengemeenten": "Actueel",
         "osmcarto": "shop/newsagent",
         "osmic": "shop/news"
@@ -4058,6 +4061,7 @@
         "newId": "pedestrian",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "🚶",
         "healthicons": "exercise/walking",
         "nps": "walking",
         "temaki": "pedestrian"
@@ -5361,6 +5365,7 @@
         "src": "temaki",
         "srcBy": "@quincylvania",
         "importBy": "@quincylvania",
+        "char": "🛡️",
         "temaki": "shield"
       },
       {
@@ -5373,6 +5378,7 @@
         "newId": "shoe",
         "src": "maki",
         "importBy": "@quincylvania",
+        "char": "👞",
         "maki": "shoe",
         "openhistoricalmap": "shoes",
         "osmcarto": "shop/shoes",
@@ -5585,6 +5591,7 @@
         "newId": "slot_machine",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "🎰",
         "temaki": "casino"
       },
       {
@@ -6460,6 +6467,7 @@
         "newId": "tshirt",
         "src": "osmcarto",
         "importBy": "@quincylvania",
+        "char": "👕",
         "openhistoricalmap": "clothes",
         "osmcarto": "shop/clothes",
         "osmic": "shop/clothes"
@@ -6480,6 +6488,7 @@
         "newId": "tulip",
         "src": "maki",
         "importBy": "@quincylvania",
+        "char": "🌷",
         "maki": "garden",
         "openhistoricalmap": "garden",
         "osmcarto": "shop/florist",
@@ -7826,7 +7835,8 @@
       {
         "newId": "plus",
         "by": "@quincylvania",
-        "inspo": "plus_squat"
+        "inspo": "plus_squat",
+        "char": "+"
       },
       {
         "newId": "roman_numeral_i",
@@ -8556,7 +8566,8 @@
       },
       {
         "newId": "pound",
-        "by": "@quincylvania"
+        "by": "@quincylvania",
+        "char": "£"
       },
       {
         "newId": "car_with_pound",
@@ -9319,7 +9330,8 @@
       },
       {
         "newId": "bone",
-        "by": "@quincylvania"
+        "by": "@quincylvania",
+        "char": "🦴"
       },
       {
         "newId": "jack_o_lantern",
@@ -9583,6 +9595,7 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
+        "char": "🦶",
         "healthicons": "body/foot"
       },
       {
@@ -9647,6 +9660,7 @@
         "src": "healthicons",
         "importBy": "@quincylvania",
         "issue": "107",
+        "char": "🫁",
         "healthicons": "body/lungs"
       },
       {
@@ -11014,6 +11028,7 @@
         "src": "opengemeenten",
         "importBy": "@quincylvania",
         "issue": "141",
+        "char": "🪂",
         "opengemeenten": "Airborne"
       },
       {
@@ -12684,7 +12699,8 @@
         "newId": "puzzle_piece",
         "by": "@ooosssay",
         "issue": "33",
-        "pr": "185"
+        "pr": "185",
+        "char": "🧩"
       },
       {
         "newId": "confetti_ball",
@@ -14925,6 +14941,7 @@
         "src": "openhistoricalmap",
         "importBy": "@quincylvania",
         "issue": "233",
+        "char": "🖌️",
         "openhistoricalmap": "artwork"
       },
       {
@@ -14947,6 +14964,7 @@
         "src": "openhistoricalmap",
         "importBy": "@quincylvania",
         "issue": "233",
+        "char": "🔔",
         "openhistoricalmap": "bell_tower"
       },
       {
@@ -14964,6 +14982,7 @@
         "src": "openhistoricalmap",
         "importBy": "@quincylvania",
         "issue": "233",
+        "char": "🪣",
         "openhistoricalmap": "bucket"
       },
       {
@@ -14983,7 +15002,8 @@
       {
         "newId": "coffin",
         "by": "@quincylvania",
-        "inspo": "coffin_with_latin_cross"
+        "inspo": "coffin_with_latin_cross",
+        "char": "⚰️"
       },
       {
         "newId": "telegraph_key",
@@ -15137,7 +15157,8 @@
         "newId": "hook",
         "by": "@quincylvania",
         "inspo": "barbed_hook",
-        "issue": "195"
+        "issue": "195",
+        "char": "🪝"
       },
       {
         "newId": "barbed_hook",
