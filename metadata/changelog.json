@@ -17889,7 +17889,7 @@
         "char": "℞"
       },
       {
-        "newId": "capsule_pill_beside_rx_symbol",
+        "newId": "capsule_pill_and_rx_symbol",
         "by": "@quincylvania",
         "inspo": [
           "capsule_pill",
@@ -18116,12 +18116,12 @@
         "issue": "383"
       },
       {
-        "newId": "droplet_beside_greek_cross",
+        "newId": "droplet_and_greek_cross",
         "by": "@quincylvania",
         "inspo": "droplet_with_greek_cross"
       },
       {
-        "newId": "droplet_beside_question_mark",
+        "newId": "droplet_and_question_mark",
         "by": "@quincylvania",
         "inspo": [
           "droplet",
@@ -18130,7 +18130,7 @@
         "issue": "383"
       },
       {
-        "newId": "droplet_beside_exclamation_point",
+        "newId": "droplet_and_exclamation_point",
         "by": "@quincylvania",
         "inspo": [
           "droplet",
@@ -18153,7 +18153,7 @@
         "by": "@quincylvania"
       },
       {
-        "newId": "water_bottle_beside_droplet",
+        "newId": "water_bottle_and_droplet",
         "by": "@quincylvania",
         "inspo": [
           "droplet",
