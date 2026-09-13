@@ -20973,6 +20973,29 @@
         "newId": "tall_rounded_double_diamond",
         "issue": "451"
       },
+      {
+        "oldId": "isosceles_trapezoid_tall_down",
+        "newId": "tall_isosceles_trapezoid_down"
+      },
+      {
+        "oldId": "isosceles_trapezoid_tall_up",
+        "newId": "tall_isosceles_trapezoid_up"
+      },
+      {
+        "oldId": "parallelogram_tall_left",
+        "newId": "tall_parallelogram_left"
+      },
+      {
+        "oldId": "parallelogram_tall_right",
+        "newId": "tall_parallelogram_right"
+      },
+      {
+        "oldId": "chevron_up_tall",
+        "newId": "tall_chevron_up"
+      },
+      {
+        "oldId": "chevron_up_tall_outline",
+        "newId": "tall_chevron_up_outline"
       },
       {
         "oldId": "octagon",
