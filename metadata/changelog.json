@@ -20661,6 +20661,15 @@
         "by": "@quincylvania"
       },
       {
+        "oldId": "no_entry",
+        "newId": "circle_with_horizontal_bar"
+      },
+      {
+        "newId": "circle_with_vertical_bar",
+        "by": "@quincylvania",
+        "inspo": "circle_with_horizontal_bar"
+      },
+      {
         "newId": "triangle_up",
         "by": "@quincylvania",
         "inspo": "rounded_triangle_up",
@@ -20890,6 +20899,16 @@
         "oldId": "arrow_top_right_from_square_outline",
         "newId": "arrow_top_right_from_rounded_square_outline",
         "issue": "451"
+      },
+      {
+        "newId": "horizontal_bar",
+        "by": "@quincylvania",
+        "inspo": "circle_with_horizontal_bar"
+      },
+      {
+        "newId": "vertical_bar",
+        "by": "@quincylvania",
+        "inspo": "horizontal_bar"
       },
       {
         "newId": "wide_rectangle",

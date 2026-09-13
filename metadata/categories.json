@@ -195,6 +195,9 @@
   "banknote": {
     "super": "legal_tender"
   },
+  "bar": {
+    "super": "rectangle"
+  },
   "barbed_hook": {
     "super": "hook"
   },

@@ -5,7 +5,15 @@ const pluralize =
 
 const stylePrefixes = ["anime", "cartoon", "pixel"];
 
-const variantPrefixes = ["heavy", "narrow", "rounded", "tall", "wide"];
+const variantPrefixes = [
+  "heavy",
+  "horizontal",
+  "narrow",
+  "rounded",
+  "tall",
+  "vertical",
+  "wide",
+];
 
 const amountPrefixes = [
   "crossed",
