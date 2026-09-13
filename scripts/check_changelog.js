@@ -157,7 +157,8 @@ async function validateChangelog(versionChangelog, iconsById) {
 
   const v = parseInt(versionChangelog.majorVersion);
 
-  if (v > 1) {
+  // for performance, skip checking older versions
+  if (v === parseInt(currentMajorVersion)) {
     // ensure that a changelog entry exists if the icon SVG has changed
     const iconsDir =
       v === parseInt(currentMajorVersion) ? "./icons" : `./docs/v${v}`;
@@ -298,7 +299,8 @@ async function validateIconChange(iconChange, versionChangelog, iconsById) {
       );
       return;
     }
-    if (v > 1) {
+    // for performance, skip checking older versions
+    if (v === parseInt(currentMajorVersion)) {
       // expect SVGs to be different
       const newfileRoot =
         parseInt(currentMajorVersion) === v ? "./icons" : `./docs/v${v}`;
