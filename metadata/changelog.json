@@ -20760,6 +20760,10 @@
         "newId": "tall_gate"
       },
       {
+        "oldId": "plus_squat",
+        "newId": "squat_plus"
+      },
+      {
         "oldId": "dot_outline",
         "newId": "dot_outline",
         "edit": "resize",
