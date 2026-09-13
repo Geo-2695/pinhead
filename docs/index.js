@@ -297,15 +297,20 @@ async function setupPage(pageData) {
             .setAttribute("class", "close")
             .append(
               new Chainable("img")
-                .setAttribute("class", "inline-icon")
+                .setAttribute("class", "inline-icon invert")
                 .setAttribute("src", `/latest/x_cross.svg`),
             ),
         ),
       new Chainable("div").setAttribute("id", "inspector-body").append(
         new Chainable("div").setAttribute("id", "inspector-top").append(
           new Chainable("div")
-            .setAttribute("class", "pixel-grid")
-            .insertAdjacentHTML("afterbegin", icon.svg),
+            .setAttribute("class", "pixel-grid-wrap")
+            .append(
+              new Chainable("div").setAttribute("class", "pixel-grid"),
+              new Chainable("div")
+                .setAttribute("class", "pixel-grid-icon")
+                .insertAdjacentHTML("afterbegin", icon.svg),
+            ),
           new Chainable("div").setAttribute("class", "links").append(
             new Chainable("a")
               .setAttribute("href", `v${majorVersion}/${iconId}.svg`)

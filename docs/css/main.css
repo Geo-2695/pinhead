@@ -1,6 +1,9 @@
 :root {
   --bg-color: #fff;
   --text-color: #000;
+  --highlight-color: #e9e9e9;
+  --grid-color: #ccc;
+  --textarea-bg-color: rgba(128, 128, 128, 0.1);
 }
 
 body {
@@ -188,7 +191,7 @@ article > *:not(:last-child) {
 }
 .icon-grid a:hover,
 .icon-grid a:focus {
-  background: #e9e9e9;
+  background: var(--highlight-color);
 }
 .icon-grid a > * {
   display: block;
@@ -324,7 +327,7 @@ h3:first-child {
   font-size: 16px;
   justify-content: space-between;
 }
-#inspector-header img {
+img.invert {
   filter: invert(1);
 }
 .icon-label {
@@ -376,13 +379,24 @@ h3:first-child {
   left: 45px;
   color: var(--bg-color);
 }
-.pixel-grid {
+.pixel-grid-wrap {
   width: 105px;
   height: 105px;
   flex: 0 0 auto;
+  position: relative;
+}
+.pixel-grid {
   background: url(/15x15_grid.svg);
   background-size: contain;
-  border: 1px solid #ccc;
+  border: 1px solid var(--grid-color);
+}
+.pixel-grid,
+.pixel-grid-icon {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
 }
 .res-previews {
   display: flex;
@@ -404,7 +418,7 @@ textarea {
   width: 100%;
   border: 0;
   /* border-bottom: 1px solid var(--text-color); */
-  background: rgba(128, 128, 128, 0.1);
+  background: var(--textarea-bg-color);
   padding: 6px;
   overflow: scroll;
   text-align: left;
@@ -471,12 +485,21 @@ textarea.img-code {
   }
 }
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #111;
+    --bg-color: #222;
     --text-color: #fff;
+    --highlight-color: #444;
   }
-  img, canvas {
+  .pixel-grid {
+    opacity: 0.3;
+  }
+  img,
+  canvas {
     filter: invert(1);
   }
-}  */
+  img.invert,
+  canvas.invert {
+    filter: unset;
+  }
+}
