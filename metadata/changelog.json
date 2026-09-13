@@ -17414,6 +17414,11 @@
         "issue": "448"
       },
       {
+        "newId": "rectangle_outline_under_arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down"
+      },
+      {
         "oldId": "elevator_rider",
         "newId": "person_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down",
         "by": "@quincylvania",
@@ -17443,6 +17448,11 @@
           "three_people_standing_in_rectangle_outline_under_arrow_up_beside_arrow_down",
           "aerial_cargo_lift_with_crates"
         ]
+      },
+      {
+        "newId": "rectangle_under_arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "rectangle_outline_under_arrow_up_beside_arrow_down"
       },
       {
         "newId": "person_standing_in_rectangle_under_arrow_up_beside_arrow_down",
