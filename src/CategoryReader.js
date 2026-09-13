@@ -5,6 +5,15 @@ const pluralize =
 
 const stylePrefixes = ["anime", "cartoon", "pixel"];
 
+const variantPrefixes = [
+  "diagonal",
+  "horizontal",
+  "squat",
+  "tall",
+  "vertical",
+  "rounded",
+];
+
 const amountPrefixes = [
   "crossed",
   "double",
@@ -17,18 +26,16 @@ const amountPrefixes = [
   "six",
 ];
 
-const prefixes = amountPrefixes.concat(stylePrefixes);
+const prefixes = amountPrefixes.concat(stylePrefixes).concat(variantPrefixes);
 
 const suffixes = [
   "bottom_left",
   "bottom_right",
-  "diagonal",
   "down",
   "downhill",
   "filled",
   "front",
   "head",
-  "horizontal",
   "left_right",
   "left",
   "narrow",
@@ -36,16 +43,13 @@ const suffixes = [
   "outward",
   "profile",
   "right",
-  "squat",
   "stack",
-  "tall",
   "top_left",
   "top_right",
   "top",
   "up_down",
   "up",
   "uphill",
-  "vertical",
   "wide",
 ];
 const prepositions = [
@@ -106,6 +110,7 @@ const stateVerbs = [
   "fighting",
   "flying",
   "front_kicking",
+  "hanging",
   "high_stepping",
   "ice_skating",
   "inline_skating",
@@ -196,7 +201,7 @@ export class CategoryReader {
             ? catId
             : `${pluralize.singular(catId)}|${pluralize.plural(catId)}`;
         categories[catId].regex = new RegExp(
-          `^(${prefixexPart})?(${mainPart})(${stateSuffixesPart})*(${suffixesPart})*$`,
+          `^(${prefixexPart})*(${mainPart})(${stateSuffixesPart})*(${suffixesPart})*$`,
           "g",
         );
       }

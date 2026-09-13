@@ -977,9 +977,6 @@
   "diamond": {
     "super": "quadrilateral"
   },
-  "diamond_tall": {
-    "super": "card_suit"
-  },
   "diaper": {
     "super": "clothing"
   },
@@ -1566,9 +1563,6 @@
       "food",
       "animal_dwelling"
     ]
-  },
-  "horizontal_bar": {
-    "super": "fitness_equipment"
   },
   "horizontal_storage_tank": {
     "super": "storage_tank"
@@ -2393,6 +2387,9 @@
       "mask"
     ]
   },
+  "pull_up_bar": {
+    "super": "fitness_equipment"
+  },
   "pumpjack": {
     "super": "erected_structure"
   },
@@ -2922,9 +2919,6 @@
   "square_dot": {
     "super": "square"
   },
-  "squat_rock": {
-    "super": "rock"
-  },
   "squeeze_stile": {
     "super": "stile"
   },
@@ -3070,9 +3064,6 @@
   },
   "tag": {
     "commons": "Plain black SVG tag icons"
-  },
-  "tall_gable_roofed_building": {
-    "super": "gable_roofed_building"
   },
   "tangram": {
     "super": "puzzle"
