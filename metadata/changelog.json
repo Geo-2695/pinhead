@@ -19400,93 +19400,93 @@
         "by": "@quincylvania"
       },
       {
-        "newId": "trail_blaze",
+        "newId": "tall_rectangle",
         "by": "@quincylvania"
       },
       {
-        "newId": "trail_blazes_top_left",
+        "newId": "two_tall_rectangles_top_left",
         "by": "@quincylvania",
-        "inspo": "trail_blaze"
+        "inspo": "tall_rectangle"
       },
       {
-        "newId": "trail_blazes_top_right",
+        "newId": "two_tall_rectangles_top_right",
         "by": "@quincylvania",
-        "inspo": "trail_blaze"
+        "inspo": "tall_rectangle"
       },
       {
-        "newId": "trail_blazes_left",
+        "newId": "three_tall_rectangles_left",
         "by": "@quincylvania",
-        "inspo": "trail_blaze"
+        "inspo": "tall_rectangle"
       },
       {
-        "newId": "trail_blazes_right",
+        "newId": "three_tall_rectangles_right",
         "by": "@quincylvania",
-        "inspo": "trail_blaze"
+        "inspo": "tall_rectangle"
       },
       {
-        "newId": "trail_blazes_up",
+        "newId": "three_tall_rectangles_up",
         "by": "@quincylvania",
-        "inspo": "trail_blaze"
+        "inspo": "tall_rectangle"
       },
       {
-        "newId": "trail_blazes_down",
+        "newId": "three_tall_rectangles_down",
         "by": "@quincylvania",
-        "inspo": "trail_blaze"
+        "inspo": "tall_rectangle"
       },
       {
-        "newId": "cairn_beside_trail_blaze",
+        "newId": "cairn_and_tall_rectangle",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blaze"
+          "tall_rectangle"
         ]
       },
       {
-        "newId": "cairn_beside_trail_blazes_top_left",
+        "newId": "cairn_and_two_tall_rectangles_top_left",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blazes_top_left"
+          "two_tall_rectangles_top_left"
         ]
       },
       {
-        "newId": "cairn_beside_trail_blazes_top_right",
+        "newId": "cairn_and_two_tall_rectangles_top_right",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blazes_top_right"
+          "two_tall_rectangles_top_right"
         ]
       },
       {
-        "newId": "cairn_beside_trail_blazes_left",
+        "newId": "cairn_and_three_tall_rectangles_left",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blazes_left"
+          "three_tall_rectangles_left"
         ]
       },
       {
-        "newId": "cairn_beside_trail_blazes_right",
+        "newId": "cairn_and_three_tall_rectangles_right",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blazes_right"
+          "three_tall_rectangles_right"
         ]
       },
       {
-        "newId": "cairn_beside_trail_blazes_up",
+        "newId": "cairn_and_three_tall_rectangles_up",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blazes_up"
+          "three_tall_rectangles_up"
         ]
       },
       {
-        "newId": "cairn_beside_trail_blazes_down",
+        "newId": "cairn_and_three_tall_rectangles_down",
         "by": "@quincylvania",
         "inspo": [
           "cairn",
-          "trail_blazes_down"
+          "three_tall_rectangles_down"
         ]
       },
       {
