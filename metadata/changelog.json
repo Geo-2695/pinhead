@@ -20332,88 +20332,6 @@
         "issue": "307"
       },
       {
-        "newId": "pixel_international_wheelchair_symbol",
-        "by": "@quincylvania",
-        "inspo": "international_wheelchair_symbol"
-      },
-      {
-        "newId": "pixel_palm_tree",
-        "by": "@quincylvania",
-        "inspo": "palm_tree"
-      },
-      {
-        "newId": "pixel_canoe",
-        "by": "@quincylvania",
-        "inspo": "canoe"
-      },
-      {
-        "newId": "pixel_canoe_on_water",
-        "by": "@quincylvania",
-        "inspo": "canoe_on_water"
-      },
-      {
-        "newId": "pixel_arrows_left_right",
-        "by": "@quincylvania",
-        "inspo": "pixel_arrows_left_right_above_water"
-      },
-      {
-        "newId": "pixel_arrows_up_down",
-        "by": "@quincylvania",
-        "inspo": "pixel_arrows_left_right"
-      },
-      {
-        "newId": "pixel_arrow_up",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_up_down",
-          "arrow_up"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_down",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_up_down",
-          "arrow_down"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_left",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_left_right",
-          "arrow_left"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_right",
-        "by": "@quincylvania",
-        "inspo": [
-          "pixel_arrows_left_right",
-          "arrow_right"
-        ]
-      },
-      {
-        "newId": "pixel_arrow_top_right",
-        "by": "@quincylvania",
-        "inspo": "arrow_top_right"
-      },
-      {
-        "newId": "pixel_arrow_bottom_right",
-        "by": "@quincylvania",
-        "inspo": "arrow_bottom_right"
-      },
-      {
-        "newId": "pixel_arrow_bottom_left",
-        "by": "@quincylvania",
-        "inspo": "arrow_bottom_left"
-      },
-      {
-        "newId": "pixel_arrow_top_left",
-        "by": "@quincylvania",
-        "inspo": "arrow_top_left"
-      },
-      {
         "oldId": "bagel_seeded",
         "newId": "bagel_with_seeds"
       },
@@ -21235,6 +21153,88 @@
         "newId": "octagon_outline",
         "edit": "resize",
         "by": "@quincylvania"
+      },
+      {
+        "newId": "pixel_international_wheelchair_symbol",
+        "by": "@quincylvania",
+        "inspo": "international_wheelchair_symbol"
+      },
+      {
+        "newId": "pixel_palm_tree",
+        "by": "@quincylvania",
+        "inspo": "palm_tree"
+      },
+      {
+        "newId": "pixel_canoe",
+        "by": "@quincylvania",
+        "inspo": "canoe"
+      },
+      {
+        "newId": "pixel_canoe_on_water",
+        "by": "@quincylvania",
+        "inspo": "canoe_on_water"
+      },
+      {
+        "newId": "pixel_arrows_left_right",
+        "by": "@quincylvania",
+        "inspo": "pixel_arrows_left_right_above_water"
+      },
+      {
+        "newId": "pixel_arrows_up_down",
+        "by": "@quincylvania",
+        "inspo": "pixel_arrows_left_right"
+      },
+      {
+        "newId": "pixel_arrow_up",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_up_down",
+          "arrow_up"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_down",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_up_down",
+          "arrow_down"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_left",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_left_right",
+          "arrow_left"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "pixel_arrows_left_right",
+          "arrow_right"
+        ]
+      },
+      {
+        "newId": "pixel_arrow_top_right",
+        "by": "@quincylvania",
+        "inspo": "arrow_top_right"
+      },
+      {
+        "newId": "pixel_arrow_bottom_right",
+        "by": "@quincylvania",
+        "inspo": "arrow_bottom_right"
+      },
+      {
+        "newId": "pixel_arrow_bottom_left",
+        "by": "@quincylvania",
+        "inspo": "arrow_bottom_left"
+      },
+      {
+        "newId": "pixel_arrow_top_left",
+        "by": "@quincylvania",
+        "inspo": "arrow_top_left"
       }
     ]
   }
