@@ -20419,12 +20419,6 @@
         "issue": "307"
       },
       {
-        "oldId": "quay",
-        "newId": "rectangle_tall_beside_waters",
-        "by": "@quincylvania",
-        "issue": "135"
-      },
-      {
         "newId": "pixel_international_wheelchair_symbol",
         "by": "@quincylvania",
         "inspo": "international_wheelchair_symbol"
@@ -20677,27 +20671,31 @@
       },
       {
         "oldId": "three_dot_horizontal_line",
-        "newId": "three_dots_horizontal"
+        "newId": "three_dots_left_right"
       },
       {
         "oldId": "three_dot_horizontal_line_in_rectangle",
-        "newId": "three_dots_horizontal_in_rectangle"
+        "newId": "three_dots_in_rounded_rectangle",
+        "issue": "451"
       },
       {
         "oldId": "two_dot_horizontal_line_in_rectangle",
-        "newId": "two_dots_horizontal_in_rectangle"
+        "newId": "two_dots_in_rounded_rectangle",
+        "issue": "451"
       },
       {
         "oldId": "three_dot_vertical_line",
-        "newId": "three_dots_vertical"
+        "newId": "three_dots_up_down"
       },
       {
         "oldId": "three_dot_vertical_line_in_rectangle",
-        "newId": "three_dots_vertical_in_rectangle"
+        "newId": "three_dots_in_tall_rounded_rectangle",
+        "issue": "451"
       },
       {
         "oldId": "two_dot_vertical_line_in_rectangle",
-        "newId": "two_dots_vertical_in_rectangle"
+        "newId": "two_dots_in_tall_rounded_rectangle",
+        "issue": "451"
       },
       {
         "oldId": "music_notes_eighth",
@@ -20951,6 +20949,68 @@
         "oldId": "arrow_top_right_from_square_outline",
         "newId": "arrow_top_right_from_rounded_square_outline",
         "issue": "451"
+      },
+      {
+        "oldId": "rectangle",
+        "newId": "rounded_rectangle",
+        "issue": "451"
+      },
+      {
+        "oldId": "rectangle_outline",
+        "newId": "rounded_rectangle_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "rectangle_tall",
+        "newId": "tall_rounded_rectangle",
+        "issue": "451"
+      },
+      {
+        "oldId": "rectangle_tall_outline",
+        "newId": "tall_rounded_rectangle_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "arrow_left_from_rectangle_tall_outline",
+        "newId": "arrow_left_from_tall_rectangle_outline"
+      },
+      {
+        "oldId": "arrow_right_from_rectangle_tall_outline",
+        "newId": "arrow_right_from_tall_rectangle_outline"
+      },
+      {
+        "oldId": "arrow_left_to_rectangle_tall_outline",
+        "newId": "arrow_left_to_tall_rectangle_outline"
+      },
+      {
+        "oldId": "arrow_right_to_rectangle_tall_outline",
+        "newId": "arrow_right_to_tall_rectangle_outline"
+      },
+      {
+        "oldId": "triangles_left_right_in_rectangle",
+        "newId": "triangles_left_right_in_rounded_rectangle",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangles_left_right_in_rectangle_outline",
+        "newId": "triangles_left_right_in_rounded_rectangle_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangles_up_down_in_rectangle",
+        "newId": "triangles_up_down_in_rounded_rectangle",
+        "issue": "451"
+      },
+      {
+        "oldId": "triangles_up_down_in_rectangle_outline",
+        "newId": "triangles_up_down_in_rounded_rectangle_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "quay",
+        "newId": "tall_rectangle_beside_waters",
+        "by": "@quincylvania",
+        "issue": "135"
       },
       {
         "oldId": "diamond",
