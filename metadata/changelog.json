@@ -20948,6 +20948,31 @@
         "newId": "arrow_top_right_from_rounded_square_outline",
         "issue": "451"
       },
+      {
+        "oldId": "diamond",
+        "newId": "rounded_diamond",
+        "issue": "451"
+      },
+      {
+        "oldId": "diamond_outline",
+        "newId": "rounded_diamond_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "diamond_tall",
+        "newId": "tall_rounded_diamond",
+        "issue": "451"
+      },
+      {
+        "oldId": "diamond_tall_outline",
+        "newId": "tall_rounded_diamond_outline",
+        "issue": "451"
+      },
+      {
+        "oldId": "double_diamond_tall",
+        "newId": "tall_rounded_double_diamond",
+        "issue": "451"
+      },
       },
       {
         "oldId": "octagon",
