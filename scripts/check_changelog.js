@@ -48,8 +48,8 @@ const iconChangeProps = [
   "importBy",
   "issue",
   "pr",
-  "char",
   "sensitive",
+  "char",
 ].concat(importSources.map((source) => source.id));
 
 const externalSourceIconsDir = "docs/srcicons";
