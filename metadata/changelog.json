@@ -20768,7 +20768,7 @@
       },
       {
         "oldId": "plus_squat",
-        "newId": "squat_plus"
+        "newId": "wide_plus"
       },
       {
         "oldId": "winding_way_wide",
@@ -20952,7 +20952,7 @@
       },
       {
         "oldId": "triangle_down_squat",
-        "newId": "squat_rounded_triangle_down",
+        "newId": "wide_rounded_triangle_down",
         "issue": "451"
       },
       {

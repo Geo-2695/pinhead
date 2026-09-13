@@ -6,11 +6,7 @@ const pluralize =
 const stylePrefixes = ["anime", "cartoon", "pixel"];
 
 const variantPrefixes = [
-  "diagonal",
-  "horizontal",
-  "squat",
   "tall",
-  "vertical",
   "rounded",
   "wide",
   "narrow",

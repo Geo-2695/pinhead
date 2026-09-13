@@ -2916,6 +2916,9 @@
   "square_dot": {
     "super": "square"
   },
+  "squat_rock": {
+    "super": "rock"
+  },
   "squeeze_stile": {
     "super": "stile"
   },
