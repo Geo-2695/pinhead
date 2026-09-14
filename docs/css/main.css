@@ -385,11 +385,6 @@ img.invert {
   flex: 0 0 auto;
   position: relative;
 }
-.pixel-grid {
-  background: url(/15x15_grid.svg);
-  background-size: contain;
-  border: 1px solid var(--grid-color);
-}
 .pixel-grid,
 .pixel-grid-icon {
   position: absolute;
@@ -397,6 +392,15 @@ img.invert {
   height: 100%;
   left: 0;
   top: 0;
+}
+.pixel-grid {
+  background: url(/15x15_grid.svg);
+  background-size: 105px 105px;
+  height: calc(100% + 2px);
+  width: calc(100% + 2px);
+  left: -1px;
+  top: -1px;
+  border: 1px solid var(--grid-color);
 }
 .res-previews {
   display: flex;
