@@ -20898,6 +20898,12 @@
         "inspo": "p_wide_and_arrow_down"
       },
       {
+        "oldId": "chicane_arrow",
+        "newId": "chicane_arrow_up",
+        "by": "@quincylvania",
+        "issue": "337"
+      },
+      {
         "oldId": "dot_outline",
         "newId": "dot_outline",
         "edit": "resize",
