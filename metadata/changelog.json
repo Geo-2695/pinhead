@@ -19395,6 +19395,32 @@
         "inspo": "person_wearing_helmet_paddling_raft_on_water"
       },
       {
+        "newId": "three_dogs_under_dog_sled",
+        "by": "@quincylvania",
+        "inspo": [
+          "dog_sled",
+          "dog"
+        ]
+      },
+      {
+        "newId": "three_dogs_wearing_collars_under_dog_sled",
+        "by": "@quincylvania",
+        "inspo": [
+          "dog_sled",
+          "dog_wearing_collar"
+        ]
+      },
+      {
+        "newId": "dog_sled",
+        "by": "@quincylvania",
+        "inspo": "person_riding_dog_sled"
+      },
+      {
+        "oldId": "person_riding_dog_sled",
+        "newId": "person_riding_dog_sled",
+        "by": "@quincylvania"
+      },
+      {
         "oldId": "hand_reaching_down_toward_rough_surface",
         "newId": "hand_reaching_down_to_rough_surface"
       },
