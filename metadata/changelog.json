@@ -20748,6 +20748,11 @@
         "issue": "337"
       },
       {
+        "newId": "three_chevrons_right",
+        "by": "@quincylvania",
+        "inspo": "three_chevrons_right_above_conveyor_belt"
+      },
+      {
         "oldId": "conveyor_with_chevrons_right",
         "newId": "three_chevrons_right_above_conveyor_belt",
         "edit": "resize",
