@@ -20874,6 +20874,11 @@
         "issue": "337"
       },
       {
+        "newId": "p_wide_and_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "p_wide_with_arrow_bottom_right"
+      },
+      {
         "oldId": "e_wide_with_arrow_right",
         "newId": "e_wide_with_arrow_right",
         "edit": "minor",
@@ -20886,6 +20891,11 @@
         "edit": "minor",
         "by": "@quincylvania",
         "issue": "337"
+      },
+      {
+        "newId": "e_wide_and_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "p_wide_and_arrow_down"
       },
       {
         "oldId": "dot_outline",
