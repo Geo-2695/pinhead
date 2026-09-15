@@ -20690,6 +20690,13 @@
         "issue": "337"
       },
       {
+        "oldId": "arrow_bottom_right_to_eight_point_asterisk",
+        "newId": "arrow_bottom_right_to_eight_point_asterisk",
+        "edit": "minor",
+        "by": "@quincylvania",
+        "issue": "337"
+      },
+      {
         "oldId": "arrow_top_left",
         "newId": "arrow_top_left",
         "by": "@quincylvania",
