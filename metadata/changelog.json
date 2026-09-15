@@ -20898,6 +20898,34 @@
         "inspo": "p_wide_and_arrow_down"
       },
       {
+        "oldId": "flush_curb_with_arrow_right",
+        "newId": "flush_curb_with_arrow_right",
+        "edit": "minor",
+        "by": "@quincylvania",
+        "issue": "337"
+      },
+      {
+        "oldId": "rolled_curb_with_arrow_bottom_right",
+        "newId": "rolled_curb_with_arrow_bottom_right",
+        "edit": "minor",
+        "by": "@quincylvania",
+        "issue": "337"
+      },
+      {
+        "oldId": "lowered_curb_with_arrow_bottom_right",
+        "newId": "lowered_curb_with_arrow_bottom_right",
+        "edit": "minor",
+        "by": "@quincylvania",
+        "issue": "337"
+      },
+      {
+        "oldId": "raised_curb_with_arrow_down",
+        "newId": "raised_curb_with_arrow_down",
+        "edit": "minor",
+        "by": "@quincylvania",
+        "issue": "337"
+      },
+      {
         "oldId": "chicane_arrow",
         "newId": "chicane_arrow_up",
         "by": "@quincylvania",
