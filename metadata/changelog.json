@@ -19386,6 +19386,14 @@
         "inspo": "airboat_on_water"
       },
       {
+        "newId": "canoe_under_wrench",
+        "by": "@quincylvania",
+        "inspo": [
+          "canoe",
+          "motorboat_under_wrench"
+        ]
+      },
+      {
         "oldId": "person_wearing_helmet_padding_raft_on_water",
         "newId": "person_wearing_helmet_paddling_raft_on_water"
       },
