@@ -19395,11 +19395,21 @@
         "inspo": "person_wearing_helmet_paddling_raft_on_water"
       },
       {
+        "newId": "three_dogs",
+        "by": "@quincylvania",
+        "inspo": "dog"
+      },
+      {
+        "newId": "three_dogs_wearing_collars",
+        "by": "@quincylvania",
+        "inspo": "dog_wearing_collar"
+      },
+      {
         "newId": "three_dogs_under_dog_sled",
         "by": "@quincylvania",
         "inspo": [
           "dog_sled",
-          "dog"
+          "three_dogs"
         ]
       },
       {
@@ -19407,7 +19417,7 @@
         "by": "@quincylvania",
         "inspo": [
           "dog_sled",
-          "dog_wearing_collar"
+          "three_dogs_wearing_collars"
         ]
       },
       {
