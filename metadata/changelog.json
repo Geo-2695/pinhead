@@ -20853,6 +20853,19 @@
         "issue": "337"
       },
       {
+        "newId": "arrow_right_above_arrow_left",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrow_right",
+          "arrow_left"
+        ]
+      },
+      {
+        "newId": "arrow_up_beside_arrow_down",
+        "by": "@quincylvania",
+        "inspo": "arrow_right_above_arrow_left"
+      },
+      {
         "newId": "arrows_up_down",
         "by": "@quincylvania",
         "inspo": "arrows_left_right"
@@ -20873,6 +20886,62 @@
         "newId": "arrows_bottom_left_top_right",
         "by": "@quincylvania",
         "inspo": "arrows_left_right"
+      },
+      {
+        "newId": "arrow_bottom_right_beside_arrow_bottom_left_above_arrow_top_right_beside_arrow_top_left",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrow_bottom_right",
+          "arrow_bottom_left",
+          "arrow_top_right",
+          "arrow_top_left"
+        ]
+      },
+      {
+        "newId": "arrow_down_above_arrow_right_beside_arrow_left_above_arrow_up",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrow_down",
+          "arrow_right",
+          "arrow_left",
+          "arrow_up"
+        ]
+      },
+      {
+        "newId": "arrow_top_left_beside_arrow_top_right_above_arrow_bottom_left_beside_arrow_bottom_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrow_top_left",
+          "arrow_top_right",
+          "arrow_bottom_left",
+          "arrow_bottom_right"
+        ]
+      },
+      {
+        "newId": "arrows_top_left_bottom_right_bottom_left_top_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrows_top_left_bottom_right",
+          "arrows_bottom_left_top_right"
+        ]
+      },
+      {
+        "newId": "arrow_up_above_arrow_left_beside_arrow_right_above_arrow_down",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrow_up",
+          "arrow_left",
+          "arrow_right",
+          "arrow_down"
+        ]
+      },
+      {
+        "newId": "arrows_up_down_left_right",
+        "by": "@quincylvania",
+        "inspo": [
+          "arrows_up_down",
+          "arrows_left_right"
+        ]
       },
       {
         "oldId": "arrow_up_from_down_bracket",
