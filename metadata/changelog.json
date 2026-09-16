@@ -16871,6 +16871,15 @@
         "pr": "457"
       },
       {
+        "newId": "stone_wall_with_battlement",
+        "by": "@Geo-2695",
+        "inspo": [
+          "stone_wall",
+          "wall_with_battlement"
+        ],
+        "pr": "456"
+      },
+      {
         "newId": "curling_stone",
         "by": "@ooosssay",
         "pr": "331",
