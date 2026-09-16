@@ -298,12 +298,17 @@ function checkIcons() {
       return path;
     });
     // Join all paths into one. This could reveal issues that need to be fixed if multiple fills are overlapping
-    const d = paths.join("");
-    const normalizedD = svgPathParse.serializePath(
+    let d = paths.join("");
+    // need to manually normalize arc syntax
+    d = d.replace(
+      /A([+-]?(?:\d*\.?\d+))([+-]?(?:\d*\.?\d+))\s+(\d*\.?\d+)\s+([01])([01])\s*([+-]?(?:\d*\.?\d+))\s+([+-]?(?:\d*\.?\d+))/g,
+      "A $1 $2 $3 $4 $5 $6 $7",
+    );
+    d = svgPathParse.serializePath(
       svgPathParse.pathParse(d).normalize({ round: 2 }),
     );
     xml.root().ele("path", {
-      d: normalizedD,
+      d: d,
     });
 
     let xmlString = xml.end({ prettyPrint: true, headless: true });
