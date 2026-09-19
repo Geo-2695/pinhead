@@ -16883,18 +16883,79 @@
       },
       {
         "newId": "wall_with_battlement",
-        "by": "@Geo-2695",
-        "inspo": "city_gate",
+        "by": [
+          "@Geo-2695",
+          "@quincylvania"
+        ],
+        "inspo": "wall_with_battlement_and_sallyport",
         "pr": "457"
       },
       {
+        "oldId": "city_gate",
+        "newId": "wall_with_battlement_and_sallyport",
+        "by": "@quincylvania"
+      },
+      {
+        "oldId": "stone_wall",
+        "newId": "stone_wall",
+        "by": "@quincylvania"
+      },
+      {
         "newId": "stone_wall_with_battlement",
-        "by": "@Geo-2695",
+        "by": [
+          "@Geo-2695",
+          "@quincylvania"
+        ],
         "inspo": [
           "stone_wall",
           "wall_with_battlement"
         ],
         "pr": "456"
+      },
+      {
+        "newId": "stone_wall_with_battlement_and_sallyport",
+        "by": "@quincylvania",
+        "inspo": [
+          "stone_wall_with_battlement",
+          "wall_with_battlement_and_sallyport"
+        ]
+      },
+      {
+        "newId": "brick_wall",
+        "by": [
+          "@ooosssay",
+          "@quincylvania"
+        ],
+        "inspo": "stone_wall",
+        "pr": "428"
+      },
+      {
+        "newId": "brick_wall_with_bolt",
+        "by": [
+          "@ooosssay",
+          "@quincylvania"
+        ],
+        "inspo": [
+          "brick_wall",
+          "bolt"
+        ],
+        "pr": "428"
+      },
+      {
+        "newId": "brick_wall_with_battlement",
+        "by": "@quincylvania",
+        "inspo": [
+          "brick_wall",
+          "wall_with_battlement"
+        ]
+      },
+      {
+        "newId": "brick_wall_with_battlement_and_sallyport",
+        "by": "@quincylvania",
+        "inspo": [
+          "brick_wall_with_battlement",
+          "wall_with_battlement_and_sallyport"
+        ]
       },
       {
         "newId": "curling_stone",
