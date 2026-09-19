@@ -21576,6 +21576,18 @@
         "issue": "451"
       },
       {
+        "newId": "square_outline_with_bottom_right_half",
+        "by": "@quincylvania",
+        "inspo": "square_outline",
+        "issue": "462"
+      },
+      {
+        "newId": "square_outline_with_top_left_half",
+        "by": "@quincylvania",
+        "inspo": "square_outline",
+        "issue": "462"
+      },
+      {
         "newId": "square_outline_with_dot",
         "by": "@quincylvania",
         "inspo": [
