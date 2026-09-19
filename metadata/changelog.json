@@ -16738,7 +16738,10 @@
         "newId": "smiling_face_in_circle",
         "by": "@quincylvania",
         "inspo": "smiling_face_in_circle_outline",
-        "char": "🙂"
+        "char": [
+          "🙂",
+          "☻"
+        ],
       },
       {
         "newId": "smiling_face_with_eyeglasses_in_circle",
