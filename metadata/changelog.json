@@ -128,6 +128,7 @@
         "newId": "analog_watch",
         "src": "maki",
         "importBy": "@quincylvania",
+        "char": "⌚",
         "maki": "watch"
       },
       {
@@ -696,6 +697,7 @@
         "newId": "bolt",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "⚡",
         "maki": "charging-station",
         "temaki": "power"
       },
@@ -703,6 +705,7 @@
         "newId": "book",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "📕",
         "opengemeenten": "Gegevenswoordenboek",
         "temaki": "book_store"
       },
@@ -1253,7 +1256,8 @@
       },
       {
         "newId": "checkmark",
-        "by": "@quincylvania"
+        "by": "@quincylvania",
+        "char": "✓"
       },
       {
         "newId": "chefs_knife",
@@ -1318,6 +1322,7 @@
       {
         "newId": "circle",
         "by": "@quincylvania",
+        "char": "⚫",
         "maki": "circle"
       },
       {
@@ -2883,6 +2888,7 @@
         "newId": "house_with_chimney",
         "src": "maki",
         "importBy": "@quincylvania",
+        "char": "🏠",
         "maki": "home"
       },
       {
@@ -3315,6 +3321,7 @@
         "newId": "lightbulb",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "💡",
         "temaki": [
           "bulb",
           "bulb2",
@@ -3367,6 +3374,7 @@
         "newId": "locked_lock_with_keyhole",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "🔒",
         "temaki": "lock"
       },
       {
@@ -3959,6 +3967,7 @@
         "newId": "palette",
         "src": "osmcarto",
         "importBy": "@quincylvania",
+        "char": "🎨",
         "openhistoricalmap": "arts_centre",
         "osmcarto": "shop/art"
       },
@@ -4864,6 +4873,7 @@
         "newId": "portable_radio",
         "src": "temaki",
         "importBy": "@quincylvania",
+        "char": "📻",
         "temaki": "radio"
       },
       {
@@ -6292,6 +6302,7 @@
         "src": "temaki",
         "srcBy": "@quincylvania",
         "importBy": "@quincylvania",
+        "char": "🚊",
         "temaki": "tram"
       },
       {
@@ -7104,6 +7115,7 @@
       {
         "newId": "car_profile",
         "by": "@quincylvania",
+        "char": "🚗",
         "openhistoricalmap": "car"
       },
       {
@@ -9947,7 +9959,8 @@
         "newId": "badminton_racket_and_shuttlecock",
         "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/MX_road_sign_SIT-18.svg",
         "importBy": "@ooosssay",
-        "pr": "116"
+        "pr": "116",
+        "char": "🏸"
       },
       {
         "newId": "person_behind_desk",
@@ -11271,6 +11284,7 @@
         "src": "opengemeenten",
         "importBy": "@quincylvania",
         "issue": "141",
+        "char": "🔍",
         "opengemeenten": "Zoeken"
       },
       {
