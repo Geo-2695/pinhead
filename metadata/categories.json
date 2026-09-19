@@ -291,6 +291,9 @@
   "battery": {
     "super": "electric_power"
   },
+  "battlement": {
+    "super": "barrier"
+  },
   "bear": {
     "super": "carnivore"
   },
@@ -782,12 +785,6 @@
   },
   "city_building": {
     "super": "building"
-  },
-  "city_gate": {
-    "super": [
-      "building",
-      "gate"
-    ]
   },
   "clapperboard": {
     "super": "movie"
@@ -2645,6 +2642,9 @@
   },
   "saint_georges_cross": {
     "super": "christian_cross"
+  },
+  "sallyport": {
+    "super": "gate"
   },
   "sand_trowel": {
     "super": "trowel"
