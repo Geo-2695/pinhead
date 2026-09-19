@@ -17151,6 +17151,12 @@
         ]
       },
       {
+        "oldId": "rolled_paper_in_bottle",
+        "newId": "rolled_paper_in_bottle",
+        "by": "@quincylvania",
+        "inspo": "rolled_paper_in_bottle_in_water"
+      },
+      {
         "oldId": "japanese_teacup_with_steam",
         "newId": "japanese_teacup_with_steam",
         "edit": "minor",
