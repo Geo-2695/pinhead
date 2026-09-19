@@ -21112,42 +21112,112 @@
         "issue": "337"
       },
       {
+        "oldId": "p_wide",
+        "newId": "wide_p",
+        "issue": "463"
+      },
+      {
+        "oldId": "p_wide_in_parking_structure",
+        "newId": "wide_p_in_parking_structure",
+        "issue": "463"
+      },
+      {
+        "oldId": "p_wide_on_parking_line",
+        "newId": "wide_p_on_parking_line",
+        "issue": "463"
+      },
+      {
+        "oldId": "p_wide_under_roof",
+        "newId": "wide_p_under_roof",
+        "issue": "463"
+      },
+      {
+        "oldId": "p_wide_with_bicycle",
+        "newId": "wide_p_with_bicycle",
+        "issue": "463"
+      },
+      {
+        "oldId": "p_wide_with_parking_meter",
+        "newId": "wide_p_with_parking_meter",
+        "issue": "463"
+      },
+      {
+        "oldId": "parking_stall_markings_with_p_wide",
+        "newId": "parking_stall_markings_with_wide_p",
+        "issue": "463"
+      },
+      {
         "oldId": "p_wide_with_arrow_right",
-        "newId": "p_wide_with_arrow_right",
+        "newId": "wide_p_with_arrow_right",
         "edit": "minor",
         "by": "@quincylvania",
         "issue": "337"
       },
       {
         "oldId": "p_wide_with_arrow_bottom_right",
-        "newId": "p_wide_with_arrow_bottom_right",
+        "newId": "wide_p_with_arrow_bottom_right",
         "edit": "minor",
         "by": "@quincylvania",
         "issue": "337"
       },
       {
-        "newId": "p_wide_and_arrow_down",
+        "newId": "wide_p_and_arrow_down",
         "by": "@quincylvania",
-        "inspo": "p_wide_with_arrow_bottom_right"
+        "inspo": "wide_p_with_arrow_bottom_right"
+      },
+      {
+        "oldId": "e_wide",
+        "newId": "wide_e",
+        "issue": "463"
+      },
+      {
+        "oldId": "e_wide_in_parking_structure",
+        "newId": "wide_e_in_parking_structure",
+        "issue": "463"
+      },
+      {
+        "oldId": "e_wide_on_parking_line",
+        "newId": "wide_e_on_parking_line",
+        "issue": "463"
+      },
+      {
+        "oldId": "e_wide_under_roof",
+        "newId": "wide_e_under_roof",
+        "issue": "463"
+      },
+      {
+        "oldId": "e_wide_with_bicycle",
+        "newId": "wide_e_with_bicycle",
+        "issue": "463"
+      },
+      {
+        "oldId": "e_wide_with_parking_meter",
+        "newId": "wide_e_with_parking_meter",
+        "issue": "463"
+      },
+      {
+        "oldId": "parking_stall_markings_with_e_wide",
+        "newId": "parking_stall_markings_with_wide_e",
+        "issue": "463"
       },
       {
         "oldId": "e_wide_with_arrow_right",
-        "newId": "e_wide_with_arrow_right",
+        "newId": "wide_e_with_arrow_right",
         "edit": "minor",
         "by": "@quincylvania",
         "issue": "337"
       },
       {
         "oldId": "e_wide_with_arrow_bottom_right",
-        "newId": "e_wide_with_arrow_bottom_right",
+        "newId": "wide_e_with_arrow_bottom_right",
         "edit": "minor",
         "by": "@quincylvania",
         "issue": "337"
       },
       {
-        "newId": "e_wide_and_arrow_down",
+        "newId": "wide_e_and_arrow_down",
         "by": "@quincylvania",
-        "inspo": "p_wide_and_arrow_down"
+        "inspo": "wide_p_and_arrow_down"
       },
       {
         "oldId": "flush_curb_with_arrow_right",
