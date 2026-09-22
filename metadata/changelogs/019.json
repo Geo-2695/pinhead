@@ -1,0 +1,473 @@
+{
+  "majorVersion": "19",
+  "date": "2026-03-22",
+  "iconChanges": [
+    {
+      "newId": "crosshair",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "bench_with_armrests",
+      "by": "@quincylvania",
+      "inspo": "bench",
+      "issue": "148"
+    },
+    {
+      "newId": "bench_with_armrests_and_backrest",
+      "by": "@quincylvania",
+      "inspo": "bench_with_backrest",
+      "issue": "148",
+      "temaki": "bench"
+    },
+    {
+      "newId": "person_sitting_on_bench",
+      "by": "@quincylvania",
+      "inspo": "bench"
+    },
+    {
+      "newId": "person_sitting_on_bench_with_armrests",
+      "by": "@quincylvania",
+      "inspo": "bench_with_armrests"
+    },
+    {
+      "newId": "person_sitting_on_bench_with_backrest",
+      "by": "@quincylvania",
+      "inspo": "bench_with_backrest"
+    },
+    {
+      "newId": "person_sitting_on_bench_with_armrests_and_backrest",
+      "by": "@quincylvania",
+      "inspo": "bench_with_armrests_and_backrest"
+    },
+    {
+      "newId": "bench_with_plaque",
+      "by": "@quincylvania",
+      "inspo": "bench"
+    },
+    {
+      "newId": "bench_with_plaque_and_armrests",
+      "by": "@quincylvania",
+      "inspo": "bench_with_armrests"
+    },
+    {
+      "newId": "bench_with_backrest_with_plaque",
+      "by": "@quincylvania",
+      "inspo": "bench_with_backrest"
+    },
+    {
+      "newId": "bench_with_armrests_and_backrest_with_plaque",
+      "by": "@quincylvania",
+      "inspo": "bench_with_armrests_and_backrest"
+    },
+    {
+      "newId": "dog_sitting",
+      "by": "@quincylvania",
+      "inspo": "dog",
+      "issue": "149"
+    },
+    {
+      "newId": "dog_sitting_and_exclamation_point",
+      "by": "@quincylvania",
+      "inspo": "dog_sitting",
+      "issue": "149"
+    },
+    {
+      "newId": "dog_sitting_wearing_collar",
+      "by": "@quincylvania",
+      "inspo": [
+        "dog_sitting",
+        "dog_wearing_collar"
+      ],
+      "issue": "149"
+    },
+    {
+      "newId": "dog_sitting_wearing_collar_and_exclamation_point",
+      "by": "@quincylvania",
+      "inspo": "dog_sitting_wearing_collar",
+      "issue": "149"
+    },
+    {
+      "newId": "dog_sitting_wearing_collar_on_leash",
+      "by": "@quincylvania",
+      "inspo": [
+        "dog_sitting",
+        "dog_wearing_collar_on_leash"
+      ],
+      "issue": "149"
+    },
+    {
+      "newId": "dog_sitting_wearing_harness",
+      "by": "@quincylvania",
+      "inspo": [
+        "dog_sitting",
+        "dog_wearing_harness"
+      ],
+      "issue": "149"
+    },
+    {
+      "newId": "dog_sitting_wearing_harness_on_leash",
+      "by": "@quincylvania",
+      "inspo": [
+        "dog_sitting",
+        "dog_wearing_harness_on_leash"
+      ],
+      "issue": "149"
+    },
+    {
+      "oldId": "dollar_swap_to_euro",
+      "newId": "dollar_swap_to_euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "euro",
+      "newId": "euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "yen_yuan",
+      "newId": "yen_yuan",
+      "by": "@quincylvania",
+      "issue": "77"
+    },
+    {
+      "newId": "rupee",
+      "by": "@quincylvania",
+      "issue": "79"
+    },
+    {
+      "newId": "ruble",
+      "by": "@quincylvania",
+      "issue": "80"
+    },
+    {
+      "newId": "tag_with_dollar",
+      "by": "@quincylvania",
+      "inspo": "tag",
+      "issue": "150"
+    },
+    {
+      "newId": "tag_with_euro",
+      "by": "@quincylvania",
+      "inspo": "tag",
+      "issue": "150",
+      "opengemeenten": "Prijskaartje"
+    },
+    {
+      "newId": "tag_with_pound",
+      "by": "@quincylvania",
+      "inspo": "tag",
+      "issue": "150"
+    },
+    {
+      "newId": "tag_with_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "tag",
+      "issue": [
+        "150",
+        "77"
+      ]
+    },
+    {
+      "newId": "tag_with_rupee",
+      "by": "@quincylvania",
+      "inspo": "tag",
+      "issue": [
+        "150",
+        "79"
+      ]
+    },
+    {
+      "newId": "tag_with_ruble",
+      "by": "@quincylvania",
+      "inspo": "tag",
+      "issue": [
+        "150",
+        "80"
+      ]
+    },
+    {
+      "oldId": "campsite_with_dollar",
+      "newId": "campsite_with_dollar",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "campsite_with_euro",
+      "newId": "campsite_with_euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "campsite_with_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "campsite_with_dollar",
+      "issue": "77"
+    },
+    {
+      "newId": "campsite_with_rupee",
+      "by": "@quincylvania",
+      "inspo": "campsite_with_dollar",
+      "issue": "79"
+    },
+    {
+      "newId": "campsite_with_ruble",
+      "by": "@quincylvania",
+      "inspo": "campsite_with_dollar",
+      "issue": "80"
+    },
+    {
+      "oldId": "tipi_campsite_with_dollar",
+      "newId": "tipi_campsite_with_dollar",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "tipi_campsite_with_euro",
+      "newId": "tipi_campsite_with_euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "tipi_campsite_with_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "tipi_campsite_with_dollar",
+      "issue": "77"
+    },
+    {
+      "newId": "tipi_campsite_with_rupee",
+      "by": "@quincylvania",
+      "inspo": "tipi_campsite_with_dollar",
+      "issue": "79"
+    },
+    {
+      "newId": "tipi_campsite_with_ruble",
+      "by": "@quincylvania",
+      "inspo": "tipi_campsite_with_dollar",
+      "issue": "80"
+    },
+    {
+      "oldId": "bicycle_and_dollar",
+      "newId": "bicycle_and_dollar",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "bicycle_and_euro",
+      "newId": "bicycle_and_euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "bicycle_and_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "bicycle_and_dollar",
+      "issue": "77"
+    },
+    {
+      "newId": "bicycle_and_rupee",
+      "by": "@quincylvania",
+      "inspo": "bicycle_and_dollar",
+      "issue": "79"
+    },
+    {
+      "newId": "bicycle_and_ruble",
+      "by": "@quincylvania",
+      "inspo": "bicycle_and_dollar",
+      "issue": "80"
+    },
+    {
+      "oldId": "cargobike_and_dollar",
+      "newId": "cargobike_and_dollar",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "cargobike_and_euro",
+      "newId": "cargobike_and_euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "cargobike_and_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "cargobike_and_dollar",
+      "issue": "77"
+    },
+    {
+      "newId": "cargobike_and_rupee",
+      "by": "@quincylvania",
+      "inspo": "cargobike_and_dollar",
+      "issue": "79"
+    },
+    {
+      "newId": "cargobike_and_ruble",
+      "by": "@quincylvania",
+      "inspo": "cargobike_and_dollar",
+      "issue": "80"
+    },
+    {
+      "oldId": "car_with_dollar",
+      "newId": "car_with_dollar",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "car_with_euro",
+      "newId": "car_with_euro",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "car_with_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar",
+      "issue": "77"
+    },
+    {
+      "newId": "car_with_rupee",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar",
+      "issue": "79"
+    },
+    {
+      "newId": "car_with_ruble",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar",
+      "issue": "80"
+    },
+    {
+      "newId": "person_using_terminal_kiosk_with_euro",
+      "by": "@quincylvania",
+      "inspo": "person_using_terminal_kiosk_with_dollar"
+    },
+    {
+      "newId": "person_using_terminal_kiosk_with_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "person_using_terminal_kiosk_with_dollar",
+      "issue": "77"
+    },
+    {
+      "newId": "person_using_terminal_kiosk_with_rupee",
+      "by": "@quincylvania",
+      "inspo": "person_using_terminal_kiosk_with_dollar",
+      "issue": "79"
+    },
+    {
+      "newId": "person_using_terminal_kiosk_with_ruble",
+      "by": "@quincylvania",
+      "inspo": "person_using_terminal_kiosk_with_dollar",
+      "issue": "80"
+    },
+    {
+      "newId": "person_using_terminal_kiosk_with_pound",
+      "by": "@quincylvania",
+      "inspo": "person_using_terminal_kiosk_with_dollar"
+    },
+    {
+      "newId": "milk_carton_and_apple",
+      "by": "@quincylvania",
+      "inspo": "milk_carton_and_apple_and_euro"
+    },
+    {
+      "oldId": "milk_carton_and_apple_and_euro",
+      "newId": "milk_carton_and_apple_and_euro",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "milk_carton_and_apple_and_dollar",
+      "by": "@quincylvania",
+      "inspo": "milk_carton_and_apple_and_euro"
+    },
+    {
+      "newId": "milk_carton_and_apple_and_pound",
+      "by": "@quincylvania",
+      "inspo": "milk_carton_and_apple_and_euro"
+    },
+    {
+      "newId": "milk_carton_and_apple_and_yen_yuan",
+      "by": "@quincylvania",
+      "inspo": "milk_carton_and_apple_and_euro",
+      "issue": "77"
+    },
+    {
+      "newId": "milk_carton_and_apple_and_rupee",
+      "by": "@quincylvania",
+      "inspo": "milk_carton_and_apple_and_euro",
+      "issue": "79"
+    },
+    {
+      "newId": "milk_carton_and_apple_and_ruble",
+      "by": "@quincylvania",
+      "inspo": "milk_carton_and_apple_and_euro",
+      "issue": "80"
+    },
+    {
+      "oldId": "noodle_bowl_and_chopsticks_with_noodles",
+      "newId": "noodle_bowl_and_chopsticks_with_noodles",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "noodle_bowl_with_steam",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "paint_roller",
+      "newId": "paint_roller",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "person_behind_barred_window",
+      "newId": "person_behind_barred_window",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "terminal_screen_with_dollar_prompt",
+      "newId": "terminal_screen_with_dollar_prompt",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "boxes_on_pallet",
+      "newId": "boxes_on_pallet",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "life_ring",
+      "newId": "life_ring",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "soccer_ball",
+      "newId": "soccer_ball",
+      "by": "@westnordost",
+      "inspo": "https://www.svgrepo.com/show/151403/soccer-ball.svg",
+      "pr": "146"
+    },
+    {
+      "oldId": "target",
+      "newId": "target",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "oldId": "target_with_archery_arrow_at_bullseye",
+      "newId": "target_with_archery_arrow_at_bullseye",
+      "by": "@westnordost",
+      "pr": "146"
+    },
+    {
+      "newId": "apple_core",
+      "by": "@quincylvania",
+      "inspo": "wheelie_bin_and_apple_core"
+    }
+  ]
+}

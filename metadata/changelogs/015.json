@@ -1,0 +1,603 @@
+{
+  "majorVersion": "15",
+  "date": "2026-03-11",
+  "iconChanges": [
+    {
+      "newId": "crystal_ball_on_sphere_stand",
+      "by": "@ooosssay",
+      "pr": "106",
+      "char": "🔮"
+    },
+    {
+      "newId": "piano_keys",
+      "by": "@ooosssay",
+      "pr": "103",
+      "char": "🎹"
+    },
+    {
+      "newId": "hand_dropping_circles",
+      "by": "@ooosssay",
+      "inspo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Conventional_Toll_Plaza_Advance_Sign_2.svg",
+      "pr": "103"
+    },
+    {
+      "newId": "hand_dropping_circles_into_container",
+      "by": "@ooosssay",
+      "inspo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Conventional_Toll_Plaza_Advance_Sign_2.svg",
+      "pr": "103"
+    },
+    {
+      "newId": "mounted_slotted_dispenser",
+      "by": "@quincylvania",
+      "inspo": "mounted_slotted_dispenser_with_dog_wearing_collar"
+    },
+    {
+      "newId": "mounted_slotted_dispenser_with_poo_pile",
+      "by": "@quincylvania",
+      "inspo": "mounted_slotted_dispenser_with_dog_wearing_collar"
+    },
+    {
+      "newId": "antler",
+      "by": "@quincylvania",
+      "inspo": "deer_head_with_antlers",
+      "issue": "86"
+    },
+    {
+      "newId": "bone",
+      "by": "@quincylvania",
+      "char": "🦴"
+    },
+    {
+      "newId": "jack_o_lantern",
+      "by": "@quincylvania",
+      "inspo": "pumpkin",
+      "issue": "83",
+      "char": "🎃"
+    },
+    {
+      "newId": "compact_box_truck_with_box_peak",
+      "by": "@quincylvania",
+      "inspo": "compact_box_truck"
+    },
+    {
+      "newId": "sub_sandwich_with_steam",
+      "by": "@quincylvania",
+      "inspo": [
+        "sub_sandwich",
+        "loaf_of_pan_bread_with_steam"
+      ],
+      "issue": "101"
+    },
+    {
+      "newId": "vinyl_record",
+      "by": "@quincylvania",
+      "issue": "70"
+    },
+    {
+      "newId": "pixel_ape_face",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pixel_three_inch_floppy_disk",
+      "by": "@quincylvania",
+      "inspo": "three_inch_floppy_disk"
+    },
+    {
+      "newId": "winding_way_narrow",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "winding_way",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "winding_way_wide",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_tap",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_tap_with_droplet",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "water_glass_under_faucet",
+      "newId": "water_tap_with_drinking_glass",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_tap_with_handle",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "water_faucet_with_droplet",
+      "newId": "water_tap_with_handle_and_droplet",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_tap_with_handle_and_drinking_glass",
+      "by": "@quincylvania",
+      "issue": "52",
+      "char": "🚰",
+      "openhistoricalmap": "drinking_water",
+      "osmic": "outdoor/drinking-water"
+    },
+    {
+      "oldId": "water_tap",
+      "newId": "water_standpipe_with_handle",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_standpipe_with_handle_and_droplet",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "water_glass_under_water_tap",
+      "newId": "water_standpipe_with_handle_and_drinking_glass",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "water_tap_with_pump_handle",
+      "newId": "water_standpipe_with_pump_handle",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_standpipe_with_pump_handle_and_droplet",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_standpipe_with_pump_handle_and_drinking_glass",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "water_tap_with_motor",
+      "newId": "water_standpipe_with_motor_and_handle",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_standpipe_with_motor_and_handle_and_droplet",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_standpipe_with_motor_and_handle_and_drinking_glass",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "water_pipe_return_bend_with_handle",
+      "by": "@quincylvania",
+      "inspo": "water_pipe_return_bend_with_motor_and_handle"
+    },
+    {
+      "oldId": "water_pipe_with_motor",
+      "newId": "water_pipe_return_bend_with_motor_and_handle",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "peace_sign",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": [
+        "107",
+        "75"
+      ],
+      "healthicons": "symbols/peace"
+    },
+    {
+      "newId": "biohazard_symbol",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "symbols/outbreak"
+    },
+    {
+      "newId": "video_camera_symbol",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "symbols/video"
+    },
+    {
+      "newId": "mosquito",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🦟",
+      "healthicons": "zoonoses/mosquito"
+    },
+    {
+      "newId": "antibody",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/antibody"
+    },
+    {
+      "newId": "anus",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "nudity",
+      "healthicons": "body/anus"
+    },
+    {
+      "newId": "arm",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/arm"
+    },
+    {
+      "newId": "bacteria",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🦠",
+      "healthicons": "body/bacteria"
+    },
+    {
+      "newId": "bladder",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/bladder"
+    },
+    {
+      "newId": "blood_cells",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/blood-cells"
+    },
+    {
+      "newId": "cell_nuclei",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/cell-nuclei"
+    },
+    {
+      "newId": "dna",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🧬",
+      "healthicons": "body/dna"
+    },
+    {
+      "newId": "enzyme",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/enzyme"
+    },
+    {
+      "newId": "female_groin",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "nudity",
+      "healthicons": "body/vagina-alt"
+    },
+    {
+      "newId": "female_reproductive_system",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/female-reproductive_system"
+    },
+    {
+      "newId": "fetus",
+      "by": "@quincylvania",
+      "inspo": "fetus_in_circle_outline",
+      "issue": "107"
+    },
+    {
+      "newId": "fetus_in_circle",
+      "by": "@quincylvania",
+      "inspo": "fetus_in_circle_outline",
+      "issue": "107"
+    },
+    {
+      "newId": "fetus_in_circle_outline",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "people/fetus"
+    },
+    {
+      "newId": "foot",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🦶",
+      "healthicons": "body/foot"
+    },
+    {
+      "newId": "gallbladder",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/gallbladder"
+    },
+    {
+      "newId": "human_head",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/head"
+    },
+    {
+      "newId": "heart_organ",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🫀",
+      "healthicons": "body/heart-organ"
+    },
+    {
+      "newId": "intestine",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/intestine"
+    },
+    {
+      "newId": "joint",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/joints"
+    },
+    {
+      "newId": "kidneys",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/kidneys"
+    },
+    {
+      "newId": "leg",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🦵",
+      "healthicons": "body/leg"
+    },
+    {
+      "newId": "leg_with_varicose_veins",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "conditions/varicose-vein"
+    },
+    {
+      "newId": "lungs",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🫁",
+      "healthicons": "body/lungs"
+    },
+    {
+      "newId": "lungs_with_right_side_spots",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "conditions/tb"
+    },
+    {
+      "newId": "male_genitalia",
+      "by": "@quincylvania",
+      "inspo": "male_genitalia_with_urethra",
+      "issue": "107",
+      "sensitive": "nudity"
+    },
+    {
+      "newId": "male_genitalia_with_urethra",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "nudity",
+      "healthicons": "body/penis"
+    },
+    {
+      "newId": "male_genitalia_with_testicles",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "nudity",
+      "healthicons": "body/testicles"
+    },
+    {
+      "newId": "male_groin",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "nudity",
+      "healthicons": "body/penis-alt"
+    },
+    {
+      "newId": "nose_outline",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/nose"
+    },
+    {
+      "newId": "pancreas",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/pancreas"
+    },
+    {
+      "newId": "prostate",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/prostate"
+    },
+    {
+      "newId": "spleen",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/spleen"
+    },
+    {
+      "newId": "stomach",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/stomach"
+    },
+    {
+      "newId": "thyroid",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/thyroid"
+    },
+    {
+      "newId": "tissue",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/tissue"
+    },
+    {
+      "newId": "tumor",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/tumour"
+    },
+    {
+      "newId": "person_with_open_arms",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/body"
+    },
+    {
+      "newId": "underweight_person",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "conditions/underweight"
+    },
+    {
+      "newId": "overweight_person",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "conditions/overweight"
+    },
+    {
+      "newId": "pregnant_person",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "people/pregnant"
+    },
+    {
+      "newId": "person_vomiting",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "conditions/vomiting"
+    },
+    {
+      "newId": "person_with_droplets",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "conditions/sweating"
+    },
+    {
+      "newId": "person_walking_holding_railing",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "exercise/walk-supported"
+    },
+    {
+      "newId": "rememberance_ribbon",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🎗️",
+      "healthicons": "conditions/ribbon"
+    },
+    {
+      "newId": "face_mask",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "ppe/ppe-face_mask"
+    },
+    {
+      "newId": "respirator",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "ppe/respirator"
+    },
+    {
+      "newId": "diaper",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "symbols/nappy-diaper"
+    },
+    {
+      "newId": "quadcopter_drone",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "vehicles/drone"
+    },
+    {
+      "newId": "sayana_press",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "contraceptives/sayana-press"
+    },
+    {
+      "newId": "sperm",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "contraceptives/sperm"
+    },
+    {
+      "newId": "condom",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "sexually_suggestive",
+      "healthicons": "contraceptives/male-condom"
+    },
+    {
+      "newId": "condom_and_venus",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "sensitive": "sexually_suggestive",
+      "healthicons": "contraceptives/female-condom"
+    },
+    {
+      "newId": "condom_and_mars",
+      "by": "@quincylvania",
+      "inspo": [
+        "condom_and_venus",
+        "mars"
+      ],
+      "issue": "107",
+      "sensitive": "sexually_suggestive"
+    }
+  ]
+}

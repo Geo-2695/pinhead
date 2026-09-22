@@ -1,0 +1,162 @@
+{
+  "majorVersion": "10",
+  "date": "2026-03-03",
+  "iconChanges": [
+    {
+      "newId": "person_riding_bicycle_up_uneven_slope",
+      "src": "https://raw.githubusercontent.com/mapbox/maki/refs/heads/valleyofdawn/icons/mountain-bike-15.svg",
+      "importBy": "@dschep",
+      "issue": "9",
+      "pr": "58"
+    },
+    {
+      "newId": "person_riding_bicycle_down_uneven_slope",
+      "by": "@dschep",
+      "inspo": "person_riding_bicycle_up_uneven_slope",
+      "issue": "9",
+      "pr": "58"
+    },
+    {
+      "newId": "cargobike",
+      "by": "@dschep",
+      "pr": "59"
+    },
+    {
+      "newId": "cargobike_on_parking_line",
+      "by": "@dschep",
+      "inspo": [
+        "cargobike",
+        "parking_line"
+      ],
+      "pr": "59"
+    },
+    {
+      "newId": "cargobike_in_parking_structure",
+      "by": "@dschep",
+      "inspo": [
+        "cargobike",
+        "parking_structure"
+      ],
+      "pr": "59"
+    },
+    {
+      "newId": "flat_head_thumb_tack",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "flag",
+      "newId": "flagpole_with_flag"
+    },
+    {
+      "newId": "flag",
+      "by": "@quincylvania",
+      "inspo": "flagpole_with_flag"
+    },
+    {
+      "newId": "flagstick_with_pennant",
+      "by": "@quincylvania",
+      "opentrailmap": "route_marker"
+    },
+    {
+      "newId": "flagstick_with_pennant_in_hole",
+      "by": "@quincylvania",
+      "osmcarto": "leisure/golf_pin"
+    },
+    {
+      "newId": "flagstick_with_flag",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "flagstick_with_flag_in_hole",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "pennant_on_square",
+      "newId": "flagstick_with_pennant_on_square"
+    },
+    {
+      "oldId": "person_swinging_golf_club_beside_golf_pin",
+      "newId": "person_swinging_golf_club_beside_flagstick_with_pennant"
+    },
+    {
+      "oldId": "waterfall",
+      "newId": "waterfall_with_froth",
+      "issue": "18"
+    },
+    {
+      "newId": "waterfall_into_water",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "issue": "18",
+      "nps": "waterfall",
+      "opentrailmap": [
+        "waterfall",
+        "waterfall-canoeable",
+        "waterfall-hazard"
+      ],
+      "osmcarto": "natural/waterfall",
+      "osmic": "nature/waterfall"
+    },
+    {
+      "newId": "waterfall",
+      "by": "@quincylvania",
+      "inspo": "waterfall_into_water",
+      "issue": "18"
+    },
+    {
+      "newId": "person_climbing",
+      "by": "@quincylvania",
+      "inspo": "person_climbing_with_climbing_rope",
+      "char": "🧗"
+    },
+    {
+      "newId": "bus_within_guideway",
+      "by": "@quincylvania",
+      "inspo": "bus_with_destination_display_within_guideway"
+    },
+    {
+      "newId": "bus_with_pantograph",
+      "by": "@quincylvania",
+      "inspo": "bus_with_destination_display_and_pantograph"
+    },
+    {
+      "oldId": "ticket_in_slot",
+      "newId": "ticket_in_slot",
+      "by": "@quincylvania",
+      "inspo": [
+        "ticket",
+        "envelope_in_slot"
+      ]
+    },
+    {
+      "newId": "shopping_bag_with_heart",
+      "by": "@quincylvania",
+      "inspo": [
+        "shopping_bag",
+        "heart"
+      ],
+      "osmcarto": "shop/charity"
+    },
+    {
+      "newId": "shopping_bag_with_ampersand",
+      "by": "@quincylvania",
+      "inspo": [
+        "shopping_bag",
+        "ampersand"
+      ],
+      "osmcarto": "shop/department_store"
+    },
+    {
+      "newId": "music_notes_eighth",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "osmcarto": "amenity/nightclub",
+      "osmic": "amenity/nightclub"
+    },
+    {
+      "newId": "pixel_anchor",
+      "by": "@quincylvania",
+      "inspo": "anchor"
+    }
+  ]
+}

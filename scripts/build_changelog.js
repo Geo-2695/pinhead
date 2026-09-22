@@ -24,7 +24,7 @@ turndownService.addRule("keepImagesAsHtml", {
 
 const iconFilesById = {};
 
-globSync(`./icons/**/*.svg`).forEach((file) => {
+globSync("./icons/**/*.svg").forEach((file) => {
   const id = parse(file).name;
   iconFilesById[id] = true;
 });
@@ -57,18 +57,9 @@ const externalSourceIconsDir = "docs/srcicons";
 downloadLegacyAssets("docs");
 downloadExternalSourceAssets(externalSourceIconsDir);
 
-const changelogPath = "metadata/changelog.json";
-
-const changelogs = JSON.parse(readFileSync(changelogPath));
-
 const startTime = Date.now();
 
-if (await validateChangelogs(changelogs)) {
-  const currentChangelog = changelogs.find(
-    (c) => c.majorVersion === currentMajorVersion,
-  );
-  printTextForChangelog(currentChangelog);
-
+if (await validateChangelogs("metadata/changelogs/*.json")) {
   console.log(
     "changelog.json is valid, done in " + (Date.now() - startTime) + " ms",
   );
@@ -77,43 +68,40 @@ if (await validateChangelogs(changelogs)) {
   process.exit(1);
 }
 
-const formattedChangelogs = formatChangelogs(changelogs);
-writeFileSync(changelogPath, JSON.stringify(formattedChangelogs, null, 2));
-
-function formatChangelogs(changelogs) {
-  const formattedChangelogs = changelogs.toSorted(
-    (a, b) => parseInt(a.majorVersion) - parseInt(b.majorVersion),
-  );
+function formatChangelog(changelog) {
   // sort properties into a consistent order
-  formattedChangelogs.map((changelog) => {
-    changelog.iconChanges = changelog.iconChanges.map((iconChange) => {
-      const returner = {};
-      for (const prop of iconChangeProps) {
-        if (prop in iconChange) {
-          returner[prop] = iconChange[prop];
-        }
-        // collapse single string arrays down to string
-        if (Array.isArray(returner[prop]) && returner[prop].length === 1) {
-          returner[prop] = returner[prop][0];
-        }
+  changelog.iconChanges = changelog.iconChanges.map((iconChange) => {
+    const returner = {};
+    for (const prop of iconChangeProps) {
+      if (prop in iconChange) {
+        returner[prop] = iconChange[prop];
       }
-      return returner;
-    });
+      // collapse single string arrays down to string
+      if (Array.isArray(returner[prop]) && returner[prop].length === 1) {
+        returner[prop] = returner[prop][0];
+      }
+    }
+    return returner;
   });
-  return formattedChangelogs;
+  return changelog;
 }
 
-async function validateChangelogs(changelogs) {
-  // sort oldest to newest
-  const sortedChangelogs = changelogs.toSorted(
-    (a, b) => parseInt(a.majorVersion) - parseInt(b.majorVersion),
-  );
-
+async function validateChangelogs(changelogsPath) {
   const iconsById = {};
 
-  for (const versionChangelog of sortedChangelogs) {
-    if (!(await validateChangelog(versionChangelog, iconsById))) {
+  const files = globSync(changelogsPath);
+  files.sort((f1, f2) => parseInt(parse(f1).name) - parseInt(parse(f2).name));
+
+  for (const file of files) {
+    const changelog = JSON.parse(readFileSync(file));
+    if (!(await validateChangelog(changelog, iconsById))) {
       return;
+    }
+    const formattedChangelog = formatChangelog(changelog);
+    writeFileSync(file, JSON.stringify(formattedChangelog, null, 2));
+
+    if (file === files[files.length - 1]) {
+      printTextForChangelog(changelog);
     }
   }
 

@@ -1,0 +1,76 @@
+{
+  "majorVersion": "3",
+  "date": "2026-02-21",
+  "iconChanges": [
+    {
+      "newId": "car_profile",
+      "by": "@quincylvania",
+      "char": "🚗",
+      "openhistoricalmap": "car"
+    },
+    {
+      "newId": "car_profile_with_raised_hood",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pickup_truck",
+      "by": "@quincylvania",
+      "char": "🛻"
+    },
+    {
+      "newId": "pickup_truck_with_raised_hood",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pickup_truck_with_crates",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pickup_truck_with_slidein_camper",
+      "by": "@quincylvania",
+      "nps": "rv-campground"
+    },
+    {
+      "newId": "compact_box_truck",
+      "by": "@quincylvania",
+      "char": "🚚"
+    },
+    {
+      "newId": "compact_box_truck_with_greek_cross",
+      "by": "@quincylvania",
+      "healthicons": "vehicles/mobile-clinic"
+    },
+    {
+      "newId": "compact_box_truck_with_heavy_six_point_asterisk",
+      "by": "@quincylvania",
+      "char": "🚑"
+    },
+    {
+      "oldId": "truck_profile",
+      "newId": "box_truck",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "flatbed_truck",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "maple_leaf",
+      "by": "@quincylvania",
+      "char": "🍁"
+    },
+    {
+      "oldId": "wifi",
+      "newId": "wifi",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "mobile_phone_with_keypad_and_antenna_and_wifi",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "mobile_phone_with_touchscreen_and_antenna_and_wifi",
+      "by": "@quincylvania"
+    }
+  ]
+}

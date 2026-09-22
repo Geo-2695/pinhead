@@ -1,0 +1,86 @@
+{
+  "majorVersion": "8",
+  "date": "2026-02-28",
+  "iconChanges": [
+    {
+      "newId": "syrup_jug",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "syrup_jug_with_maple_leaf",
+      "by": "@quincylvania",
+      "inspo": "maple_leaf"
+    },
+    {
+      "newId": "syrup_jug_with_maple_leaf_and_droplet",
+      "by": "@quincylvania",
+      "inspo": "maple_leaf"
+    },
+    {
+      "newId": "slice_of_pan_bread",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "slice_of_pan_bread_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "ladder",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "step_ladder",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "step_ladder_doubled_sided",
+      "by": "@quincylvania",
+      "char": "🪜"
+    },
+    {
+      "newId": "wifi_weak_signal",
+      "by": "@quincylvania",
+      "inspo": "wifi"
+    },
+    {
+      "newId": "wifi_weakest_signal",
+      "by": "@quincylvania",
+      "inspo": "wifi"
+    },
+    {
+      "newId": "wifi_no_signal",
+      "by": "@quincylvania",
+      "inspo": "wifi"
+    },
+    {
+      "newId": "wifi_no_signal_with_x",
+      "by": "@quincylvania",
+      "inspo": "wifi"
+    },
+    {
+      "newId": "phone_bars",
+      "by": "@quincylvania",
+      "char": "📶"
+    },
+    {
+      "newId": "phone_bars_weak_signal",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_bars_weaker_signal",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_bars_weakest_signal",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_bars_no_signal",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_bars_no_signal_with_x",
+      "by": "@quincylvania"
+    }
+  ]
+}

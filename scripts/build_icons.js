@@ -13,7 +13,7 @@ import { ChangelogReader } from "../src/ChangelogReader.js";
 const sourceDir = "icons";
 const distIconsDir = "dist/icons";
 
-const changelogs = JSON.parse(readFileSync("metadata/changelog.json"));
+const changelogs = JSON.parse(readFileSync("dist/changelog.json"));
 const changelogReader = new ChangelogReader(changelogs);
 
 const version = JSON.parse(readFileSync("package.json")).version;

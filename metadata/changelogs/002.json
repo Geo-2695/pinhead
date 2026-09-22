@@ -1,0 +1,68 @@
+{
+  "majorVersion": "2",
+  "date": "2026-02-20",
+  "iconChanges": [
+    {
+      "oldId": "cross_latin",
+      "newId": "latin_cross"
+    },
+    {
+      "oldId": "flower_boquette",
+      "newId": "flower_bouquet",
+      "issue": "1"
+    },
+    {
+      "oldId": "plan_in_raised_planter",
+      "newId": "plant_in_raised_planter"
+    },
+    {
+      "oldId": "hanging_rail_transit_vehicle",
+      "newId": "hanging_rail_transit_vehicle_with_destination_display"
+    },
+    {
+      "oldId": "local_transit_vehicle",
+      "newId": "transit_vehicle_with_destination_display"
+    },
+    {
+      "oldId": "monorail_transit_vehicle",
+      "newId": "monorail_transit_vehicle_with_destination_display"
+    },
+    {
+      "oldId": "person_boarding_bus",
+      "newId": "person_boarding_bus_with_destination_display"
+    },
+    {
+      "oldId": "person_boarding_hanging_rail_transit_vehicle",
+      "newId": "person_boarding_hanging_rail_transit_vehicle_with_destination_display"
+    },
+    {
+      "oldId": "person_boarding_local_transit_vehicle",
+      "newId": "person_boarding_transit_vehicle_with_destination_display"
+    },
+    {
+      "oldId": "person_boarding_monorail_transit_vehicle",
+      "newId": "person_boarding_monorail_transit_vehicle_with_destination_display"
+    },
+    {
+      "newId": "turtle_top",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_down_to_down_bracket",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_up_to_up_bracket",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_left_to_left_bracket",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "arrow_right_to_right_bracket",
+      "newId": "arrow_right_to_right_bracket",
+      "by": "@quincylvania"
+    }
+  ]
+}

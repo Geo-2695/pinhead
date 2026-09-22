@@ -1,0 +1,121 @@
+{
+  "majorVersion": "7",
+  "date": "2026-02-27",
+  "iconChanges": [
+    {
+      "newId": "canoe_on_sedan",
+      "by": "@quincylvania",
+      "inspo": "sedan"
+    },
+    {
+      "newId": "canoe_on_station_wagon",
+      "by": "@quincylvania",
+      "inspo": "station_wagon"
+    },
+    {
+      "newId": "canoe_on_pickup_truck",
+      "by": "@quincylvania",
+      "inspo": "pickup_truck"
+    },
+    {
+      "newId": "pickup_truck_with_truck_cap",
+      "by": "@quincylvania",
+      "inspo": "pickup_truck"
+    },
+    {
+      "newId": "conifer_tree_with_antenna_array",
+      "by": "@quincylvania",
+      "inspo": [
+        "conifer_tree",
+        "pole_with_antenna_array"
+      ]
+    },
+    {
+      "newId": "shed",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "plus",
+      "by": "@quincylvania",
+      "inspo": "plus_squat",
+      "char": "+"
+    },
+    {
+      "newId": "roman_numeral_i",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅰ"
+    },
+    {
+      "newId": "roman_numeral_ii",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅱ"
+    },
+    {
+      "newId": "roman_numeral_iii",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅲ"
+    },
+    {
+      "newId": "roman_numeral_iv",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅳ"
+    },
+    {
+      "newId": "roman_numeral_v",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅴ"
+    },
+    {
+      "newId": "roman_numeral_vi",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅵ"
+    },
+    {
+      "newId": "roman_numeral_vii",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅶ"
+    },
+    {
+      "newId": "roman_numeral_viii",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅷ"
+    },
+    {
+      "newId": "roman_numeral_ix",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅸ"
+    },
+    {
+      "newId": "roman_numeral_x",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅹ"
+    },
+    {
+      "newId": "roman_numeral_xi",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅺ"
+    },
+    {
+      "newId": "roman_numeral_xii",
+      "by": "@quincylvania",
+      "issue": "11",
+      "char": "Ⅻ"
+    },
+    {
+      "newId": "roman_numeral_xx",
+      "by": "@quincylvania",
+      "issue": "11"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "majorVersion": "5",
+  "date": "2026-02-25",
+  "iconChanges": [
+    {
+      "newId": "clothes_hanger_holding_cloth",
+      "by": "@quincylvania",
+      "inspo": "clothes_hanger"
+    },
+    {
+      "newId": "f22_raptor_fighter_jet",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_military_plane"
+    },
+    {
+      "newId": "hospital_h",
+      "by": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_hospital",
+      "nps": "hospital"
+    },
+    {
+      "newId": "bus",
+      "by": "@quincylvania",
+      "inspo": "bus_with_destination_display",
+      "issue": "4",
+      "americana": [
+        "poi_bus",
+        "poi_bus_circle"
+      ],
+      "openhistoricalmap": "bus_stop",
+      "osmic": "transport/bus-station"
+    },
+    {
+      "newId": "dome_with_flag",
+      "by": "@quincylvania",
+      "inspo": "classical_building_with_dome_and_flag",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_town_hall"
+    },
+    {
+      "newId": "book_with_raised_cover",
+      "by": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_book_upright",
+      "nps": "bookstore"
+    },
+    {
+      "newId": "memorial_stone",
+      "by": "@quincylvania",
+      "inspo": "memorial_stone_with_inscription",
+      "issue": "4",
+      "char": "🪦",
+      "americana": "poi_gravestone"
+    },
+    {
+      "oldId": "inscribed_memorial_stone",
+      "newId": "memorial_stone_with_inscription",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "badge_shield",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_police_shield"
+    },
+    {
+      "newId": "badge_shield_with_fire",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_fire_station"
+    },
+    {
+      "newId": "badge_shield_with_star",
+      "by": "@quincylvania",
+      "inspo": [
+        "badge_shield",
+        "star"
+      ]
+    },
+    {
+      "newId": "circle_outline_with_star",
+      "by": "@quincylvania",
+      "inspo": [
+        "circle_outline",
+        "star"
+      ],
+      "issue": "4",
+      "americana": "place_star_in_circle",
+      "openhistoricalmap": "capital"
+    },
+    {
+      "newId": "cocktail_with_straw",
+      "by": "@quincylvania",
+      "inspo": [
+        "cocktail",
+        "https://raw.githubusercontent.com/osm-americana/openstreetmap-americana/55926e54bb3191d8deb2762283fcc0bc7d7ab0f1/icons/poi_martini_glass.svg"
+      ],
+      "issue": "4",
+      "americana": "poi_martini_glass"
+    },
+    {
+      "newId": "fork_crossing_knife",
+      "by": "@quincylvania",
+      "inspo": [
+        "fork",
+        "knife",
+        "https://raw.githubusercontent.com/osm-americana/openstreetmap-americana/24204851150e10ba7f00bda59ab5702cfe96e77f/icons/poi_restaurant.svg"
+      ],
+      "issue": "4",
+      "americana": [
+        "poi_restaurant",
+        "poi_restaurant_circle"
+      ],
+      "opengemeenten": "Horeca"
+    },
+    {
+      "newId": "sleepers_in_opposing_bunkbeds",
+      "by": "@quincylvania",
+      "inspo": [
+        "sleepers_in_bunkbeds",
+        "https://raw.githubusercontent.com/osm-americana/openstreetmap-americana/42499fb9a57dae4bf2bdb97050d3067455dd21eb/icons/poi_hostel.svg"
+      ],
+      "issue": "4",
+      "americana": "poi_hostel"
+    },
+    {
+      "newId": "square_dot",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": [
+        "poi_square_dot",
+        "poi_pow_generic"
+      ]
+    },
+    {
+      "newId": "pennant_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_school"
+    },
+    {
+      "newId": "star_and_crescent_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_muslim"
+    },
+    {
+      "newId": "latin_cross_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_christian"
+    },
+    {
+      "newId": "flaming_chalice",
+      "by": "@quincylvania",
+      "inspo": "flaming_chalice_on_square"
+    },
+    {
+      "newId": "flaming_chalice_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_uu"
+    },
+    {
+      "newId": "quaker_star_on_square",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "star_of_david",
+      "by": "@quincylvania",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "openhistoricalmap": "jewish",
+      "osmcarto": "religion/jewish"
+    },
+    {
+      "oldId": "star_of_david",
+      "newId": "star_of_david_filled",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "star_of_david_filled_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "star_of_david_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_jewish"
+    },
+    {
+      "newId": "dharma_wheel_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_buddhist"
+    },
+    {
+      "newId": "yin_yang_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_taoist"
+    },
+    {
+      "newId": "torii_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_shinto"
+    },
+    {
+      "newId": "khanda_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_sikh"
+    },
+    {
+      "newId": "om_on_square",
+      "by": "@quincylvania",
+      "src": "americana",
+      "importBy": "@quincylvania",
+      "issue": "4",
+      "americana": "poi_pow_hindu"
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "majorVersion": "22",
+  "date": "2026-04-15",
+  "iconChanges": [
+    {
+      "oldId": "fork_and_knife",
+      "newId": "fork_and_knife",
+      "by": "@westnordost",
+      "pr": "183"
+    },
+    {
+      "oldId": "fork_and_spoon",
+      "newId": "fork_and_spoon",
+      "by": "@westnordost",
+      "pr": "183"
+    },
+    {
+      "oldId": "spoon_and_fork",
+      "newId": "spoon_and_fork",
+      "by": "@westnordost",
+      "pr": "183"
+    },
+    {
+      "oldId": "fork_and_sausage",
+      "newId": "fork_and_sausage",
+      "by": "@westnordost",
+      "pr": "183"
+    },
+    {
+      "oldId": "calculator",
+      "newId": "calculator",
+      "by": "@westnordost",
+      "pr": "183"
+    },
+    {
+      "newId": "triangles_up_down_in_rectangle_outline",
+      "by": "@quincylvania",
+      "inspo": "triangles_up_down_in_rectangle",
+      "issue": "40",
+      "osmic": "transport/elevator"
+    },
+    {
+      "newId": "triangles_left_right_in_rectangle_outline",
+      "by": "@quincylvania",
+      "inspo": "triangles_left_right_in_rectangle"
+    },
+    {
+      "newId": "gumdrop_head_and_shoulders",
+      "by": "@quincylvania",
+      "issue": "49"
+    },
+    {
+      "newId": "head_and_shoulders",
+      "by": "@quincylvania",
+      "issue": "49"
+    },
+    {
+      "newId": "pixel_head_and_shoulders",
+      "by": "@quincylvania",
+      "issue": "49"
+    },
+    {
+      "newId": "flying_saucer",
+      "by": "@ooosssay",
+      "pr": "185",
+      "char": "🛸"
+    },
+    {
+      "newId": "spooky_ghost",
+      "by": "@ooosssay",
+      "pr": "185",
+      "char": "👻"
+    },
+    {
+      "newId": "poultry_drumstick",
+      "by": "@ooosssay",
+      "inspo": "bone",
+      "issue": "23",
+      "pr": "185",
+      "char": "🍗"
+    },
+    {
+      "newId": "chip_bag",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "pr": "185"
+    },
+    {
+      "newId": "chip_bag_with_chip",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "pr": "185"
+    },
+    {
+      "newId": "conifer_tree_with_star_and_ornaments",
+      "by": "@ooosssay",
+      "inspo": [
+        "conifer_tree",
+        "star"
+      ],
+      "pr": "185",
+      "char": "🎄"
+    },
+    {
+      "newId": "two_button_computer_mouse_with_scroll_wheel",
+      "by": "@ooosssay",
+      "pr": "185"
+    },
+    {
+      "newId": "puzzle_piece",
+      "by": "@ooosssay",
+      "issue": "33",
+      "pr": "185",
+      "char": "🧩"
+    },
+    {
+      "newId": "confetti_ball",
+      "by": "@ooosssay",
+      "pr": "185",
+      "char": "🎊"
+    },
+    {
+      "newId": "party_popper",
+      "by": "@ooosssay",
+      "pr": "185",
+      "char": "🎉"
+    },
+    {
+      "newId": "shooting_stars",
+      "by": "@ooosssay",
+      "inspo": "star",
+      "pr": "185"
+    },
+    {
+      "newId": "trophy",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "inspo": "trophy_with_star",
+      "pr": "185",
+      "char": "🏆"
+    },
+    {
+      "newId": "trophy_with_star",
+      "by": "@ooosssay",
+      "inspo": "star",
+      "pr": "185"
+    },
+    {
+      "newId": "banana",
+      "by": "@ooosssay",
+      "issue": "35",
+      "pr": "186"
+    },
+    {
+      "newId": "banana_hand",
+      "by": "@ooosssay",
+      "issue": "35",
+      "pr": "186"
+    },
+    {
+      "newId": "banana_and_apple",
+      "by": "@ooosssay",
+      "issue": "35",
+      "pr": "186"
+    },
+    {
+      "newId": "hand_grenade",
+      "by": "@ooosssay",
+      "pr": "191"
+    },
+    {
+      "newId": "magic_wand_and_sparkles",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "char": "🪄",
+      "healthicons": "symbols/magic-wand"
+    },
+    {
+      "newId": "baby_in_swaddle",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "people/baby-0203_alt"
+    },
+    {
+      "newId": "baby_crawling",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "people/baby-0306m"
+    },
+    {
+      "newId": "person_holding_cane",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "people/old-man"
+    },
+    {
+      "newId": "person_wearing_dress_holding_cane",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "people/old-woman"
+    },
+    {
+      "newId": "hazmat_suit",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "ppe/ppe-suit"
+    },
+    {
+      "newId": "liver",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/liver-alt"
+    },
+    {
+      "newId": "liver_with_bile_duct",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/liver"
+    },
+    {
+      "newId": "spinal_vertebrae",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "body/spine"
+    },
+    {
+      "newId": "spherical_virus",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": [
+        "symbols/virus-alt",
+        "symbols/virus"
+      ]
+    },
+    {
+      "newId": "bathroom_scale",
+      "src": "healthicons",
+      "importBy": "@quincylvania",
+      "issue": "107",
+      "healthicons": "devices/weight"
+    },
+    {
+      "oldId": "crates_under_roof",
+      "newId": "crates_under_roof",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "a",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "A"
+    },
+    {
+      "newId": "b",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "B"
+    },
+    {
+      "newId": "c",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "C"
+    },
+    {
+      "newId": "d",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "D"
+    },
+    {
+      "newId": "e",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "E"
+    },
+    {
+      "newId": "e_wide",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "e_wide_with_parking_meter",
+      "by": "@quincylvania",
+      "inspo": "p_wide_with_parking_meter"
+    },
+    {
+      "newId": "parking_stall_markings_with_e_wide",
+      "by": "@quincylvania",
+      "inspo": "parking_stall_markings"
+    },
+    {
+      "newId": "e_wide_under_roof",
+      "by": "@quincylvania",
+      "inspo": "p_wide_under_roof"
+    },
+    {
+      "newId": "f",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "F"
+    },
+    {
+      "newId": "g",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "G"
+    },
+    {
+      "newId": "h",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "H"
+    },
+    {
+      "newId": "i",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "I"
+    },
+    {
+      "newId": "j",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "J"
+    },
+    {
+      "newId": "k",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "K"
+    },
+    {
+      "newId": "l",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "L"
+    },
+    {
+      "newId": "m",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "M",
+      "nps": "metro-station"
+    },
+    {
+      "newId": "n",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "N"
+    },
+    {
+      "newId": "o",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "O"
+    },
+    {
+      "newId": "p",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "P"
+    },
+    {
+      "oldId": "parking_p",
+      "newId": "p_wide",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "parking_p_with_parking_meter",
+      "newId": "p_wide_with_parking_meter",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "parking_p_under_roof",
+      "newId": "p_wide_under_roof",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "parking_stall_markings_with_p_wide",
+      "by": "@quincylvania",
+      "inspo": "parking_stall_markings"
+    },
+    {
+      "newId": "q",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "Q",
+      "nps": "quagga-mussel-decontamination-station"
+    },
+    {
+      "newId": "r",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "R"
+    },
+    {
+      "newId": "s",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "S"
+    },
+    {
+      "newId": "t",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "T"
+    },
+    {
+      "newId": "u",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "U"
+    },
+    {
+      "newId": "v",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "V"
+    },
+    {
+      "newId": "w",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "W"
+    },
+    {
+      "oldId": "x",
+      "newId": "x",
+      "by": "@quincylvania",
+      "issue": "10"
+    },
+    {
+      "newId": "y",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "Y"
+    },
+    {
+      "newId": "z",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "Z",
+      "nps": "zebra-mussel-decontamination-station"
+    },
+    {
+      "newId": "zero",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "0"
+    },
+    {
+      "newId": "zero_with_slash",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "0"
+    },
+    {
+      "newId": "one",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "1"
+    },
+    {
+      "newId": "two",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "2"
+    },
+    {
+      "newId": "three",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "3"
+    },
+    {
+      "newId": "four",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "4"
+    },
+    {
+      "newId": "five",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "5"
+    },
+    {
+      "newId": "six",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "6"
+    },
+    {
+      "newId": "seven",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "7"
+    },
+    {
+      "newId": "eight",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "8"
+    },
+    {
+      "newId": "nine",
+      "by": "@quincylvania",
+      "issue": "10",
+      "char": "9"
+    },
+    {
+      "newId": "ten",
+      "by": "@quincylvania",
+      "issue": "10"
+    },
+    {
+      "newId": "eleven",
+      "by": "@quincylvania",
+      "issue": "10"
+    },
+    {
+      "newId": "twelve",
+      "by": "@quincylvania",
+      "issue": "10"
+    },
+    {
+      "newId": "nine_one_one",
+      "by": "@quincylvania",
+      "nps": "emergencies"
+    },
+    {
+      "newId": "atm_text",
+      "by": "@quincylvania",
+      "char": "🏧"
+    },
+    {
+      "newId": "sos_text",
+      "by": "@quincylvania",
+      "char": "🆘"
+    },
+    {
+      "newId": "phone_top_right",
+      "by": "@quincylvania",
+      "char": "📞"
+    },
+    {
+      "oldId": "phone_top_right_with_greek_cross",
+      "newId": "phone_top_right_with_greek_cross",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_top_right_with_plus",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_right",
+      "by": "@quincylvania",
+      "nps": "telephone"
+    },
+    {
+      "oldId": "phone_right_with_exclamation_point",
+      "newId": "phone_right_with_exclamation_point",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_right_with_beams_from_receiver",
+      "by": "@quincylvania",
+      "nps": "volume-control-telephone",
+      "temaki": "telephone"
+    },
+    {
+      "oldId": "phone_bottom_right",
+      "newId": "phone_bottom_right",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_down",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "phone_and_keyboard",
+      "newId": "phone_down_above_keyboard",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "phone_down_above_sos_text",
+      "by": "@quincylvania",
+      "osmcarto": "amenity/emergency_phone",
+      "osmic": "emergency/emergency-phone"
+    },
+    {
+      "oldId": "person_sitting_in_seat",
+      "newId": "person_sitting_in_seat",
+      "edit": "minor",
+      "by": "@quincylvania",
+      "issue": "194"
+    }
+  ]
+}

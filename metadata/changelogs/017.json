@@ -1,0 +1,403 @@
+{
+  "majorVersion": "17",
+  "date": "2026-03-17",
+  "iconChanges": [
+    {
+      "oldId": "new_hampsire",
+      "newId": "new_hampshire"
+    },
+    {
+      "oldId": "new_hampsire_with_capital_star",
+      "newId": "new_hampshire_with_capital_star"
+    },
+    {
+      "oldId": "barbell",
+      "newId": "barbell",
+      "by": "@westnordost",
+      "pr": "124"
+    },
+    {
+      "oldId": "paperclip",
+      "newId": "paperclip",
+      "by": "@westnordost",
+      "pr": "126"
+    },
+    {
+      "newId": "bee",
+      "by": "@westnordost",
+      "issue": "121",
+      "pr": "125",
+      "char": "🐝"
+    },
+    {
+      "newId": "bee_skep",
+      "by": "@westnordost",
+      "pr": "125"
+    },
+    {
+      "newId": "honeycomb",
+      "by": "@westnordost",
+      "pr": "125"
+    },
+    {
+      "newId": "bohr_atomic_model",
+      "by": "@westnordost",
+      "pr": "136"
+    },
+    {
+      "newId": "elephant",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/MX_road_sign_SIT-56.svg",
+      "importBy": "@ooosssay",
+      "pr": "127",
+      "char": "🐘"
+    },
+    {
+      "newId": "rooster_fighting",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/MX_road_sign_SIT-42.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "baseball_bat_and_baseball",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/MX_road_sign_SIT-21.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "boxing_glove_up",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/MX_road_sign_SIT-64.svg",
+      "importBy": "@ooosssay",
+      "pr": "127",
+      "char": "🥊"
+    },
+    {
+      "newId": "jai_alai_cesta_and_ball",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/MX_road_sign_SIT-35.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_dancing_with_person_wearing_dress",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/MX_road_sign_SIT-58.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "people_wearing_traditional_festive_latin_clothes",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MX_road_sign_SIT-27.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_wearing_martial_arts_belt_front_kicking",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/MX_road_sign_SIT-62.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_holding_barbell",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/MX_road_sign_SIT-70.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_wearing_racing_helmet_driving_go_kart",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/MX_road_sign_SIT-31.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_leaping_over_hurdle",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/MX_road_sign_SIT-63.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_standing",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/MX_road_sign_SIT-70.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "person_wearing_cowboy_hat_holding_coiled_rope",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/MX_road_sign_SIT-38.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "ice_skate",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/MX_road_sign_SIT-69.svg",
+      "importBy": "@ooosssay",
+      "pr": "127",
+      "char": "⛸️"
+    },
+    {
+      "newId": "inline_skate",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/MX_road_sign_SIT-68.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "chess_knight",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/MX_road_sign_SIT-36.svg",
+      "importBy": "@ooosssay",
+      "pr": "127",
+      "char": [
+        "♘",
+        "♞"
+      ]
+    },
+    {
+      "newId": "lucha_libre_mask",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/MX_road_sign_SIT-61.svg",
+      "importBy": "@ooosssay",
+      "pr": "127"
+    },
+    {
+      "newId": "soccer_ball",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MX_road_sign_SIT-28.svg",
+      "importBy": "@ooosssay",
+      "pr": "127",
+      "char": [
+        "⚽️",
+        "⚽︎"
+      ],
+      "americana": "poi_soccer"
+    },
+    {
+      "newId": "slot",
+      "by": "@quincylvania",
+      "inspo": "payment_card_in_slot"
+    },
+    {
+      "newId": "vertical_slot",
+      "by": "@quincylvania",
+      "inspo": "payment_card_in_slot"
+    },
+    {
+      "oldId": "banknote_in_slot",
+      "newId": "banknote_in_slot",
+      "by": "@ooosssay",
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_down_from_banknote_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "banknote_in_slot",
+        "arrow_down"
+      ],
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_up_to_banknote_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "banknote_in_slot",
+        "arrow_up"
+      ],
+      "pr": "139"
+    },
+    {
+      "oldId": "envelope_in_slot",
+      "newId": "envelope_in_slot",
+      "by": "@ooosssay",
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_down_from_envelope_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "envelope_in_slot",
+        "arrow_down"
+      ],
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_up_to_envelope_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "envelope_in_slot",
+        "arrow_up"
+      ],
+      "pr": "139"
+    },
+    {
+      "newId": "payment_card",
+      "by": "@ooosssay",
+      "pr": "139"
+    },
+    {
+      "newId": "payment_card_in_slot",
+      "by": "@ooosssay",
+      "inspo": "payment_card",
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_down_from_payment_card_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "payment_card_in_slot",
+        "arrow_down"
+      ],
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_up_to_payment_card_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "payment_card_in_slot",
+        "arrow_up"
+      ],
+      "pr": "139"
+    },
+    {
+      "oldId": "ticket_in_slot",
+      "newId": "ticket_in_slot",
+      "by": "@ooosssay",
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_down_from_ticket_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "ticket_in_slot",
+        "arrow_down"
+      ],
+      "pr": "139"
+    },
+    {
+      "newId": "arrow_up_to_ticket_in_slot",
+      "by": "@ooosssay",
+      "inspo": [
+        "ticket_in_slot",
+        "arrow_up"
+      ],
+      "pr": "139"
+    },
+    {
+      "oldId": "plane",
+      "newId": "plane_up",
+      "by": "@quincylvania",
+      "pr": "128"
+    },
+    {
+      "newId": "plane_top_right",
+      "by": "@quincylvania",
+      "pr": "128",
+      "char": "✈️"
+    },
+    {
+      "newId": "plane_right",
+      "by": "@quincylvania",
+      "pr": "128",
+      "char": "✈︎"
+    },
+    {
+      "newId": "stone_arrowhead_up",
+      "by": "@quincylvania",
+      "issue": "115"
+    },
+    {
+      "newId": "stone_arrowhead_top_right",
+      "by": "@quincylvania",
+      "issue": "115"
+    },
+    {
+      "newId": "stone_arrowhead_right",
+      "by": "@quincylvania",
+      "issue": "115"
+    },
+    {
+      "newId": "stone_arrowhead_down",
+      "by": "@quincylvania",
+      "issue": "115"
+    },
+    {
+      "newId": "hash",
+      "by": "@quincylvania",
+      "inspo": "terminal_screen_with_hash_prompt",
+      "char": "#"
+    },
+    {
+      "newId": "bicycle_and_dollar",
+      "by": "@quincylvania",
+      "inspo": [
+        "bicycle_and_tag",
+        "car_with_dollar"
+      ],
+      "issue": "91"
+    },
+    {
+      "newId": "bicycle_and_euro",
+      "by": "@quincylvania",
+      "inspo": [
+        "bicycle_and_tag",
+        "car_with_euro"
+      ],
+      "issue": "91"
+    },
+    {
+      "newId": "bicycle_and_pound",
+      "by": "@quincylvania",
+      "inspo": [
+        "bicycle_and_tag",
+        "car_with_pound"
+      ],
+      "issue": "91"
+    },
+    {
+      "newId": "cargobike_and_dollar",
+      "by": "@quincylvania",
+      "inspo": [
+        "cargobike",
+        "car_with_dollar"
+      ],
+      "issue": "91"
+    },
+    {
+      "newId": "cargobike_and_euro",
+      "by": "@quincylvania",
+      "inspo": [
+        "cargobike",
+        "car_with_euro"
+      ],
+      "issue": "91"
+    },
+    {
+      "newId": "cargobike_and_pound",
+      "by": "@quincylvania",
+      "inspo": [
+        "cargobike",
+        "car_with_pound"
+      ],
+      "issue": "91"
+    },
+    {
+      "newId": "campsite_and_droplet",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite",
+        "water_tap_with_droplet"
+      ],
+      "issue": "134"
+    },
+    {
+      "newId": "tipi_campsite_and_droplet",
+      "by": "@quincylvania",
+      "inspo": [
+        "tipi_campsite",
+        "water_tap_with_droplet"
+      ],
+      "issue": "134"
+    },
+    {
+      "newId": "campsite_and_wifi",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite",
+        "wifi"
+      ]
+    }
+  ]
+}

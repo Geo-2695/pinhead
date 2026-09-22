@@ -1,0 +1,66 @@
+{
+  "majorVersion": "4",
+  "date": "2026-02-24",
+  "iconChanges": [
+    {
+      "oldId": "bread",
+      "newId": "loaf_of_bread",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "loaf_of_bread_with_steam",
+      "by": "@quincylvania",
+      "issue": "3"
+    },
+    {
+      "newId": "loaf_of_pan_bread",
+      "by": "@quincylvania",
+      "char": "🍞"
+    },
+    {
+      "newId": "loaf_of_pan_bread_with_steam",
+      "by": "@quincylvania",
+      "issue": "3"
+    },
+    {
+      "newId": "station_wagon",
+      "by": "@quincylvania",
+      "char": "🚙"
+    },
+    {
+      "newId": "station_wagon_with_raised_hood",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "car_profile",
+      "newId": "sedan",
+      "issue": "7"
+    },
+    {
+      "oldId": "car_profile_with_raised_hood",
+      "newId": "sedan_with_raised_hood",
+      "issue": "7"
+    },
+    {
+      "newId": "car_with_taxi_checkerboard",
+      "by": "@quincylvania",
+      "inspo": "https://raw.githubusercontent.com/mapbox/maki/3e8f2e1ee49e06de4509158335704cced662b0c0/icons/taxi.svg",
+      "maki": "taxi"
+    },
+    {
+      "oldId": "cabin",
+      "newId": "cabin_with_chimney"
+    },
+    {
+      "newId": "cabin",
+      "by": "@quincylvania",
+      "inspo": "cabin_with_chimney",
+      "nps": "cabin"
+    },
+    {
+      "oldId": "entrance_station",
+      "newId": "entrance_station",
+      "by": "@quincylvania"
+    }
+  ]
+}

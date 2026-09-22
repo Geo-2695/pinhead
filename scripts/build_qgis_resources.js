@@ -12,7 +12,7 @@ import {
 } from "fs";
 import { basename, extname, join } from "path";
 
-const changelogs = JSON.parse(readFileSync("metadata/changelog.json"));
+const changelogs = JSON.parse(readFileSync("dist/changelog.json"));
 
 const packageName = "@waysidemapping/pinhead";
 

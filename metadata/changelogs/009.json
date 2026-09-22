@@ -1,0 +1,103 @@
+{
+  "majorVersion": "9",
+  "date": "2026-03-01",
+  "iconChanges": [
+    {
+      "newId": "sugar_cubes",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "sugarcane_stalk_with_leaves",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "sugarcane_stalk_with_top_leaves",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "sugarcane_stalks_with_top_leaves",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "syrup_jug_with_sugarcane_stalk_with_leaves",
+      "by": "@quincylvania",
+      "inspo": "syrup_jug_with_maple_leaf"
+    },
+    {
+      "newId": "syrup_jug_with_sugarcane_stalk_with_leaves_and_droplet",
+      "by": "@quincylvania",
+      "inspo": "syrup_jug_with_maple_leaf_and_droplet"
+    },
+    {
+      "newId": "pixel_conifer_tree",
+      "by": "@quincylvania",
+      "inspo": "conifer_tree"
+    },
+    {
+      "newId": "pixel_broadleaved_tree",
+      "by": "@quincylvania",
+      "inspo": "broadleaved_tree"
+    },
+    {
+      "newId": "pixel_apple",
+      "by": "@quincylvania",
+      "inspo": "apple"
+    },
+    {
+      "newId": "pixel_megalith",
+      "by": "@quincylvania",
+      "inspo": "megalith"
+    },
+    {
+      "newId": "pixel_star",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pixel_circle",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pixel_circle_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pixel_circle_with_star",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pixel_house_with_chimney",
+      "by": "@quincylvania",
+      "inspo": "house_with_chimney"
+    },
+    {
+      "newId": "pixel_house_with_flag",
+      "by": "@quincylvania",
+      "inspo": "house_with_flag"
+    },
+    {
+      "newId": "pixel_classical_building",
+      "by": "@quincylvania",
+      "inspo": "classical_building"
+    },
+    {
+      "newId": "pixel_classical_building_with_flag",
+      "by": "@quincylvania",
+      "inspo": "classical_building_with_flag"
+    },
+    {
+      "newId": "pixel_classical_building_with_dome_and_flag",
+      "by": "@quincylvania",
+      "inspo": "classical_building_with_dome_and_flag"
+    },
+    {
+      "newId": "pixel_dome_with_flag",
+      "by": "@quincylvania",
+      "inspo": "dome_with_flag"
+    },
+    {
+      "newId": "pixel_plane",
+      "by": "@quincylvania",
+      "inspo": "plane"
+    }
+  ]
+}

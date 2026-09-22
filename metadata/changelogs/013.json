@@ -1,0 +1,472 @@
+{
+  "majorVersion": "13",
+  "date": "2026-03-07",
+  "iconChanges": [
+    {
+      "oldId": "app_terminal",
+      "newId": "digital_totem_with_apps"
+    },
+    {
+      "newId": "digital_totem",
+      "by": "@quincylvania",
+      "inspo": "digital_totem_with_apps"
+    },
+    {
+      "newId": "digital_totem_with_info_i",
+      "by": "@dschep",
+      "inspo": [
+        "digital_totem_with_apps",
+        "briefcase_with_info_i",
+        "https://raw.githubusercontent.com/openstreetmap-carto/openstreetmap-carto/40820143374b5550fb294cfc754db8ca662094b0/symbols/tourism/terminal.svg"
+      ],
+      "pr": "74",
+      "osmcarto": "tourism/terminal"
+    },
+    {
+      "newId": "digital_totem_with_wifi",
+      "by": "@quincylvania",
+      "inspo": [
+        "digital_totem_with_apps",
+        "wifi"
+      ]
+    },
+    {
+      "newId": "pound",
+      "by": "@quincylvania",
+      "char": "£"
+    },
+    {
+      "newId": "car_with_pound",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar"
+    },
+    {
+      "newId": "campsite_with_pound",
+      "by": "@quincylvania",
+      "inspo": "campsite"
+    },
+    {
+      "newId": "tipi_campsite_with_pound",
+      "by": "@quincylvania",
+      "inspo": "tipi_campsite"
+    },
+    {
+      "newId": "castle_tower_with_battlement_and_spire_and_pennon",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/tour"
+    },
+    {
+      "newId": "castle_with_battlements",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chateau"
+    },
+    {
+      "newId": "castle_with_battlements_and_spires",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chateau2"
+    },
+    {
+      "newId": "castle_with_spires",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": [
+        "princesse/svg/chateau3",
+        "princesse/svg/chateau7"
+      ]
+    },
+    {
+      "newId": "castle_gate_with_battlements_and_spires",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chateau4"
+    },
+    {
+      "newId": "castle_gate_with_battlements",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chateau5"
+    },
+    {
+      "newId": "castle_with_battlements_and_turret",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chateau6"
+    },
+    {
+      "newId": "star_wand_with_stardust",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/baguette"
+    },
+    {
+      "newId": "pumpkin_shaped_carriage",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/carrosse-citrouille"
+    },
+    {
+      "newId": "heart_shaped_carriage",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/carrosse"
+    },
+    {
+      "newId": "veiled_hennin_with_star",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chapeau-fee"
+    },
+    {
+      "newId": "wizards_hat_with_star",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chapeau-magicien"
+    },
+    {
+      "newId": "astrologers_hat",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/chapeau-merlin"
+    },
+    {
+      "newId": "pumpkin_under_stardust",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/citrouille"
+    },
+    {
+      "newId": "pumpkin",
+      "by": "@quincylvania",
+      "inspo": "pumpkin_under_stardust"
+    },
+    {
+      "newId": "cast_iron_key_with_heart_shaped_handle",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/cle-coeur"
+    },
+    {
+      "newId": "crown",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "char": "👑",
+      "viglino": "princesse/svg/couronne"
+    },
+    {
+      "newId": "frog_with_cartoon_eyes_and_open_mouth",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/grenouille"
+    },
+    {
+      "newId": "genie_lamp_with_stardust",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/lampe"
+    },
+    {
+      "newId": "unicorn_rearing",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/licorne"
+    },
+    {
+      "newId": "unicorn_head",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "char": "🦄",
+      "viglino": "princesse/svg/tete-licorne"
+    },
+    {
+      "newId": "winged_horse_rearing",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/pegasse"
+    },
+    {
+      "newId": "fancy_mirror_with_reflection_and_stars",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/mirroir"
+    },
+    {
+      "newId": "butterfly_with_stars_and_dots",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "princesse/svg/papillon"
+    },
+    {
+      "newId": "butterfly",
+      "by": "@quincylvania",
+      "inspo": "butterfly_with_stars_and_dots",
+      "char": "🦋"
+    },
+    {
+      "newId": "sailing_ship_in_water",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": [
+        "pirate/svg/bateau-navire",
+        "pirate/svg/bateau-bateau",
+        "pirate/svg/bateau-vaisseau"
+      ]
+    },
+    {
+      "newId": "four_legged_octopus_with_cartoon_eyes",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "char": "🐙",
+      "viglino": "pirate/svg/animal-octopus"
+    },
+    {
+      "newId": "four_legged_octopus",
+      "by": "@quincylvania",
+      "inspo": "four_legged_octopus_with_cartoon_eyes"
+    },
+    {
+      "newId": "four_legged_squid_with_cartoon_eyes",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/animal-calmar"
+    },
+    {
+      "newId": "four_legged_squid",
+      "by": "@quincylvania",
+      "inspo": "four_legged_squid_with_cartoon_eyes"
+    },
+    {
+      "newId": "parrot",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "char": "🦜",
+      "viglino": "pirate/svg/animal-perroquet"
+    },
+    {
+      "newId": "shark_dorsal_fin_in_waters",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/animal-requin"
+    },
+    {
+      "newId": "cartoon_bomb_with_lit_fuse",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "char": "💣",
+      "viglino": "pirate/svg/arme-bombe"
+    },
+    {
+      "newId": "cartoon_cannon_with_lit_fuse",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/arme-canon"
+    },
+    {
+      "newId": "ships_wheel",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/bateau-barre"
+    },
+    {
+      "newId": "rolled_paper_in_bottle",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-bouteille"
+    },
+    {
+      "newId": "rolled_paper_in_bottle_in_water",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-message"
+    },
+    {
+      "oldId": "treasure_map",
+      "newId": "bifold_map_with_dotted_line_to_x"
+    },
+    {
+      "newId": "treasure_map",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-carte"
+    },
+    {
+      "newId": "treasure_map_x",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-croix"
+    },
+    {
+      "newId": "open_chest_with_treasure_and_sparkles",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-coffre"
+    },
+    {
+      "newId": "flintlock_pistol",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-pistolet"
+    },
+    {
+      "newId": "barrel_with_bunghole",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-tonneau"
+    },
+    {
+      "newId": "spyglass",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-longue_vue"
+    },
+    {
+      "newId": "tricorne_hat_with_skull",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-chapeau"
+    },
+    {
+      "newId": "skull_above_crossed_bones",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-crane"
+    },
+    {
+      "newId": "skull_above_crossed_cutlasses",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-pirate"
+    },
+    {
+      "newId": "ragged_flag_with_skull",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-drapeau"
+    },
+    {
+      "newId": "skull_rock_outline",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-grotte"
+    },
+    {
+      "newId": "skull_rock",
+      "by": "@quincylvania",
+      "inspo": "skull_rock_outline"
+    },
+    {
+      "newId": "round_bottomed_flask",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-flasque"
+    },
+    {
+      "newId": "coconut_palm_tree",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-palmier"
+    },
+    {
+      "newId": "coconut_palm_tree_on_hill_in_water",
+      "src": "viglino",
+      "srcBy": "@viglino",
+      "importBy": "@quincylvania",
+      "issue": "81",
+      "viglino": "pirate/svg/pirate-ile"
+    }
+  ]
+}

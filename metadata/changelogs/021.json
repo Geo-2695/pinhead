@@ -1,0 +1,341 @@
+{
+  "majorVersion": "21",
+  "date": "2026-03-29",
+  "iconChanges": [
+    {
+      "newId": "taco",
+      "by": "@ooosssay",
+      "pr": "178",
+      "char": "🌮"
+    },
+    {
+      "newId": "pretzel_with_salt",
+      "src": "https://raw.githubusercontent.com/twain47/Open-SVG-Map-Icons/refs/heads/master/svg/shopping/bakery.svg",
+      "importBy": "@ooosssay",
+      "issue": "21",
+      "pr": "179",
+      "char": "🥨"
+    },
+    {
+      "newId": "oak_leaf",
+      "by": "@ooosssay",
+      "issue": "22",
+      "pr": "179"
+    },
+    {
+      "newId": "chopsticks",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "pr": "174",
+      "char": "🥢"
+    },
+    {
+      "newId": "chopsticks_crossed",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ]
+    },
+    {
+      "newId": "spoon_and_chopsticks",
+      "by": "@ooosssay",
+      "inspo": "spoon",
+      "pr": "174"
+    },
+    {
+      "newId": "spoon_and_fork",
+      "by": "@ooosssay",
+      "inspo": [
+        "spoon",
+        "fork"
+      ],
+      "pr": "174",
+      "osmic": "eat-drink/restaurant"
+    },
+    {
+      "newId": "fork_and_spoon",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "inspo": "spoon_and_fork",
+      "osmcarto": "amenity/restaurant"
+    },
+    {
+      "newId": "drink_can",
+      "by": "@quincylvania",
+      "openhistoricalmap": "beverages"
+    },
+    {
+      "newId": "whistle",
+      "by": "@ooosssay",
+      "pr": "170"
+    },
+    {
+      "newId": "pawprint_and_whistle",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "pr": "170"
+    },
+    {
+      "newId": "dog_sitting_wearing_collar_and_whistle",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "pr": "170"
+    },
+    {
+      "newId": "dog_sitting_wearing_harness_and_whistle",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ]
+    },
+    {
+      "newId": "dog_sitting_wearing_collar_and_heart",
+      "by": "@quincylvania",
+      "inspo": [
+        "dog_sitting_wearing_collar",
+        "heart"
+      ]
+    },
+    {
+      "newId": "pawprints_and_heart",
+      "by": "@ooosssay",
+      "pr": "170"
+    },
+    {
+      "newId": "shopping_bag_with_pawprint",
+      "by": "@ooosssay",
+      "pr": "170"
+    },
+    {
+      "newId": "cup_and_saucer_and_pawprint",
+      "by": "@ooosssay",
+      "pr": "170"
+    },
+    {
+      "oldId": "typha_and_duck_in_water",
+      "newId": "typha_and_duck_in_water",
+      "by": "@ooosssay",
+      "pr": "168"
+    },
+    {
+      "newId": "duck_in_water",
+      "by": "@ooosssay",
+      "inspo": "typha_and_duck_in_water",
+      "pr": "168"
+    },
+    {
+      "newId": "duck",
+      "by": "@ooosssay",
+      "inspo": "typha_and_duck_in_water",
+      "pr": "168",
+      "char": "🦆"
+    },
+    {
+      "newId": "typha_in_water",
+      "by": "@ooosssay",
+      "inspo": "typha_and_duck_in_water",
+      "pr": "168"
+    },
+    {
+      "newId": "anime_eye_and_eyebrow",
+      "by": "@ooosssay",
+      "pr": "171"
+    },
+    {
+      "newId": "shopping_bag_with_anime_eye_and_eyebrow",
+      "by": "@ooosssay",
+      "pr": "171"
+    },
+    {
+      "newId": "ichthys",
+      "by": "@quincylvania",
+      "issue": "177"
+    },
+    {
+      "oldId": "book",
+      "newId": "book",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "book_with_bookmark",
+      "by": "@quincylvania",
+      "inspo": "book"
+    },
+    {
+      "newId": "book_with_bookmark_in_slot",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "inspo": [
+        "book_with_bookmark",
+        "slot"
+      ],
+      "pr": "172"
+    },
+    {
+      "newId": "arrow_down_from_book_with_bookmark_in_slot",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "inspo": [
+        "book_with_bookmark_in_slot",
+        "arrow_down"
+      ],
+      "pr": "172"
+    },
+    {
+      "newId": "arrow_up_to_book_with_bookmark_in_slot",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "inspo": [
+        "book_with_bookmark_in_slot",
+        "arrow_up"
+      ],
+      "pr": "172"
+    },
+    {
+      "newId": "pen_nib",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmic": "shop/stationery"
+    },
+    {
+      "oldId": "meat",
+      "newId": "meat",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmic": "shop/butcher"
+    },
+    {
+      "newId": "oval_broadleaved_tree",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmic": "nature/tree-deciduous"
+    },
+    {
+      "newId": "conifer_tree_and_oval_broadleaved_tree",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmic": "nature/tree-unspecified"
+    },
+    {
+      "newId": "three_books_stacked",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "char": "📚",
+      "osmic": "shop/books"
+    },
+    {
+      "newId": "shaker_pint_glass",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmcarto": "amenity/pub",
+      "osmic": "eat-drink/pub"
+    },
+    {
+      "newId": "transit_vehicle_on_railway_track_in_tunnel",
+      "by": "@quincylvania",
+      "inspo": "transit_vehicle_with_destination_display_on_railway_track_in_tunnel",
+      "issue": "40",
+      "osmic": "transport/metro"
+    },
+    {
+      "newId": "vending_machine",
+      "by": "@quincylvania",
+      "nps": "vending-machine"
+    },
+    {
+      "oldId": "vending_machine",
+      "newId": "vending_machine_with_shelves",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "vending_machine_with_baguette",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_bread"
+    },
+    {
+      "newId": "vending_machine_with_egg",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_eggs"
+    },
+    {
+      "newId": "vending_machine_with_cigarette_with_smoke_curl",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_cigarettes"
+    },
+    {
+      "newId": "vending_machine_with_drink_can",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_cold_drink"
+    },
+    {
+      "newId": "vending_machine_with_drink_cup_with_steam",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_hot_drink"
+    },
+    {
+      "newId": "vending_machine_with_ice_cream_on_cone",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_ice_cream"
+    },
+    {
+      "newId": "vending_machine_with_heart",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_love"
+    },
+    {
+      "newId": "vending_machine_with_greek_cross",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_medicine"
+    },
+    {
+      "newId": "vending_machine_with_postage_stamp",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_stamps"
+    },
+    {
+      "newId": "vending_machine_with_ticket",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_tickets"
+    },
+    {
+      "newId": "vending_machine_with_venus",
+      "by": "@quincylvania",
+      "issue": "181",
+      "temaki": "vending_venus"
+    },
+    {
+      "oldId": "greek_orthodox_cross",
+      "newId": "budded_latin_cross"
+    }
+  ]
+}

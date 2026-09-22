@@ -1,0 +1,281 @@
+{
+  "majorVersion": "14",
+  "date": "2026-03-08",
+  "iconChanges": [
+    {
+      "newId": "dog",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "dog_wearing_collar",
+      "newId": "dog_wearing_collar",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "dog_wearing_collar_on_leash",
+      "by": "@quincylvania",
+      "nps": "pets-on-leash"
+    },
+    {
+      "newId": "dog_wearing_harness",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "dog_wearing_harness_on_leash",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "comb_and_dog_wearing_collar",
+      "newId": "comb_and_dog_wearing_collar",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "dog_wearing_collar_in_shelter",
+      "newId": "dog_wearing_collar_in_shelter",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "mounted_slotted_dispenser_with_dog_wearing_collar",
+      "newId": "mounted_slotted_dispenser_with_dog_wearing_collar",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "turtle_shell_top",
+      "by": "@quincylvania",
+      "inspo": "turtle_top"
+    },
+    {
+      "newId": "cupcake_with_cherry",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "osmcarto": "shop/confectionery",
+      "osmic": "shop/confectionery"
+    },
+    {
+      "newId": "milk_carton_and_cheese",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "osmcarto": "shop/dairy"
+    },
+    {
+      "newId": "rays_outward",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "osmcarto": "tourism/viewpoint",
+      "osmic": "tourism/viewpoint",
+      "temaki": "viewpoint"
+    },
+    {
+      "newId": "dot_with_rays_right",
+      "src": "nps",
+      "importBy": "@quincylvania",
+      "nps": "scenic-viewpoint",
+      "openhistoricalmap": "viewpoint"
+    },
+    {
+      "newId": "bullet_train",
+      "by": "@quincylvania",
+      "inspo": "bullet_train_on_railway_track"
+    },
+    {
+      "newId": "diesel_train",
+      "by": "@quincylvania",
+      "inspo": "diesel_train_on_railway_track"
+    },
+    {
+      "newId": "steam_train",
+      "by": "@quincylvania",
+      "inspo": "steam_train_on_railway_track",
+      "openhistoricalmap": "railstation"
+    },
+    {
+      "newId": "steam_train_with_tires",
+      "by": "@quincylvania",
+      "inspo": "steam_train_on_railway_track"
+    },
+    {
+      "newId": "kids_train",
+      "by": "@quincylvania",
+      "inspo": "kids_train_on_railway_track"
+    },
+    {
+      "newId": "kids_train_with_tires",
+      "by": "@quincylvania",
+      "inspo": "kids_train_on_railway_track"
+    },
+    {
+      "newId": "car_beside_car",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar"
+    },
+    {
+      "newId": "car_beside_car_under_car_beside_car",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar"
+    },
+    {
+      "newId": "car_under_toll_gantry",
+      "by": "@quincylvania",
+      "inspo": [
+        "car_with_dollar",
+        "toll_gantry"
+      ]
+    },
+    {
+      "oldId": "file_box",
+      "newId": "file_box",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "tag",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "car_and_tag",
+      "by": "@quincylvania",
+      "inspo": "car_with_dollar"
+    },
+    {
+      "newId": "sedan_and_tag",
+      "by": "@quincylvania",
+      "inspo": "sedan"
+    },
+    {
+      "newId": "station_wagon_and_tag",
+      "by": "@quincylvania",
+      "inspo": "station_wagon"
+    },
+    {
+      "newId": "pickup_truck_and_tag",
+      "by": "@quincylvania",
+      "inspo": "pickup_truck"
+    },
+    {
+      "newId": "bicycle_and_tag",
+      "by": "@quincylvania",
+      "inspo": "bicycle_and_key"
+    },
+    {
+      "newId": "motorcycle_and_tag",
+      "by": "@quincylvania",
+      "inspo": "motorcycle"
+    },
+    {
+      "newId": "cargobike_and_tag",
+      "by": "@quincylvania",
+      "inspo": "cargobike"
+    },
+    {
+      "newId": "motorboat_and_tag",
+      "by": "@quincylvania",
+      "inspo": "motorboat"
+    },
+    {
+      "newId": "vneck_tshirt_and_tag",
+      "by": "@quincylvania",
+      "inspo": "vneck_tshirt"
+    },
+    {
+      "newId": "giftwrapped_box_and_tag",
+      "by": "@quincylvania",
+      "inspo": "giftwrapped_box"
+    },
+    {
+      "newId": "file_box_and_tag",
+      "by": "@quincylvania",
+      "inspo": "file_box"
+    },
+    {
+      "newId": "shopping_bag_and_tag",
+      "by": "@quincylvania",
+      "inspo": "shopping_bag"
+    },
+    {
+      "newId": "shopping_bag_with_tag",
+      "by": "@quincylvania",
+      "inspo": "shopping_bag"
+    },
+    {
+      "newId": "arrow_left",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "←",
+        "⬅️"
+      ]
+    },
+    {
+      "newId": "arrow_up",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "↑",
+        "⬆️"
+      ]
+    },
+    {
+      "newId": "arrow_down",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "↓",
+        "⬇️"
+      ]
+    },
+    {
+      "newId": "arrow_bottom_left",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "↙",
+        "↙️"
+      ]
+    },
+    {
+      "newId": "arrow_bottom_right",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "↘",
+        "↘️"
+      ]
+    },
+    {
+      "newId": "arrow_top_left",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "↖",
+        "↖️"
+      ]
+    },
+    {
+      "newId": "arrow_top_right",
+      "by": "@quincylvania",
+      "inspo": "arrow_right",
+      "char": [
+        "↗",
+        "↗️"
+      ]
+    },
+    {
+      "newId": "arrow_down_from_up_bracket",
+      "by": "@quincylvania",
+      "inspo": "arrow_up_to_up_bracket"
+    },
+    {
+      "newId": "arrow_right_from_left_bracket",
+      "by": "@quincylvania",
+      "inspo": "arrow_left_to_left_bracket"
+    },
+    {
+      "newId": "arrow_left_from_right_bracket",
+      "by": "@quincylvania",
+      "inspo": "arrow_right_to_right_bracket"
+    },
+    {
+      "newId": "pixel_skull",
+      "by": "@quincylvania"
+    }
+  ]
+}

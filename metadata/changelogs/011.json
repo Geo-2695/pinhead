@@ -1,0 +1,198 @@
+{
+  "majorVersion": "11",
+  "date": "2026-03-05",
+  "iconChanges": [
+    {
+      "newId": "candlepins",
+      "by": "@petercooperjr",
+      "issue": "61"
+    },
+    {
+      "newId": "candlepin_with_ball",
+      "by": "@petercooperjr",
+      "issue": "61"
+    },
+    {
+      "oldId": "bowling_pins",
+      "newId": "bowling_pins",
+      "by": "@quincylvania",
+      "issue": "52"
+    },
+    {
+      "oldId": "bowling_pin_and_bowling_ball",
+      "newId": "bowling_pin_and_bowling_ball",
+      "by": "@quincylvania",
+      "issue": "52"
+    },
+    {
+      "newId": "bowling_pin",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "bowling_ball",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "house_with_flag_and_info_i",
+      "by": "@dschep",
+      "inspo": [
+        "house_with_flag",
+        "briefcase_with_info_i",
+        "https://raw.githubusercontent.com/nationalparkservice/symbol-library/89fe4d74d1017bba51bffab0eb458df084a21f82/src/standalone/visitor-center-black-22.svg"
+      ],
+      "pr": "60",
+      "nps": "visitor-center"
+    },
+    {
+      "newId": "euro",
+      "by": "@quincylvania",
+      "char": "€"
+    },
+    {
+      "newId": "car_with_euro",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "campsite",
+      "newId": "campsite",
+      "by": "@quincylvania",
+      "issue": "53"
+    },
+    {
+      "newId": "campsite_with_dollar",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "campsite_with_euro",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "campsite_with_canoe",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "campsites",
+      "by": "@quincylvania",
+      "issue": "53",
+      "nps": "campground"
+    },
+    {
+      "newId": "tipi_campsite",
+      "by": "@quincylvania",
+      "issue": "52",
+      "openhistoricalmap": "camp_site",
+      "osmcarto": "tourism/camping",
+      "osmic": "outdoor/camping"
+    },
+    {
+      "newId": "tipi_campsite_with_dollar",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "tipi_campsite_with_euro",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "tipi_campsites",
+      "by": "@quincylvania",
+      "issue": "52"
+    },
+    {
+      "newId": "a_frame_tent",
+      "by": "@quincylvania",
+      "issue": "53",
+      "char": "⛺️"
+    },
+    {
+      "newId": "a_frame_tents",
+      "by": "@quincylvania",
+      "issue": "53"
+    },
+    {
+      "newId": "a_frame_sidewall_tent",
+      "by": "@quincylvania",
+      "issue": "53"
+    },
+    {
+      "newId": "a_frame_sidewall_tents",
+      "by": "@quincylvania",
+      "issue": "53"
+    },
+    {
+      "newId": "wall_tent",
+      "by": "@quincylvania",
+      "issue": "53"
+    },
+    {
+      "oldId": "tents",
+      "newId": "wall_tents",
+      "by": "@quincylvania",
+      "issue": "53"
+    },
+    {
+      "newId": "sitting_tank_toilet",
+      "by": "@quincylvania",
+      "issue": "39",
+      "char": "🚽"
+    },
+    {
+      "newId": "sitting_tank_toilet_with_droplet",
+      "by": "@quincylvania",
+      "issue": "39"
+    },
+    {
+      "newId": "mobile_phone_with_keypad_and_antenna_beside_mobile_phone_with_touchscreen_and_antenna",
+      "by": "@quincylvania",
+      "inspo": [
+        "mobile_phone_with_keypad_and_antenna",
+        "mobile_phone_with_touchscreen_and_antenna"
+      ]
+    },
+    {
+      "oldId": "venus",
+      "newId": "venus",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "mars",
+      "by": "@quincylvania",
+      "char": "♂",
+      "healthicons": "symbols/male"
+    },
+    {
+      "newId": "venus_mars",
+      "by": "@quincylvania",
+      "char": "⚥"
+    },
+    {
+      "newId": "venus_with_mars",
+      "by": "@quincylvania",
+      "char": "⚤"
+    },
+    {
+      "newId": "double_venus",
+      "by": "@quincylvania",
+      "char": "⚢"
+    },
+    {
+      "newId": "double_mars",
+      "by": "@quincylvania",
+      "char": "⚣"
+    },
+    {
+      "newId": "pixel_map_pin",
+      "by": "@quincylvania",
+      "inspo": "map_pin"
+    },
+    {
+      "newId": "pixel_map_pin_with_dot",
+      "by": "@quincylvania",
+      "inspo": "map_pin_with_dot"
+    },
+    {
+      "newId": "pixel_bowling_ball",
+      "by": "@quincylvania",
+      "inspo": "bowling_ball"
+    }
+  ]
+}

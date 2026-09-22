@@ -1,0 +1,1152 @@
+{
+  "majorVersion": "24",
+  "date": "2026-05-27",
+  "iconChanges": [
+    {
+      "newId": "person_holding_open_book_profile",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/MUTCD_I4-1.svg",
+      "importBy": "@quincylvania",
+      "issue": "41"
+    },
+    {
+      "newId": "person_sleeping_in_bed_above_car",
+      "by": "@quincylvania",
+      "inspo": [
+        "car",
+        "people_sleeping_in_bunkbeds"
+      ],
+      "issue": [
+        "40",
+        "180"
+      ],
+      "osmcarto": "tourism/motel",
+      "osmic": "accommodation/motel"
+    },
+    {
+      "newId": "person_sleeping_in_bed_between_floor_and_ceiling",
+      "by": "@quincylvania",
+      "inspo": "person_sleeping_in_bed_above_car",
+      "issue": "180",
+      "osmcarto": "tourism/apartment"
+    },
+    {
+      "newId": "person_dropping_trash_into_wheelie_bin",
+      "src": "nps",
+      "importBy": "@quincylvania",
+      "issue": "182",
+      "nps": "trash-dumpster"
+    },
+    {
+      "newId": "column_shrine",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "issue": "180",
+      "osmcarto": "historic/shrine"
+    },
+    {
+      "newId": "table_with_chairs",
+      "by": "@quincylvania",
+      "inspo": "table_with_chairs"
+    },
+    {
+      "newId": "table_with_umbrella_and_chairs",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "issue": "180",
+      "osmcarto": "leisure/outdoor_seating"
+    },
+    {
+      "newId": "table_with_umbrella",
+      "by": "@quincylvania",
+      "inspo": "table_with_umbrella_and_chairs"
+    },
+    {
+      "oldId": "compass_rose",
+      "newId": "compass_rose_in_circle_outline"
+    },
+    {
+      "newId": "compass_rose",
+      "by": "@quincylvania",
+      "inspo": "compass_rose_in_circle_outline"
+    },
+    {
+      "newId": "hot_dog",
+      "by": "@quincylvania",
+      "inspo": "hot_dog_with_mustard"
+    },
+    {
+      "newId": "martini_glass_and_wine_bottle",
+      "src": "nps",
+      "importBy": "@quincylvania",
+      "issue": "182",
+      "nps": "alcohol"
+    },
+    {
+      "newId": "drink_can_and_drink_bottle",
+      "src": "nps",
+      "importBy": "@quincylvania",
+      "issue": "182",
+      "nps": "cans-or-bottles"
+    },
+    {
+      "newId": "beer_bottle_and_drink_bottle",
+      "src": "nps",
+      "importBy": "@quincylvania",
+      "issue": "182",
+      "nps": "bottles"
+    },
+    {
+      "newId": "syrup_jug_and_droplet",
+      "by": "@quincylvania",
+      "inspo": "syrup_jug_with_maple_leaf_and_droplet"
+    },
+    {
+      "oldId": "gasoline_pump",
+      "newId": "gasoline_pump",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "gasoline_pump_with_d",
+      "by": "@quincylvania",
+      "inspo": [
+        "gasoline_pump",
+        "d"
+      ],
+      "issue": "182",
+      "nps": "gasoline-diesel"
+    },
+    {
+      "newId": "gasoline_pump_with_e",
+      "by": "@quincylvania",
+      "inspo": [
+        "gasoline_pump",
+        "e"
+      ]
+    },
+    {
+      "newId": "globe_gasoline_pump",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "globe_gasoline_pump_with_d",
+      "by": "@quincylvania",
+      "inspo": [
+        "globe_gasoline_pump",
+        "d"
+      ]
+    },
+    {
+      "newId": "globe_gasoline_pump_with_e",
+      "by": "@quincylvania",
+      "inspo": [
+        "globe_gasoline_pump",
+        "e"
+      ]
+    },
+    {
+      "newId": "gable_roofed_shelter",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmic": "outdoor/basic-hut"
+    },
+    {
+      "oldId": "roof_with_fireplace_and_chimney",
+      "newId": "gable_roofed_shelter_with_fireplace_and_chimney",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "person_wearing_backpack_walking_with_hiking_pole_in_gable_roofed_building",
+      "newId": "person_wearing_backpack_walking_with_hiking_pole_in_gable_roofed_shelter",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "gable_roofed_shelter_with_spoon_and_knife",
+      "src": "osmic",
+      "importBy": "@quincylvania",
+      "issue": "40",
+      "osmic": "outdoor/alpine-hut"
+    },
+    {
+      "oldId": "person_slipping_down_cliff",
+      "newId": "person_slipping_down_cliff",
+      "edit": "minor",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "person_slipping_down_cliff_into_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "person_slipping_down_cliff",
+        "person_sliding_down_cliff_into_water"
+      ]
+    },
+    {
+      "newId": "person_sliding_down_cliff",
+      "by": "@quincylvania",
+      "inspo": "person_sliding_down_cliff_into_water"
+    },
+    {
+      "newId": "person_sliding_down_cliff_into_water",
+      "by": "@quincylvania",
+      "inspo": "person_slipping_down_cliff",
+      "issue": "182",
+      "nps": "stay-back-from-edge-shore"
+    },
+    {
+      "oldId": "snowflake_and_icicles",
+      "newId": "snowflake_above_icicles",
+      "edit": "minor",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "icicles",
+      "newId": "icicles",
+      "edit": "minor",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "ice_text",
+      "by": "@quincylvania",
+      "inspo": [
+        "i",
+        "c",
+        "e"
+      ]
+    },
+    {
+      "newId": "ice_text_above_icicles",
+      "by": "@quincylvania",
+      "inspo": [
+        "ice_text",
+        "icicles"
+      ],
+      "issue": "182",
+      "nps": "ice"
+    },
+    {
+      "newId": "flush_curb_with_arrow_right",
+      "src": "temaki",
+      "importBy": "@quincylvania",
+      "issue": "181",
+      "temaki": "kerb-flush"
+    },
+    {
+      "newId": "lowered_curb_with_arrow_bottom_right",
+      "src": "temaki",
+      "importBy": "@quincylvania",
+      "issue": "181",
+      "temaki": "kerb-lowered"
+    },
+    {
+      "newId": "rolled_curb_with_arrow_bottom_right",
+      "src": "temaki",
+      "importBy": "@quincylvania",
+      "issue": "181",
+      "temaki": "kerb-rolled"
+    },
+    {
+      "newId": "raised_curb_with_arrow_down",
+      "src": "temaki",
+      "importBy": "@quincylvania",
+      "issue": "181",
+      "temaki": "kerb-raised"
+    },
+    {
+      "newId": "flush_curb_with_question_mark",
+      "by": "@quincylvania",
+      "inspo": "flush_curb"
+    },
+    {
+      "newId": "lowered_curb_with_question_mark",
+      "by": "@quincylvania",
+      "inspo": "lowered_curb"
+    },
+    {
+      "newId": "rolled_curb_with_question_mark",
+      "by": "@quincylvania",
+      "inspo": "rolled_curb"
+    },
+    {
+      "newId": "raised_curb_with_question_mark",
+      "by": "@quincylvania",
+      "inspo": "raised_curb",
+      "issue": "181",
+      "temaki": "kerb-unspecified"
+    },
+    {
+      "oldId": "kerb_rolled",
+      "newId": "rolled_curb"
+    },
+    {
+      "oldId": "kerb_lowered",
+      "newId": "lowered_curb"
+    },
+    {
+      "oldId": "kerb_flush",
+      "newId": "flush_curb"
+    },
+    {
+      "oldId": "kerb_raised",
+      "newId": "raised_curb"
+    },
+    {
+      "oldId": "kerb_rolled_under_shoe",
+      "newId": "rolled_curb_under_shoe"
+    },
+    {
+      "oldId": "kerb_lowered_under_shoe",
+      "newId": "lowered_curb_under_shoe"
+    },
+    {
+      "oldId": "kerb_flush_under_shoe",
+      "newId": "flush_curb_under_shoe"
+    },
+    {
+      "oldId": "kerb_raised_under_shoe",
+      "newId": "raised_curb_under_shoe"
+    },
+    {
+      "newId": "spherical_virus_with_exclamation_point",
+      "by": "@quincylvania",
+      "inspo": [
+        "spherical_virus",
+        "exclamation_point"
+      ],
+      "issue": "141",
+      "opengemeenten": "Virus"
+    },
+    {
+      "newId": "question_mark",
+      "by": "@quincylvania",
+      "char": [
+        "?",
+        "❓",
+        "❔"
+      ],
+      "healthicons": [
+        "symbols/question",
+        "symbols/question-circle",
+        "symbols/question-triangle"
+      ],
+      "opentrailmap": "question"
+    },
+    {
+      "oldId": "exclamation_point",
+      "newId": "exclamation_point",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "exclamation_point_beside_question_mark",
+      "by": "@quincylvania",
+      "char": [
+        "⁉",
+        "⁉️"
+      ]
+    },
+    {
+      "newId": "exclamation_point_beside_exclamation_point",
+      "by": "@quincylvania",
+      "char": [
+        "‼️",
+        "‼"
+      ]
+    },
+    {
+      "newId": "conifer_tree_beside_conifer_tree",
+      "by": "@quincylvania",
+      "inspo": "conifer_tree_and_oval_broadleaved_tree",
+      "issue": "228",
+      "opengemeenten": "Kerstbomen"
+    },
+    {
+      "newId": "campsite_beside_conifer_tree",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite",
+        "conifer_tree_and_oval_broadleaved_tree"
+      ],
+      "issue": "228"
+    },
+    {
+      "newId": "campsite_beside_conifer_tree_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite_beside_conifer_tree",
+        "water"
+      ],
+      "issue": "228"
+    },
+    {
+      "newId": "oval_broadleaved_tree_beside_oval_broadleaved_tree",
+      "by": "@quincylvania",
+      "inspo": "conifer_tree_and_oval_broadleaved_tree"
+    },
+    {
+      "newId": "campsite_beside_oval_broadleaved_tree",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite",
+        "conifer_tree_and_oval_broadleaved_tree"
+      ],
+      "issue": "228"
+    },
+    {
+      "newId": "campsite_beside_oval_broadleaved_tree_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite_beside_oval_broadleaved_tree",
+        "water"
+      ],
+      "issue": "228"
+    },
+    {
+      "newId": "campsite_beside_campsite_above_campsite_beside_campsite",
+      "by": "@quincylvania",
+      "inspo": "campsite"
+    },
+    {
+      "oldId": "car_beside_car_under_car_beside_car",
+      "newId": "car_beside_car_above_car_beside_car"
+    },
+    {
+      "newId": "campsite_on_platform",
+      "by": "@quincylvania",
+      "inspo": "campsite",
+      "issue": "132"
+    },
+    {
+      "newId": "campsite_on_pier_in_water",
+      "by": "@quincylvania",
+      "inspo": "campsite",
+      "issue": "133"
+    },
+    {
+      "newId": "campsite_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite",
+        "water"
+      ],
+      "issue": "131"
+    },
+    {
+      "newId": "campsite_above_waters",
+      "by": "@quincylvania",
+      "inspo": [
+        "campsite",
+        "waters"
+      ],
+      "issue": "131"
+    },
+    {
+      "newId": "arrows_left_right_above_waters",
+      "by": "@quincylvania",
+      "inspo": [
+        "arrows_left_right",
+        "waters"
+      ],
+      "issue": "40",
+      "osmic": "transport/ford"
+    },
+    {
+      "newId": "person_wearing_scuba_gear_diving_under_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "person_wearing_scuba_gear_diving",
+        "water"
+      ]
+    },
+    {
+      "newId": "exclamation_point_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "exclamation_point",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "question_mark_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "question_mark",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "oldId": "zero",
+      "newId": "zero",
+      "edit": "merge",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "zero_with_slash",
+      "newId": "zero",
+      "edit": "merge"
+    },
+    {
+      "newId": "zero_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "zero",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "one_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "one",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "one_minus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "one",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "one_plus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "one",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "one_minus",
+      "by": "@quincylvania",
+      "inspo": "one"
+    },
+    {
+      "newId": "one_plus",
+      "by": "@quincylvania",
+      "inspo": "one"
+    },
+    {
+      "newId": "two_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "two",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "two_minus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "two",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "two_plus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "two",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "two_minus",
+      "by": "@quincylvania",
+      "inspo": "two"
+    },
+    {
+      "newId": "two_plus",
+      "by": "@quincylvania",
+      "inspo": "two"
+    },
+    {
+      "newId": "three_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "three",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "three_minus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "three",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "three_plus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "three",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "three_minus",
+      "by": "@quincylvania",
+      "inspo": "three"
+    },
+    {
+      "newId": "three_plus",
+      "by": "@quincylvania",
+      "inspo": "three"
+    },
+    {
+      "newId": "four_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "four",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "four_minus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "four",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "four_plus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "four",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "four_minus",
+      "by": "@quincylvania",
+      "inspo": "four"
+    },
+    {
+      "newId": "four_plus",
+      "by": "@quincylvania",
+      "inspo": "four"
+    },
+    {
+      "newId": "five_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "five",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "five_minus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "five",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "five_plus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "five",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "five_minus",
+      "by": "@quincylvania",
+      "inspo": "five"
+    },
+    {
+      "newId": "five_plus",
+      "by": "@quincylvania",
+      "inspo": "five"
+    },
+    {
+      "newId": "six_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "six",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "six_minus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "six",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "six_plus_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "six",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "six_minus",
+      "by": "@quincylvania",
+      "inspo": "six"
+    },
+    {
+      "newId": "six_plus",
+      "by": "@quincylvania",
+      "inspo": "six"
+    },
+    {
+      "newId": "roman_numeral_i_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "roman_numeral_i",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "roman_numeral_ii_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "roman_numeral_ii",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "roman_numeral_iii_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "roman_numeral_iii",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "roman_numeral_iv_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "roman_numeral_iv",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "roman_numeral_v_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "roman_numeral_v",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "roman_numeral_vi_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "roman_numeral_vi",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "x_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "x",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "newId": "skull_above_water",
+      "by": "@quincylvania",
+      "inspo": [
+        "skull",
+        "water"
+      ],
+      "issue": "200"
+    },
+    {
+      "oldId": "seaplane_takeoff_over_water",
+      "newId": "seaplane_takeoff_above_water"
+    },
+    {
+      "oldId": "flag_over_railway_track",
+      "newId": "flag_above_railway_track"
+    },
+    {
+      "newId": "p_wide_on_parking_line",
+      "by": "@quincylvania",
+      "inspo": [
+        "p_wide",
+        "parking_line"
+      ],
+      "issue": "216"
+    },
+    {
+      "newId": "e_wide_on_parking_line",
+      "by": "@quincylvania",
+      "inspo": [
+        "e_wide",
+        "parking_line"
+      ],
+      "issue": "216"
+    },
+    {
+      "newId": "p_wide_in_parking_structure",
+      "by": "@quincylvania",
+      "inspo": [
+        "p_wide",
+        "parking_structure"
+      ],
+      "issue": "216"
+    },
+    {
+      "newId": "e_wide_in_parking_structure",
+      "by": "@quincylvania",
+      "inspo": [
+        "e_wide",
+        "parking_structure"
+      ],
+      "issue": "216"
+    },
+    {
+      "newId": "p_wide_with_arrow_bottom_right",
+      "by": "@quincylvania",
+      "inspo": "p_wide",
+      "issue": "180",
+      "osmcarto": "amenity/parking_entrance_underground"
+    },
+    {
+      "newId": "e_wide_with_arrow_bottom_right",
+      "by": "@quincylvania",
+      "inspo": [
+        "p_wide_with_arrow_bottom_right",
+        "e_wide"
+      ]
+    },
+    {
+      "newId": "p_wide_with_arrow_right",
+      "by": "@quincylvania",
+      "inspo": "p_wide",
+      "issue": "180",
+      "osmcarto": "amenity/parking_entrance_multistorey"
+    },
+    {
+      "newId": "e_wide_with_arrow_right",
+      "by": "@quincylvania",
+      "inspo": [
+        "p_wide_with_arrow_right",
+        "e_wide"
+      ]
+    },
+    {
+      "newId": "p_wide_with_bicycle",
+      "by": "@quincylvania",
+      "inspo": [
+        "p_wide",
+        "bicycle"
+      ],
+      "issue": "180",
+      "osmcarto": "amenity/bicycle_parking",
+      "osmic": "transport/parking-bicycle"
+    },
+    {
+      "newId": "e_wide_with_bicycle",
+      "by": "@quincylvania",
+      "inspo": [
+        "e_wide",
+        "bicycle"
+      ]
+    },
+    {
+      "newId": "phone_down_above_one_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_one_one_two",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "one",
+        "two"
+      ]
+    },
+    {
+      "newId": "phone_down_above_one_two_three",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "one",
+        "two"
+      ]
+    },
+    {
+      "newId": "phone_down_above_two_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "two",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_three_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "three",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_four_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "four",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_five_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "five",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_six_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "six",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_seven_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "seven",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_eight_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "eight",
+        "one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_nine_one_one",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "nine_one_one"
+      ]
+    },
+    {
+      "newId": "phone_down_above_nine_eight_eight",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "nine",
+        "eight"
+      ]
+    },
+    {
+      "newId": "phone_down_above_nine_nine_nine",
+      "by": "@quincylvania",
+      "inspo": [
+        "phone_down",
+        "nine"
+      ]
+    },
+    {
+      "newId": "left_bracket_and_cube",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "issue": "180",
+      "osmcarto": "amenity/parcel_locker"
+    },
+    {
+      "newId": "cube",
+      "by": "@quincylvania",
+      "inspo": "left_bracket_and_cube"
+    },
+    {
+      "newId": "saddle_shape",
+      "src": "osmcarto",
+      "importBy": "@quincylvania",
+      "issue": [
+        "40",
+        "180"
+      ],
+      "osmcarto": "natural/saddle",
+      "osmic": "nature/saddle"
+    },
+    {
+      "newId": "isosceles_trapezoid_tall_up",
+      "by": [
+        "@petercooperjr",
+        "@quincylvania"
+      ],
+      "issue": "104"
+    },
+    {
+      "newId": "isosceles_trapezoid_tall_down",
+      "by": [
+        "@petercooperjr",
+        "@quincylvania"
+      ],
+      "issue": "104"
+    },
+    {
+      "newId": "parallelogram_tall_right",
+      "by": [
+        "@petercooperjr",
+        "@quincylvania"
+      ],
+      "issue": "104"
+    },
+    {
+      "newId": "parallelogram_tall_left",
+      "by": [
+        "@petercooperjr",
+        "@quincylvania"
+      ],
+      "issue": "104"
+    },
+    {
+      "newId": "square_with_dot",
+      "by": "@quincylvania",
+      "inspo": [
+        "square",
+        "dot"
+      ],
+      "issue": "180",
+      "osmcarto": "man_made/power_tower_small"
+    },
+    {
+      "newId": "square_with_square_dot",
+      "by": "@quincylvania",
+      "inspo": [
+        "square",
+        "square_dot"
+      ]
+    },
+    {
+      "newId": "octagon_outline",
+      "by": "@quincylvania",
+      "inspo": "octagon"
+    },
+    {
+      "oldId": "map_pin_with_dot",
+      "newId": "map_pin_with_dot",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "map_pin",
+      "newId": "map_pin",
+      "by": "@quincylvania"
+    },
+    {
+      "oldId": "map_pin_outline",
+      "newId": "map_pin_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "map_pin_outline_with_dot",
+      "by": "@quincylvania",
+      "inspo": [
+        "map_pin_outline",
+        "map_pin_with_dot"
+      ]
+    },
+    {
+      "newId": "arrow_left_from_rectangle_tall_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_left_to_rectangle_tall_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_right_from_rectangle_tall_outline",
+      "by": "@quincylvania",
+      "issue": "40",
+      "osmic": "amenity/exit"
+    },
+    {
+      "newId": "arrow_right_to_rectangle_tall_outline",
+      "by": "@quincylvania",
+      "issue": "40",
+      "osmic": "amenity/entrance"
+    },
+    {
+      "newId": "arrow_up_from_rectangle_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_down_from_rectangle_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_up_to_rectangle_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "arrow_down_to_rectangle_outline",
+      "by": "@quincylvania"
+    },
+    {
+      "newId": "pixel_exclamation_point",
+      "by": "@quincylvania",
+      "inspo": "exclamation_point"
+    },
+    {
+      "newId": "pixel_question_mark",
+      "by": "@quincylvania",
+      "inspo": "question_mark"
+    },
+    {
+      "newId": "pixel_gasoline_pump",
+      "by": "@quincylvania",
+      "inspo": "gasoline_pump"
+    }
+  ]
+}
