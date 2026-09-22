@@ -352,6 +352,7 @@
         "newId": "balance_scales",
         "src": "osmcarto",
         "importBy": "@quincylvania",
+        "char": "⚖️",
         "healthicons": "objects/justice",
         "openhistoricalmap": "courthouse",
         "osmcarto": "amenity/courthouse",
@@ -1044,7 +1045,8 @@
       },
       {
         "newId": "candle_with_flame",
-        "by": "@quincylvania"
+        "by": "@quincylvania",
+        "char": "🕯️"
       },
       {
         "newId": "cannon",
@@ -1190,6 +1192,7 @@
         "newId": "castle",
         "src": "osmcarto",
         "importBy": "@quincylvania",
+        "char": "🏰",
         "osmcarto": "historic/castle",
         "osmic": "tourism/castle-stately"
       },
@@ -10656,7 +10659,8 @@
         "newId": "person_standing",
         "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/MX_road_sign_SIT-70.svg",
         "importBy": "@ooosssay",
-        "pr": "127"
+        "pr": "127",
+        "char": "🧍"
       },
       {
         "newId": "person_wearing_cowboy_hat_holding_coiled_rope",
@@ -11049,6 +11053,7 @@
         "src": "opengemeenten",
         "importBy": "@quincylvania",
         "issue": "141",
+        "char": "📅",
         "opengemeenten": "Agenda"
       },
       {
@@ -12661,7 +12666,8 @@
       {
         "newId": "gumdrop_head_and_shoulders",
         "by": "@quincylvania",
-        "issue": "49"
+        "issue": "49",
+        "char": "🧑"
       },
       {
         "newId": "head_and_shoulders",
