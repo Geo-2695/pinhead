@@ -351,6 +351,7 @@
       "newId": "balance_scales",
       "src": "osmcarto",
       "importBy": "@quincylvania",
+      "char": "⚖️",
       "healthicons": "objects/justice",
       "openhistoricalmap": "courthouse",
       "osmcarto": "amenity/courthouse",
@@ -1043,7 +1044,8 @@
     },
     {
       "newId": "candle_with_flame",
-      "by": "@quincylvania"
+      "by": "@quincylvania",
+      "char": "🕯️"
     },
     {
       "newId": "cannon",
@@ -1189,6 +1191,7 @@
       "newId": "castle",
       "src": "osmcarto",
       "importBy": "@quincylvania",
+      "char": "🏰",
       "osmcarto": "historic/castle",
       "osmic": "tourism/castle-stately"
     },
