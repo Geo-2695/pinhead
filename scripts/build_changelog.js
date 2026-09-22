@@ -1,4 +1,11 @@
-import { existsSync, readFileSync, writeFileSync, globSync } from "fs";
+import {
+  existsSync,
+  readFileSync,
+  writeFileSync,
+  globSync,
+  mkdirSync,
+  rmSync,
+} from "fs";
 import { readFile } from "fs/promises";
 import { join, parse } from "path";
 import { ChangelogDescriber } from "../src/ChangelogDescriber.js";
@@ -59,13 +66,23 @@ downloadExternalSourceAssets(externalSourceIconsDir);
 
 const startTime = Date.now();
 
-if (await validateChangelogs("metadata/changelogs/*.json")) {
+ensureEmptyDir("dist");
+if (
+  await validateChangelogs("metadata/changelogs/*.json", "dist/changelog.json")
+) {
   console.log(
     "changelog.json is valid, done in " + (Date.now() - startTime) + " ms",
   );
 } else {
   console.log("changelog.json is not valid, exiting…");
   process.exit(1);
+}
+
+function ensureEmptyDir(dir) {
+  if (existsSync(dir)) {
+    rmSync(dir, { recursive: true, force: true });
+  }
+  mkdirSync(dir, { recursive: true });
 }
 
 function formatChangelog(changelog) {
@@ -83,22 +100,24 @@ function formatChangelog(changelog) {
     }
     return returner;
   });
-  return changelog;
 }
 
-async function validateChangelogs(changelogsPath) {
+async function validateChangelogs(srcChangelogsPattern, destChangelogPath) {
   const iconsById = {};
 
-  const files = globSync(changelogsPath);
+  const files = globSync(srcChangelogsPattern);
   files.sort((f1, f2) => parseInt(parse(f1).name) - parseInt(parse(f2).name));
+
+  const changelogsOut = [];
 
   for (const file of files) {
     const changelog = JSON.parse(readFileSync(file));
     if (!(await validateChangelog(changelog, iconsById))) {
       return;
     }
-    const formattedChangelog = formatChangelog(changelog);
-    writeFileSync(file, JSON.stringify(formattedChangelog, null, 2));
+    formatChangelog(changelog);
+    writeFileSync(file, JSON.stringify(changelog, null, 2));
+    changelogsOut.push(changelog);
 
     if (file === files[files.length - 1]) {
       printTextForChangelog(changelog);
@@ -121,6 +140,7 @@ async function validateChangelogs(changelogsPath) {
       return;
     }
   }
+  writeFileSync(destChangelogPath, JSON.stringify(changelogsOut, null, 2));
   return true;
 }
 
