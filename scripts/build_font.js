@@ -1,17 +1,15 @@
 import {
   createReadStream,
-  globSync,
   mkdirSync,
   readFileSync,
   writeFileSync,
   copyFileSync,
 } from "fs";
-import { join, basename } from "path";
+import { join } from "path";
 import { Writable } from "stream";
 import { SVGIcons2SVGFontStream } from "svgicons2svgfont";
 import svg2ttf from "svg2ttf";
 
-const iconsDir = "icons";
 const distDir = "font";
 
 const firstFontVersion = 19;
