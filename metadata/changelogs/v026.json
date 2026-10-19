@@ -2792,14 +2792,14 @@
     },
     {
       "oldId": "banknote_in_slot",
-      "newId": "three_stacked_banknotes_in_slot",
+      "newId": "banknote_in_slot",
       "by": "@quincylvania",
       "issue": "310"
     },
     {
-      "newId": "banknote_in_slot",
+      "newId": "three_stacked_banknotes_in_slot",
       "by": "@quincylvania",
-      "inspo": "three_stacked_banknotes_in_slot",
+      "inspo": "banknote_in_slot",
       "issue": "310"
     },
     {
