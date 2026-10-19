@@ -25,6 +25,21 @@
       "pr": "429"
     },
     {
+      "newId": "tree_trunk_with_plaque",
+      "by": "@ooosssay",
+      "inspo": "tree_stump",
+      "issue": "253",
+      "pr": "474"
+    },
+    {
+      "newId": "tree_trunk",
+      "by": [
+        "@ooosssay",
+        "@quincylvania"
+      ],
+      "inspo": "tree_trunk_with_plaque"
+    },
+    {
       "newId": "pencil_beside_ruler",
       "by": "@ooosssay",
       "inspo": [

@@ -3314,6 +3314,9 @@
   "tree_stump": {
     "super": "tree"
   },
+  "tree_trump": {
+    "super": "tree"
+  },
   "trench": {
     "super": "barrier"
   },
