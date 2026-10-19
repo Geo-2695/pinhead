@@ -694,7 +694,10 @@
     "super": "building"
   },
   "charging_station": {
-    "super": "fuel_station"
+    "super": [
+      "fuel_station",
+      "power_cord"
+    ]
   },
   "checkered_flag": {
     "super": "flag"
@@ -1752,6 +1755,9 @@
   "keystone": {
     "super": "rock"
   },
+  "kick_scooter": {
+    "super": "wheeled_vehicle"
+  },
   "kidney": {
     "super": "internal_organ"
   },
@@ -2389,6 +2395,9 @@
   "pound": {
     "commons": "Pound sign (£)",
     "super": "currency_sign"
+  },
+  "power_cord": {
+    "super": "electric_appliance"
   },
   "power_tool": {
     "super": "tool"

@@ -221,6 +221,24 @@
       "americana": "poi_horse"
     },
     {
+      "newId": "kick_scooter",
+      "by": [
+        "@qugebert",
+        "@quincylvania"
+      ],
+      "inspo": "kick_scooter_with_power_cord",
+      "pr": "482"
+    },
+    {
+      "newId": "kick_scooter_with_power_cord",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Zusatzzeichen_1010-68_-_Elektrokleinstfahrzeuge_im_Sinne_der_Elektrokleinstfahrzeuge-Verordnung_%28eKFV%29%2C_%28450x600%29%2C_StVO_2020.svg",
+      "importBy": [
+        "@qugebert",
+        "@quincylvania"
+      ],
+      "pr": "482"
+    },
+    {
       "newId": "phone_top_right_and_exclamation_point",
       "by": [
         "@Geo-2695",
