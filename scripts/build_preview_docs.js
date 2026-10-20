@@ -10,7 +10,7 @@ copyFileSync("package.json", "docs/package.json");
 copyFileSync("dist/changelog.json", "docs/changelog.json");
 copyFileSync("dist/id_upgrades.json", "docs/id_upgrades.json");
 copyFileSync("dist/external_sources.json", "docs/external_sources.json");
-copyFileSync("dist/categories.json", "docs/categories.json");
+copyFileSync("dist/id_metadata.json", "docs/id_metadata.json");
 
 ensureEmptyDir(`docs/v${majorVersion}`);
 execSync(`cp -r "dist/icons/" 'docs/v${majorVersion}'`);

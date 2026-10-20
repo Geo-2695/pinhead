@@ -1,15 +1,15 @@
 import { parse } from "path";
 import { globSync, writeFileSync, readFileSync } from "fs";
 import { CategoryReader } from "../src/CategoryReader.js";
-import { deconstructIconName } from "../src/CategoryReader.js";
 
-const categoriesPath = "metadata/categories.json";
+const idInfoPath = "metadata/id_metadata.json";
 
 reformatCategories();
 checkIcons();
 
 function reformatCategories() {
-  const categoriesIn = JSON.parse(readFileSync(categoriesPath));
+  const idInfo = JSON.parse(readFileSync(idInfoPath));
+  const categoriesIn = idInfo.categories;
   const categoriesOut = {};
   for (const key of Object.keys(categoriesIn).toSorted()) {
     const valOut = {};
@@ -18,16 +18,23 @@ function reformatCategories() {
     }
     categoriesOut[key] = valOut;
   }
-  writeFileSync(categoriesPath, JSON.stringify(categoriesOut, null, "  "));
+  idInfo.categories = categoriesOut;
+  writeFileSync(idInfoPath, JSON.stringify(idInfo, null, "  "));
 }
 
 function checkIcons() {
   const iconIds = {};
   const iconIdPartsObj = {};
 
+  const rawCategoriesData = JSON.parse(readFileSync(idInfoPath));
+  const categoryReader = new CategoryReader(
+    rawCategoriesData,
+    Object.keys(iconIds),
+  );
+
   globSync(`./icons/**/*.svg`).forEach(function checkFilename(file) {
     const iconId = parse(file).name;
-    const parts = deconstructIconName(iconId);
+    const parts = categoryReader.deconstructIconName(iconId);
     iconIds[iconId] = true;
     if (parts[0] !== iconId) {
       parts.forEach((part) => (iconIdPartsObj[part] = true));
@@ -40,12 +47,6 @@ function checkIcons() {
     .forEach((part) => console.log(`Missing standalone icon: "${part}"`));
   console.log(
     `Missing base icons for ${iconIdParts.filter((part) => !iconIds[part]).length} parts of ${iconIdParts.length} parts total`,
-  );
-
-  const rawCategoriesData = JSON.parse(readFileSync(categoriesPath));
-  const categoryInfo = new CategoryReader(
-    rawCategoriesData,
-    Object.keys(iconIds),
   );
 
   // for (const iconId in iconIds) {

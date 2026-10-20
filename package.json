@@ -38,7 +38,7 @@
     "prettier": "npx prettier --write 'docs/**/*.{js,html,css}' 'scripts/**/*.{js,html,css}' 'src/**/*.{js,html,css}'",
     "commons": "npm run build_dist && npm run sync_to_commons",
     "dist": "npm run build_dist",
-    "build_dist": "npm run check_icons && npm run check_icon_categories && npm run build_changelog && npm run build_icons && cp metadata/external_sources.json dist/external_sources.json && cp metadata/categories.json dist/categories.json",
+    "build_dist": "npm run check_icons && npm run check_icon_categories && npm run build_changelog && npm run build_icons && cp metadata/external_sources.json dist/external_sources.json && cp metadata/id_metadata.json dist/id_metadata.json",
     "build_docs": "node scripts/build_docs.js",
     "build_docs_for_preview": "npm run build_docs && npm run build_dist && node scripts/build_preview_docs.js",
     "build_icons": "node scripts/build_icons.js",

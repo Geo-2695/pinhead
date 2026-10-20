@@ -24,7 +24,7 @@ You can get the latest release as a static archive using the `download` link on 
 - `dist/changelog.json`: A machine-readable list of icon additions, deletions, redesigns, and renames between Pinhead versions
 - `dist/id_upgrades.json`: Simplified data for upgrading icon names between Pinhead versions in the format `"historical_id": "latest_id"`
 - `dist/external_sources.json`: A detailed list of the external icon sources referenced in `changelog.json`
-- `dist/categories.json`: Icon category data
+- `dist/id_metadata.json`: Metadata for parsing the icon IDs into categories
 
 Note that if you just "download once and forget" then you'll miss out on any future improvements.
 
@@ -65,7 +65,7 @@ The following files are hosted on pinhead.ink (through GitHub Pages) at the foll
   - `https://pinhead.ink/changelog.json`: A machine-readable list of icon additions, deletions, redesigns, and renames between Pinhead versions
   - `https://pinhead.ink/id_upgrades.json`: Simplified data for upgrading icon names between Pinhead versions in the format `"historical_id": "latest_id"`
   - `https://pinhead.ink/external_sources.json`: A detailed list of the external icon sources referenced in `changelog.json`
-  - `https://pinhead.ink/categories.json`: Icon category data
+  - `https://pinhead.ink/id_metadata.json`: Metadata for parsing the icon IDs into categories
 
 It is *not* recommended for production apps to depend directly on the GitHub repository or any of its raw files as these may change without notice.
 

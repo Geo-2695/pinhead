@@ -101,10 +101,10 @@ function downloadLegacyIcons(
         join(folderName, "dist/external_sources.json"),
         join(docsDir, "external_sources.json"),
       );
-    if (existsSync(join(folderName, "dist/categories.json")))
+    if (existsSync(join(folderName, "dist/id_metadata.json")))
       copyFileSync(
-        join(folderName, "dist/categories.json"),
-        join(docsDir, "categories.json"),
+        join(folderName, "dist/id_metadata.json"),
+        join(docsDir, "id_metadata.json"),
       );
   }
 

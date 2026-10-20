@@ -44,7 +44,7 @@ async function setupPage(pageData) {
   const changelogs = await fetch("changelog.json").then((result) =>
     result.json(),
   );
-  const categories = await fetch("categories.json").then((result) =>
+  const categoryInfo = await fetch("id_metadata.json").then((result) =>
     result.json(),
   );
   const changelogReader = new ChangelogReader(changelogs);
@@ -76,7 +76,10 @@ async function setupPage(pageData) {
   for (const id in iconsById) {
     iconsById[id].id = id;
   }
-  const categoryReader = new CategoryReader(categories, Object.keys(iconsById));
+  const categoryReader = new CategoryReader(
+    categoryInfo,
+    Object.keys(iconsById),
+  );
 
   const v1Changelog = changelogs.find((item) => item.majorVersion === "1");
   const iconsAddedSinceLaunch =

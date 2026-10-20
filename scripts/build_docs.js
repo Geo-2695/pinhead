@@ -21,8 +21,8 @@ execFileSync("cp", [
 
 // TODO: remove this line after publishing v26 on npm
 execFileSync("cp", [
-  `metadata/categories.json`,
-  join(docsDir, `categories.json`),
+  `metadata/id_metadata.json`,
+  join(docsDir, `id_metadata.json`),
 ]);
 
 const npmPublishDates = execFileSync(

@@ -1,9 +1,9 @@
 .env
 dist
-docs/categories.json
 docs/changelog.json
 docs/commons_metadata.json
 docs/external_sources.json
+docs/id_metadata.json
 docs/id_upgrades.json
 docs/latest/
 docs/modules/
