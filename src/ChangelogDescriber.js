@@ -46,7 +46,7 @@ export class ChangelogDescriber {
       html += "<ul>";
       changes.deletedIcons.forEach((iconChange) => {
         html +=
-          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> Remove <b>${iconChange.oldId}</b>` +
+          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> Remove <code>${iconChange.oldId}</code>` +
           this.issueLinksForIconChange(iconChange) +
           `</li>`;
       });
@@ -57,7 +57,7 @@ export class ChangelogDescriber {
       html += "<ul>";
       changes.renamedAndRedesignedIcons.forEach((iconChange) => {
         html +=
-          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> <b>${iconChange.oldId}</b> -> <img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <b>${iconChange.newId}</b>` +
+          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> <code>${iconChange.oldId}</code> -> <img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <code>${iconChange.newId}</code>` +
           this.provenanceInfoForIconChange(iconChange) +
           this.issueLinksForIconChange(iconChange) +
           `</li>`;
@@ -69,7 +69,7 @@ export class ChangelogDescriber {
       html += "<ul>";
       changes.renamedIcons.forEach((iconChange) => {
         html +=
-          `<li><img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <b>${iconChange.oldId}</b> -> <b>${iconChange.newId}</b>` +
+          `<li><img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <code>${iconChange.oldId}</code> -> <code>${iconChange.newId}</code>` +
           this.issueLinksForIconChange(iconChange) +
           `</li>`;
       });
@@ -80,7 +80,7 @@ export class ChangelogDescriber {
       html += "<ul>";
       changes.mergedIcons.forEach((iconChange) => {
         html +=
-          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> <b>${iconChange.oldId}</b> -> <img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <b>${iconChange.newId}</b>` +
+          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> <code>${iconChange.oldId}</code> -> <img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <code>${iconChange.newId}</code>` +
           this.issueLinksForIconChange(iconChange) +
           `</li>`;
       });
@@ -91,7 +91,7 @@ export class ChangelogDescriber {
       html += "<ul>";
       changes.redesignedIcons.forEach((iconChange) => {
         html +=
-          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> -> <img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <b>${iconChange.newId}</b>` +
+          `<li><img src="${this.fileBase}/v${oldV}/${iconChange.oldId}.svg" width="15px"/> -> <img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> <code>${iconChange.newId}</code>` +
           this.provenanceInfoForIconChange(iconChange) +
           this.issueLinksForIconChange(iconChange) +
           `</li>`;
@@ -103,7 +103,7 @@ export class ChangelogDescriber {
       html += "<ul>";
       changes.addedIcons.forEach((iconChange) => {
         html +=
-          `<li><img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> Add <b>${iconChange.newId}</b>` +
+          `<li><img src="${this.fileBase}/v${newV}/${iconChange.newId}.svg" width="15px"/> Add <code>${iconChange.newId}</code>` +
           this.provenanceInfoForIconChange(iconChange) +
           this.issueLinksForIconChange(iconChange) +
           `</li>`;
