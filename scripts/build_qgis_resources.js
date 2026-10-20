@@ -55,9 +55,11 @@ function downloadPackage(spec) {
 
 function downloadLegacyIcons(majorVersion, targetDir) {
   const spec =
-    parseInt(majorVersion) >= 15
-      ? packageName + "@~15." + majorVersion
-      : packageName + "@^" + majorVersion;
+    parseInt(majorVersion) >= 26
+      ? packageName + "@~16." + majorVersion
+      : parseInt(majorVersion) >= 15
+        ? packageName + "@~15." + majorVersion
+        : packageName + "@^" + majorVersion;
   const folderName = downloadPackage(spec);
 
   const iconDir = join(folderName, "dist", "icons");
