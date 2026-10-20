@@ -121,6 +121,7 @@
     {
       "newId": "contiguous_united_states_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "contiguous_united_states",
       "issue": "114"
     },
     {
@@ -131,6 +132,7 @@
     {
       "newId": "alabama_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "alabama",
       "issue": "114"
     },
     {
@@ -146,6 +148,7 @@
     {
       "newId": "arizona_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "arizona",
       "issue": "114"
     },
     {
@@ -156,6 +159,7 @@
     {
       "newId": "arkansas_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "arkansas",
       "issue": "114"
     },
     {
@@ -166,6 +170,7 @@
     {
       "newId": "california_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "california",
       "issue": "114"
     },
     {
@@ -176,6 +181,7 @@
     {
       "newId": "colorado_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "colorado",
       "issue": "114"
     },
     {
@@ -186,6 +192,7 @@
     {
       "newId": "connecticut_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "connecticut",
       "issue": "114"
     },
     {
@@ -196,6 +203,7 @@
     {
       "newId": "delaware_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "delaware",
       "issue": "114"
     },
     {
@@ -206,6 +214,7 @@
     {
       "newId": "district_of_columbia_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "district_of_columbia",
       "issue": "114"
     },
     {
@@ -221,6 +230,7 @@
     {
       "newId": "georgia_us_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "georgia_us",
       "issue": "114"
     },
     {
@@ -236,6 +246,7 @@
     {
       "newId": "idaho_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "idaho",
       "issue": "114"
     },
     {
@@ -246,6 +257,7 @@
     {
       "newId": "illinois_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "illinois",
       "issue": "114"
     },
     {
@@ -256,6 +268,7 @@
     {
       "newId": "indiana_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "indiana",
       "issue": "114"
     },
     {
@@ -266,6 +279,7 @@
     {
       "newId": "iowa_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "iowa",
       "issue": "114"
     },
     {
@@ -276,6 +290,7 @@
     {
       "newId": "kansas_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "kansas",
       "issue": "114"
     },
     {
@@ -286,6 +301,7 @@
     {
       "newId": "kentucky_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "kentucky",
       "issue": "114"
     },
     {
@@ -296,6 +312,7 @@
     {
       "newId": "louisiana_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "louisiana",
       "issue": "114"
     },
     {
@@ -306,6 +323,7 @@
     {
       "newId": "maine_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "maine",
       "issue": "114"
     },
     {
@@ -321,6 +339,7 @@
     {
       "newId": "massachusetts_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "massachusetts",
       "issue": "114"
     },
     {
@@ -331,6 +350,7 @@
     {
       "newId": "michigan_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "michigan",
       "issue": "114"
     },
     {
@@ -351,6 +371,7 @@
     {
       "newId": "minnesota_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "minnesota",
       "issue": "114"
     },
     {
@@ -361,6 +382,7 @@
     {
       "newId": "mississippi_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "mississippi",
       "issue": "114"
     },
     {
@@ -371,6 +393,7 @@
     {
       "newId": "missouri_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "missouri",
       "issue": "114"
     },
     {
@@ -381,6 +404,7 @@
     {
       "newId": "montana_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "montana",
       "issue": "114"
     },
     {
@@ -391,6 +415,7 @@
     {
       "newId": "nebraska_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "nebraska",
       "issue": "114"
     },
     {
@@ -401,6 +426,7 @@
     {
       "newId": "nevada_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "nevada",
       "issue": "114"
     },
     {
@@ -411,6 +437,7 @@
     {
       "newId": "new_hampsire_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "new_hampsire",
       "issue": "114"
     },
     {
@@ -421,6 +448,7 @@
     {
       "newId": "new_jersey_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "new_jersey",
       "issue": "114"
     },
     {
@@ -431,6 +459,7 @@
     {
       "newId": "new_mexico_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "new_mexico",
       "issue": "114"
     },
     {
@@ -441,6 +470,7 @@
     {
       "newId": "new_york_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "new_york",
       "issue": "114"
     },
     {
@@ -451,6 +481,7 @@
     {
       "newId": "north_dakota_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "north_dakota",
       "issue": "114"
     },
     {
@@ -461,6 +492,7 @@
     {
       "newId": "north_carolina_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "north_carolina",
       "issue": "114"
     },
     {
@@ -471,6 +503,7 @@
     {
       "newId": "ohio_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "ohio",
       "issue": "114"
     },
     {
@@ -481,6 +514,7 @@
     {
       "newId": "oklahoma_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "oklahoma",
       "issue": "114"
     },
     {
@@ -491,6 +525,7 @@
     {
       "newId": "oregon_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "oregon",
       "issue": "114"
     },
     {
@@ -501,6 +536,7 @@
     {
       "newId": "pennsylvania_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "pennsylvania",
       "issue": "114"
     },
     {
@@ -511,6 +547,7 @@
     {
       "newId": "rhode_island_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "rhode_island",
       "issue": "114"
     },
     {
@@ -521,6 +558,7 @@
     {
       "newId": "south_dakota_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "south_dakota",
       "issue": "114"
     },
     {
@@ -531,6 +569,7 @@
     {
       "newId": "south_carolina_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "south_carolina",
       "issue": "114"
     },
     {
@@ -541,6 +580,7 @@
     {
       "newId": "tennessee_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "tennessee",
       "issue": "114"
     },
     {
@@ -551,6 +591,7 @@
     {
       "newId": "texas_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "texas",
       "issue": "114"
     },
     {
@@ -561,6 +602,7 @@
     {
       "newId": "utah_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "utah",
       "issue": "114"
     },
     {
@@ -571,6 +613,7 @@
     {
       "newId": "vermont_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "vermont",
       "issue": "114"
     },
     {
@@ -581,6 +624,7 @@
     {
       "newId": "virginia_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "virginia",
       "issue": "114"
     },
     {
@@ -591,6 +635,7 @@
     {
       "newId": "washington_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "washington",
       "issue": "114"
     },
     {
@@ -601,6 +646,7 @@
     {
       "newId": "west_virginia_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "west_virginia",
       "issue": "114"
     },
     {
@@ -611,6 +657,7 @@
     {
       "newId": "wisconsin_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "wisconsin",
       "issue": "114"
     },
     {
@@ -621,6 +668,7 @@
     {
       "newId": "wyoming_with_capital_star",
       "by": "@quincylvania",
+      "inspo": "wyoming",
       "issue": "114"
     }
   ]
