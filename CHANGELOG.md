@@ -309,7 +309,7 @@ This release contains new, renamed, and redesigned icons that may affect your se
 
 * <img src="https://pinhead.ink/v25/gumdrop_head_and_shoulders.svg" width="15px"> `gumdrop_head_and_shoulders` -> <img src="https://pinhead.ink/v26/person.svg" width="15px"> `person`
 
-### Redesigned icons (148)
+### Redesigned icons (149)
 
 * <img src="https://pinhead.ink/v25/stone_wall.svg" width="15px"> -> <img src="https://pinhead.ink/v26/stone_wall.svg" width="15px"> `stone_wall` by [@quincylvania](https://github.com/quincylvania)
 * <img src="https://pinhead.ink/v25/bowling_ball.svg" width="15px"> -> <img src="https://pinhead.ink/v26/bowling_ball.svg" width="15px"> `bowling_ball` by [@quincylvania](https://github.com/quincylvania)
@@ -411,6 +411,7 @@ This release contains new, renamed, and redesigned icons that may affect your se
 * <img src="https://pinhead.ink/v25/stomach.svg" width="15px"> -> <img src="https://pinhead.ink/v26/stomach.svg" width="15px"> `stomach` by [@quincylvania](https://github.com/quincylvania) ([#288](https://github.com/waysidemapping/pinhead/issues/288))
 * <img src="https://pinhead.ink/v25/crab.svg" width="15px"> -> <img src="https://pinhead.ink/v26/crab.svg" width="15px"> `crab` by [@quincylvania](https://github.com/quincylvania)
 * <img src="https://pinhead.ink/v25/noodle_bowl_and_chopsticks_with_noodles.svg" width="15px"> -> <img src="https://pinhead.ink/v26/noodle_bowl_and_chopsticks_with_noodles.svg" width="15px"> `noodle_bowl_and_chopsticks_with_noodles` by [@quincylvania](https://github.com/quincylvania)
+* <img src="https://pinhead.ink/v25/baguette.svg" width="15px"> -> <img src="https://pinhead.ink/v26/baguette.svg" width="15px"> `baguette` by [@quincylvania](https://github.com/quincylvania)
 * <img src="https://pinhead.ink/v25/arrow_up.svg" width="15px"> -> <img src="https://pinhead.ink/v26/arrow_up.svg" width="15px"> `arrow_up` by [@quincylvania](https://github.com/quincylvania) ([#337](https://github.com/waysidemapping/pinhead/issues/337))
 * <img src="https://pinhead.ink/v25/arrow_down.svg" width="15px"> -> <img src="https://pinhead.ink/v26/arrow_down.svg" width="15px"> `arrow_down` by [@quincylvania](https://github.com/quincylvania) ([#337](https://github.com/waysidemapping/pinhead/issues/337))
 * <img src="https://pinhead.ink/v25/arrow_left.svg" width="15px"> -> <img src="https://pinhead.ink/v26/arrow_left.svg" width="15px"> `arrow_left` by [@quincylvania](https://github.com/quincylvania) ([#337](https://github.com/waysidemapping/pinhead/issues/337))
