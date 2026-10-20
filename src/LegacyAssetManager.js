@@ -64,9 +64,6 @@ function downloadLegacyIcons(
 
   execFileSync("cp", ["-r", `${iconDir}/.`, targetDir]);
 
-  // TODO: remove this line after publishing v26 on npm
-  execFileSync("cp", ["-r", `${iconDir}/.`, join(docsDir, "latest")]);
-
   if (isCurrentMajorVersion) {
     const latestDir = join(docsDir, "latest");
     execFileSync("cp", ["-r", `${iconDir}/.`, latestDir]);

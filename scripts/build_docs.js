@@ -19,12 +19,6 @@ execFileSync("cp", [
   join(docsDir, `modules/pluralize`),
 ]);
 
-// TODO: remove this line after publishing v26 on npm
-execFileSync("cp", [
-  `metadata/id_metadata.json`,
-  join(docsDir, `id_metadata.json`),
-]);
-
 const npmPublishDates = execFileSync(
   "npm",
   ["view", "@waysidemapping/pinhead", "time", "--json"],
