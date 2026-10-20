@@ -266,6 +266,9 @@
     "antibody": {
       "super": "microbiology"
     },
+    "anus": {
+      "super": "body_part"
+    },
     "apartment_building": {
       "super": "building"
     },
@@ -1090,6 +1093,42 @@
     "crosshair": {
       "super": "target"
     },
+    "crosswalk_marking": {
+      "super": "crosswalk"
+    },
+    "crosswalk_markings_dashes": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_dots": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_ladder": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_ladder_paired": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_ladder_skewed": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_lines": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_lines_paired": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_surface": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_zebra": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_zebra_double": {
+      "super": "crosswalk_marking"
+    },
+    "crosswalk_markings_zebra_paired": {
+      "super": "crosswalk_marking"
+    },
     "crowd_of_people": {
       "super": "person"
     },
@@ -1369,6 +1408,9 @@
     },
     "faravahar": {
       "super": "religious_symbol"
+    },
+    "female_groin": {
+      "super": "groin"
     },
     "female_reproductive_system": {
       "super": "internal_organ"
@@ -2050,6 +2092,9 @@
     },
     "magnifying_glass_for_search_ui": {
       "super": "magnifying_glass"
+    },
+    "male_groin": {
+      "super": "groin"
     },
     "mammal": {
       "super": "animal"
@@ -3198,6 +3243,9 @@
     },
     "street_lamp_arm": {
       "super": "street_lamp"
+    },
+    "striped_zone": {
+      "super": "crosswalk_marking"
     },
     "stroller": {
       "super": "vehicle"
