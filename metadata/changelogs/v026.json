@@ -4274,6 +4274,12 @@
       "newId": "fish_jumping_above_cascade"
     },
     {
+      "oldId": "baguette",
+      "newId": "baguette",
+      "edit": "minor",
+      "by": "@quincylvania"
+    },
+    {
       "oldId": "golf_green",
       "newId": "flagstick_with_pennant_in_hole_on_golf_green"
     },
