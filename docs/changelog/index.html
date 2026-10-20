@@ -74,7 +74,7 @@
           .toReversed()
           .map(
             (changelog) =>
-              `<h2>Pinhead v${changelog.majorVersion} ${currentVersion === changelog.majorVersion ? "(latest)" : ""}— ${changelog.date}</h2>` +
+              `<h2 id="v${changelog.majorVersion}">Pinhead v${changelog.majorVersion} ${currentVersion === changelog.majorVersion ? "(latest)" : ""}— ${changelog.date}</h2>` +
               describer.getChangelogBodyHtml(changelog),
           )
           .join(""),

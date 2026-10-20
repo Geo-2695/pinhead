@@ -8,10 +8,8 @@ import {
 } from "fs";
 import { readFile } from "fs/promises";
 import { join, parse } from "path";
-import { ChangelogDescriber } from "../src/ChangelogDescriber.js";
 import { downloadExternalSourceAssets } from "../src/ExternalSourceManager.js";
 import { downloadLegacyAssets } from "../src/LegacyAssetManager.js";
-import TurndownService from "turndown";
 import sharp from "sharp";
 
 const version = JSON.parse(readFileSync("package.json")).version;
@@ -20,14 +18,6 @@ const currentMajorVersion = version.split(".")[1];
 const importSources = JSON.parse(
   readFileSync("metadata/external_sources.json"),
 );
-const describer = new ChangelogDescriber(importSources, "https://pinhead.ink");
-const turndownService = new TurndownService();
-turndownService.addRule("keepImagesAsHtml", {
-  filter: "img",
-  replacement: (_content, node) => {
-    return node.outerHTML;
-  },
-});
 
 const iconFilesById = {};
 
@@ -119,10 +109,6 @@ async function validateChangelogs(srcChangelogsPattern, destDir) {
     formatChangelog(changelog);
     writeFileSync(file, JSON.stringify(changelog, null, 2));
     changelogsOut.push(changelog);
-
-    if (file === files[files.length - 1]) {
-      printTextForChangelog(changelog);
-    }
   }
 
   for (const idInChangelog in iconsById) {
@@ -398,14 +384,6 @@ async function validateIconChange(iconChange, versionChangelog, iconsById) {
     iconsById[iconChange.newId] = true;
   }
   return true;
-}
-
-function printTextForChangelog(changelog) {
-  console.log(`## [${changelog.majorVersion}] - ${changelog.date}`);
-  console.log("");
-  const changelogHtml = describer.getChangelogBodyHtml(changelog);
-  const changelogMarkdown = turndownService.turndown(changelogHtml);
-  console.log(changelogMarkdown);
 }
 
 function getSvg(svgPath) {
