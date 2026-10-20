@@ -22,7 +22,7 @@ _Pinhead v26_
 
 This release contains new, renamed, and redesigned icons that may affect your setup. A machine-readable version of this changelog can be found in the `changelog.json` file included in the distribution. For a simple mapping of old IDs to new IDs, see `id_upgrades.json`.
 
-Visit [https://pinhead.ink/changelog/#v26](https://pinhead.ink/changelog/#v26) for the full list of icon changes in this version.
+Visit [pinhead.ink/changelog/#v26](https://pinhead.ink/changelog/#v26) for the full list of icon changes in this version.
 
 ## [15.25.0] - 2026-07-04
 
